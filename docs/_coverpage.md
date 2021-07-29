@@ -2,11 +2,12 @@
 
 # 米饭文档
 
-> 使用Vue全家桶+Node.js搭建的小型全栈项目.
+> 米饭制作 Minecraft插件文档大全.
 
-* 前端框架：vue-cli、vue-router、axios、vuex
-* UI类库：Mint-UI、Vant
-* 后端数据接口：Express、MongoDB
+* [PlayerTitle](https://www.mcbbs.net/thread-1004671-1-1.html "点击进入")
+* [PlayerIntensify](https://www.mcbbs.net/thread-1198166-1-1.html "点击进入")
+* [PlayerTask](https://www.mcbbs.net/thread-1084534-1-1.html "MCBBS")
+* [PlayerFatigue](https://www.mcbbs.net/thread-1101322-1-1.html "MCBBS")
 
-[GitHub](https://github.com/Hanxueqing/Douban-Movie.git)
+[GitHub](https://github.com/handy-git/rice-doc.git)
 [Get Started](#米饭插件列表)
