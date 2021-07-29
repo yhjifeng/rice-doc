@@ -9,6 +9,18 @@
 
 1. 主页和文档的页面托管于[github](https://www.github.com/) ，域名`ljxmc.top`自己持有。
 
+## 文档结构
+
+- docs
+  - PlayerTitle
+    - en_US
+    - zh_CN
+      - _sidebar.md
+      - README.md
+      - command.md
+      - PlaceholderAPI
+    - zh_TW
+    
 ## 贡献
 
 如果你想参与文档的编辑和修改文档内容  
