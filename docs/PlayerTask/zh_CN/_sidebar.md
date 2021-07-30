@@ -1,5 +1,3 @@
-<!-- docs/PlayerTask/zh_CN/_sidebar.md -->
-
 # PlayerTask
 * [首页](PlayerTask/zh_CN/README)
 * [**命令和权限**](PlayerTask/zh_CN/command)
@@ -8,5 +6,6 @@
 * [**击杀任务**](PlayerTask/zh_CN/kill)
 * [**NPC任务**](PlayerTask/zh_CN/npc)
 * [**更新记录**](PlayerTask/zh_CN/log)
+* [**图片展示**](PlayerTask/zh_CN/img)
 * [**常见问题**](PlayerTask/zh_CN/problem)
 * [**公开版和完全版**](PlayerTask/zh_CN/note)

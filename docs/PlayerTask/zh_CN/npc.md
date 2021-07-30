@@ -33,3 +33,8 @@ npc任务的逻辑是:
 注意: 点击删除后会把玩家接过的该任务也同步删除掉
 ```
 
+[![WXefIJ.png](https://z3.ax1x.com/2021/07/30/WXefIJ.png)](https://imgtu.com/i/WXefIJ)
+[![WXeIR1.png](https://z3.ax1x.com/2021/07/30/WXeIR1.png)](https://imgtu.com/i/WXeIR1)
+[![WXe5GR.png](https://z3.ax1x.com/2021/07/30/WXe5GR.png)](https://imgtu.com/i/WXe5GR)
+[![WXeoxx.png](https://z3.ax1x.com/2021/07/30/WXeoxx.png)](https://imgtu.com/i/WXeoxx)
+
