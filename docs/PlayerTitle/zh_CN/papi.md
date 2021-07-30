@@ -1,4 +1,4 @@
-<!-- docs/PlayerTitle/zh_CN/PlaceholderAPI.md -->
+<!-- docs/PlayerTitle/zh_CN/papi.md -->
 
 ## 一、相关信息
 本插件目前注册的PAPI变量(需:PlaceholderAPI)
