@@ -12,7 +12,6 @@
 * [**常见问题**](PlayerTitle/zh_CN/problem)
 * [**公开版和完全版**](PlayerTitle/zh_CN/note)
 * [**api文档**](PlayerTitle/zh_CN/api)
-### 新增buff教程
 * [**AttributePlus支持**](PlayerTitle/zh_CN/ap)
 * [**SX-Attribute支持**](PlayerTitle/zh_CN/sx)
 * [**原版药水(PotionEffect)支持支持**](PlayerTitle/zh_CN/PotionEffect)

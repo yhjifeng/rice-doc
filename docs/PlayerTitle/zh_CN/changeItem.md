@@ -1,4 +1,4 @@
-###作用:
+### 作用:
 - 多物品兑换称号卡
 - 随机称号卡,多种类称号卡,普通称号卡,给你的玩家一份rpg的全新玩法
 
@@ -12,7 +12,7 @@
   /plt changeItem 1 0 1
   [![WXV1dH.png](https://z3.ax1x.com/2021/07/30/WXV1dH.png)](https://imgtu.com/i/WXV1dH)
 
-#####随机称号卡
+##### 随机称号卡
 1. /plt randomCard [天数] (类型)
 - 例如: /plt randomCard 0 可获取的一个永久使用的随机称号
 

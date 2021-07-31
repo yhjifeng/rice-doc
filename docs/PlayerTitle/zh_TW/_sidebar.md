@@ -10,7 +10,6 @@
 * [**常見問題**](PlayerTitle/zh_TW/problem)
 * [**公開版和完全版**](PlayerTitle/zh_TW/note)
 * [**api文檔**](PlayerTitle/zh_TW/api)
-### 新增buff教程
 * [**AttributePlus支持**](PlayerTitle/zh_TW/ap)
 * [**SX-Attribute支持**](PlayerTitle/zh_TW/sx)
 * [**原版藥水(PotionEffect)支持支持**](PlayerTitle/zh_TW/PotionEffect)

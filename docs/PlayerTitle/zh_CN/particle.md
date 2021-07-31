@@ -1,10 +1,10 @@
 ## 2.3.0+版本震撼更新称号粒子特效功能
 
-####1.8-1.15可选免费前置插件
+#### 1.8-1.15可选免费前置插件
 - [MCBBS搬运贴 SuperTrails](https://www.mcbbs.net/thread-592015-1-1.html "SuperTrails")
 - [原帖 SuperTrails](https://www.spigotmc.org/resources/supertrails.1879/ "原帖")
 
-####1.8-1.16可选付费前置插件(粒子更多)
+### 1.8-1.16可选付费前置插件(粒子更多)
 >购买称号插件PlayerTitle完全版送SuperTrailsPro完整汉化  
 也可帮原价代购SuperTrailsPro插件或者任何插件
 

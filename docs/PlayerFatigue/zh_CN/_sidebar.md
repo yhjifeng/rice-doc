@@ -1,5 +1,3 @@
-<!-- docs/PlayerFatigue/zh_CN/_sidebar.md -->
-
 # PlayerFatigue
 * [首页](PlayerFatigue/zh_CN/README)
 * [**命令和权限**](PlayerFatigue/zh_CN/command)

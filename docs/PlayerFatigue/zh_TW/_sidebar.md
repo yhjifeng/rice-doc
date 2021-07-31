@@ -1,4 +1,3 @@
-
 # PlayerFatigue
 * [首頁](PlayerFatigue/zh_TW/README)
 * [**命令和權限**](PlayerFatigue/zh_TW/command)
