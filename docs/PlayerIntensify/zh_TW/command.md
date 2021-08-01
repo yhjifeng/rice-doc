@@ -10,6 +10,7 @@
 | playerintensify.giveprotectioncard  | 獲取強化保護券  | op |
 | playerintensify.probability  | 測試強化概率  | op |
 | playerintensify.createhd  | 創建強化排行全息圖  | op |
+| playerintensify.givesecretmedicines| 獲取強化秘藥|op|
 
 ## 指令:
 |  指令 | 用途  |
@@ -21,3 +22,4 @@
 |/plis giveProtectionCard [數量]   |      給對應玩家數量的強化保護券|
 |/plis probability  [等級]           |    測試當前強化概率|
 |/plis createHd                      |    創建全息圖強化排行(需HolographicDisplays)|
+|/plis giveSecretMedicines [數量]   |      獲取強化秘藥|
