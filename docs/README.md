@@ -16,9 +16,10 @@
     - en_US
     - zh_CN
       - _sidebar.md
-      - README.md
-      - command.md
-      - PlaceholderAPI
+      - add.md
+      - ap.md
+      - api.md
+      - .....
     - zh_TW
     
 ## 贡献
