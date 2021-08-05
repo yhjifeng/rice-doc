@@ -11,6 +11,9 @@
 | playerintensify.probability  | 测试强化概率  | op |
 | playerintensify.createhd  | 创建强化排行全息图  | op |
 | playerintensify.givesecretmedicines| 获取强化秘药|op|
+| playerintensify.up| 提升强化等级|op|
+| playerintensify.adminUp| 强行设置强化等级|op|
+| playerintensify.giveIntensifyCard| 获取强化券|op|
 
 ## 指令:
 |  指令 | 用途  |
@@ -23,3 +26,28 @@
 |/plis probability  [等级]           |    测试当前强化概率|
 |/plis createHd                      |    创建全息图强化排行(需HolographicDisplays)|
 |/plis giveSecretMedicines [数量]   |      获取强化秘药|
+|/plis up   |      提升强化等级|
+|/plis adminUp    |      强行设置强化等级|
+|/plis giveIntensifyCard [类型] [等级] [数量]   |      获取强化券|
+
+#### 强化券类型
+```
+# 强化券类型  -> 默认概率 例如 iron_ingot 概率为百分之1
+# iron_ingot -> 1
+# bronze -> 5
+# bai_yin -> 10
+# gold_ingot -> 30
+# platinum -> 50
+# emerald -> 70
+# diamond -> 90
+# intensify_card -> 100
+intensifyCardType:
+    iron_ingot: "&5黑铁装备强化券"
+    bronze: "&5青铜装备强化券"
+    bai_yin: "&5白银装备强化券"
+    gold_ingot: "&5黄金装备强化券"
+    platinum: "&5铂金装备强化券"
+    emerald: "&5翡翠装备强化券"
+    diamond: "&5钻石装备强化券"
+    intensify_card: "&5装备强化券"
+```

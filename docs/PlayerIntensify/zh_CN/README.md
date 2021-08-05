@@ -23,7 +23,6 @@
 
 ## 二、相关信息
 插件发布帖：[MCBBS](https://www.mcbbs.net/thread-1198166-1-1.html "MCBBS")  
-网盘下载: [点击下载](https://pan.baidu.com/s/1FK6ScBiIwG9R-d5olhRJ8Q  "点击下载")  提取码: c9ua  
 交流群1064982471: [点击加入](https://jq.qq.com/?_wv=1027&k=5sxTf8u "点击加入")
 
 ## 三、插件使用统计
