@@ -8,6 +8,7 @@
 * [PlayerIntensify](https://www.mcbbs.net/thread-1198166-1-1.html "点击进入")
 * [PlayerTask](https://www.mcbbs.net/thread-1084534-1-1.html "MCBBS")
 * [PlayerFatigue](https://www.mcbbs.net/thread-1101322-1-1.html "MCBBS")
+* [PlayerRace](https://www.mcbbs.net/thread-1149860-1-1.html "MCBBS")
 
 [GitHub](https://github.com/handy-git/rice-doc.git)
 [Get Started](#米饭插件列表)

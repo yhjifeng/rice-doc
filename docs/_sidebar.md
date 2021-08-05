@@ -6,3 +6,4 @@
 * [**PlayerTask**](PlayerTask/)
 * [**PlayerIntensify**](PlayerIntensify/)
 * [**PlayerFatigue**](PlayerFatigue/)
+* [**PlayerRace**](PlayerRace/)
