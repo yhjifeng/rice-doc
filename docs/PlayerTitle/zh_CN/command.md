@@ -33,6 +33,7 @@
 | playertitle.convert  | 转换数据源 | op |
 | playertitle.custom| 玩家自定义称号 | 所有|
 | playertitle.setCustom| 设置玩家可以自定义称号次数 |op|
+| playertitle.del| 删除称号 |op|
 
 ## 指令(管理员):
 |  指令 | 用途  |
@@ -61,6 +62,7 @@
 |/plt convert [类型] | 转换数据源，类型mysql或者sqlite|
 |/plt custom [称号名称]| 设置自定义称号gui |
 |/plt setCustom [玩家名称] [可自定义次数] | 设置玩家可以自定义的次数 |
+|/plt del [id] | 指令删除称号，同时会删除玩家拥有的该称号 |
 
 |[]为必填参数;()为非必填参数|
 
