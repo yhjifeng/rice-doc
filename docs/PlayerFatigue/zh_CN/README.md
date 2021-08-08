@@ -23,8 +23,7 @@
 ------------
 
 ## 二、相关信息
-插件发布帖：[MCBBS](https://www.mcbbs.net/thread-1101322-1-1.html "MCBBS")  [米饭论坛](http://bbs.ljxmc.top/topic/detail/1 "原帖地址")  
-网盘下载: [百度网盘](https://pan.baidu.com/s/1_7oUve8meivQDuof44O8PQ "百度网盘")   提取码: 4suw  
+插件发布帖：[MCBBS](https://www.mcbbs.net/thread-1101322-1-1.html "MCBBS")  
 交流群1064982471: [点击加入](https://jq.qq.com/?_wv=1027&k=5sxTf8u "点击加入")
 
 ## 三、插件使用统计
