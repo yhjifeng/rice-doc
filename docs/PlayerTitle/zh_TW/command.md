@@ -1,3 +1,5 @@
+<!-- docs/PlayerTitle/zh_CN/command.md -->
+
 ## 權限
 ##### 本插件默認無需配置任何權限,服主開箱即用
 ##### 很多下面涉及都類型不知道的 低版本請使用tab提醒,1.12以上會自動提醒
@@ -31,6 +33,7 @@
 | playertitle.convert  | 轉換數據源 | op |
 | playertitle.custom| 玩家自定義稱號 | 所有|
 | playertitle.setCustom| 設置玩家可以自定義稱號次數 |op|
+| playertitle.del| 刪除稱號 |op|
 
 ## 指令(管理員):
 |  指令 | 用途  |
@@ -59,6 +62,7 @@
 |/plt convert [類型] | 轉換數據源，類型mysql或者sqlite|
 |/plt custom [稱號名稱]| 設置自定義稱號gui |
 |/plt setCustom [玩家名稱] [可自定義次數] | 設置玩家可以自定義的次數 |
+|/plt del [id] | 指令刪除稱號，同時會刪除玩家擁有的該稱號 |
 
 |[]為必填參數;()為非必填參數|
 
