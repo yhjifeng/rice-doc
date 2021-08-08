@@ -43,7 +43,6 @@
 
 ## 二、相关信息
 插件发布帖：[MCBBS](https://www.mcbbs.net/thread-1004671-1-1.html "点击进入")  [米饭论坛](https://bbs.ljxmc.top/topic/detail/4 "米饭论坛")  
-网盘下载:[点击下载](https://pan.baidu.com/s/1kCUHRVxwXJcb_Mm-I0MYYw  "点击下载") 提取码:s6b3  
 交流群1064982471: [点击加入](https://jq.qq.com/?_wv=1027&k=5sxTf8u "点击加入")
 
 ## 三、插件使用统计

@@ -42,7 +42,6 @@
 
 ## 二、相關信息
 插件發布帖：[MCBBS](https://www.mcbbs.net/thread-1004671-1-1.html "點擊進入")  [米飯論壇](https://bbs.ljxmc.top/topic/detail/4 "米飯論壇")  
-網盤下載:[點擊下載](https://pan.baidu.com/s/1kCUHRVxwXJcb_Mm-I0MYYw  "點擊下載") 提取碼:s6b3  
 交流群1064982471: [點擊加入](https://jq.qq.com/?_wv=1027&k=5sxTf8u "點擊加入")
 
 ## 三、插件使用統計

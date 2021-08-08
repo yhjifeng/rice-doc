@@ -1,9 +1,8 @@
 ### 1. 杀怪掉落知识之书(1.12以上,概率配置中自己设置)
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0106/164800_e7db3dea_1604115.png "1.png")
+[![fQxX2n.png](https://z3.ax1x.com/2021/08/08/fQxX2n.png)](https://imgtu.com/i/fQxX2n)
 ### 2. 使用知识之书,解锁合成配方
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0106/164809_4c11f54c_1604115.png "2.png")
+[![fQxxK0.png](https://z3.ax1x.com/2021/08/08/fQxxK0.png)](https://imgtu.com/i/fQxxK0)
 ### 3. 进行合成
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0106/164818_6b5f6368_1604115.png "3.png")
-![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/69db2e88fb2deb9520514cded5b57ea0?showdoc=.jpg)
+[![fQxO8s.png](https://z3.ax1x.com/2021/08/08/fQxO8s.png)](https://imgtu.com/i/fQxO8s)
 ### 4. 喝下去
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0106/164824_438f4e73_1604115.png "4.png")
+[![fQxLCj.png](https://z3.ax1x.com/2021/08/08/fQxLCj.png)](https://imgtu.com/i/fQxLCj)

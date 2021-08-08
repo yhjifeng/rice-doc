@@ -26,7 +26,7 @@
 | playertitle.open  | 打开称号仓库gui | 全部 |
 | playertitle.settitleparticle  | 给称号添加粒子效果 | op |
 | playertitle.removetitleparticle  | 删除称号粒子效果 | op |
-|/playertitle.setdescription  | 给称号添加描述 | op |
+| playertitle.setdescription  | 给称号添加描述 | op |
 | playertitle.listtitle  | 查询全部称号 | op |
 | playertitle.adminshop  | 管理称号商城 | op |
 | playertitle.delbuff  | 删除buff | op |

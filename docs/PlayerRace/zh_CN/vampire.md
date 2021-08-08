@@ -41,5 +41,5 @@
 ```
 
 ### 截图说明
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0106/164931_ae845553_1604115.png "11.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0106/164922_36dd63ab_1604115.png "12.png")
+[![fQxzrV.png](https://z3.ax1x.com/2021/08/08/fQxzrV.png)](https://imgtu.com/i/fQxzrV)
+[![fQxjvq.png](https://z3.ax1x.com/2021/08/08/fQxjvq.png)](https://imgtu.com/i/fQxjvq)

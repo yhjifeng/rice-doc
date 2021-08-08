@@ -17,12 +17,10 @@
 ------------
 
 ## 二、相关信息
-插件发布帖：[MCBBS](https://www.mcbbs.net/thread-1149860-1-1.html "MCBBS")
+插件发布帖：[MCBBS](https://www.mcbbs.net/thread-1149860-1-1.html "MCBBS")  
 gitee下载: [直接下载](https://gitee.com/handy-git/PlayerRace/releases "直接下载")  
 交流群1064982471: [点击加入](https://jq.qq.com/?_wv=1027&k=5sxTf8u "点击加入")  
 开源地址: [gitee](https://gitee.com/handy-git/PlayerRace "gitee")   
-希望如果帮到了您,可以注册个gitee帐号给我点个赞支持
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0106/164955_ad1efac2_1604115.png "13.png")
 
 ## 三、插件使用统计
 ![](https://bstats.org/signatures/bukkit/PlayerRace.svg)

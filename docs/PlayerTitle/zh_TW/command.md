@@ -24,7 +24,7 @@
 | playertitle.open  | 打開稱號倉庫gui | 全部 |
 | playertitle.settitleparticle  | 給稱號添加粒子效果 | op |
 | playertitle.removetitleparticle  | 刪除稱號粒子效果 | op |
-|/playertitle.setdescription  | 給稱號添加描述 | op |
+| playertitle.setdescription  | 給稱號添加描述 | op |
 | playertitle.listtitle  | 查詢全部稱號 | op |
 | playertitle.adminshop  | 管理稱號商城 | op |
 | playertitle.delbuff  | 刪除buff | op |
