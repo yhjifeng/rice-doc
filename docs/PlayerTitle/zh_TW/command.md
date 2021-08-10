@@ -70,6 +70,8 @@
 因為問的人太多了,所以我就寫在這裏
 刪除稱號請輸入/plt view shop 或者/plt adminShop查看
 涉及到 是否的  都是傳 true/false
+
+/plt view open [玩家名] 可以對玩家的稱號刪除
 ```
 
 ## 指令(玩家):
