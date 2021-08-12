@@ -1,5 +1,16 @@
-<!-- docs/PlayerTitle/en_US/_sidebar.md -->
-
 # PlayerTitle
-* [首页](PlayerTitle/en_US/README)
-* [**命令和权限**](PlayerTitle/en_US/command)
+* [Home](PlayerTitle/en_US/README)
+* [**Commands and permissions**](PlayerTitle/en_US/command)
+* [**PlaceholderAPIVariablesComplete**](PlayerTitle/en_US/papi)
+* [**Added titles**](PlayerTitle/en_US/add)
+* [**Particle effects**](PlayerTitle/en_US/particle)
+* [**How to make a nice RGB title**](PlayerTitle/en_US/rgb)
+* [**Title card system**](PlayerTitle/en_US/changeItem)
+* [**Update log**](PlayerTitle/en_US/log)
+* [**FAQ**](PlayerTitle/en_US/problem)
+* [**public and full versions**](PlayerTitle/en_US/note)
+* [**api documentation**](PlayerTitle/en_US/api)
+* [**AttributePlus support**](PlayerTitle/en_US/ap)
+* [**SX-Attribute support**](PlayerTitle/en_US/sx)
+* [**Original Potion(PotionEffect) Support Support**](PlayerTitle/en_US/PotionEffect)
+  
