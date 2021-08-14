@@ -1,44 +1,38 @@
-<! -- docs/PlayerTitle/zh_CN/README.md -->
 
 # Preface
-> PlayerTitle is available in **Open**/**Full** versions after version 2.0.0.  
-**Open Edition** can only have 100 titles at the same time  
-**Full Version** No restrictions at all, one purchase is permanent, priority is given to suggestions  
-As for why I get this paid version, because I also want to eat well, the public version and the full version of the difference between the above a little  
-The full version of how to get? | The actual fact is that you can find a lot of people who have been in the business for a long time.
+>PlayerTitle is divided into Public version/Full version after version 2.0.0  
+The Public version can only have 100 titles at the same time (Free, no need to pay).  
+BUT, the Full version will have no functional limitations, one purchase will take effect forever, and I will also give priority to adopting suggestions from you!
+
 
 
 ------------
 ## I. Introduction
-> PlayerTitle is a somewhat good player title plug-in  
-It allows players to create titles and use the title management gui to manage titles through simple commands  
-Players use the Title Store gui and Title Warehouse gui to purchase and use titles
+>The administrator use simple instructions to create titles and use title management gui for title management.  
+Players use the title store gui and title warehouse gui to purchase and use titles.
 
-This plug-in was developed independently by me (MCBBS Forum ID:**ヽ Rice**).
-
+The plugin functions are as follows:
 ------------
-1. support **mysql** and local **sqlite** storage
-2. comes with **title store**, can open different title store according to the type
-3. comes with **title management** gui page
-4. with **title store**
-5. with **title quantity reward** function, and with gui management
-4. get **designated ordinary title card** function, players can use the title card to get the corresponding number of days of the title
-5. get ** random title card ** function, a variety of types, randomly given
-5. support diverse purchase methods **Gold Coins** (Vault), **Points** (PlayerPoints), **Any Item**, **Title Coins** **Permission** **Events** to buy title transactions
-6. support title **limited time sale** and **permanent sale**
-7. message text and lore** can be customized ** ninety-nine percent
-8. performance optimization, running well on multiple services, can be viewed through timings on
-9. support variables **PlaceholderAPI**
-10. delete the title itself, will automatically be associated with the deletion of the title and the title buffs that the player has purchased
-11. delete the title buff, will automatically be associated with the removal of the player purchased the title buff
-12. title store display optimization, ** players purchased the title only to the player hidden **
-13. support switch to display the title when chatting
-14. support switch tab title and the player's head title display
-15. each title buff can be customized 1 or more, currently supports **AttributePlus** and **SX-Attribute** plug-in attribute tags, and with **monster truce buff** function, **original potion** effect 4 title buff types
-16. customizable title after the acquisition of **get message **, support bar and msg and title message type (2.4.6 +)
-17. customizable **material** of each title (2.4.5+)
-18. customizable **particle effects** for each title (2.3.0+)
-18. multi-language type, support simple Chinese; traditional Chinese; English, welcome to provide multiple language text to me
+1. Support mysql and local sqlite storage
+2. "Title Shop", players can use the GUI interface to buy titles (also has a classification function!)
+3. "Management interface", the administrator can use the GUI symmetry number to quickly modify (for example: title price, title name, title description, etc.)
+4. "Title Warehouse", players can use the GUI interface to quickly choose which title to use
+5. "Quantity Reward", when the player's title reaches a certain value, he will get a collection reward, and you can use the GUI to manage this function
+6. "Title Card", players can use the title card to get the title
+7. “Random title card”, giving the player a random title, which also supports customization!
+8. You can set a variety of purchase methods to purchase titles: Vault, PlayerPoints, certain items, "title coins", certain permissions, manual grants, etc.
+9. You can set a certain title to be sold for a limited time or forever, which will make some titles worth collecting (such as: 2021 Christmas limited title)
+10. 99% of the message text and lore can be customizedPerformance optimization
+11. Efficient, it runs well on a large number of servers, you can check its surprisingly low memory usage through timings on
+12. Support PlaceholderAPI
+13. Optimized the display of the title-store. The title purchased by the player is only hidden from the player, avoiding the player who has already purchased the title from buying that title again
+14. Players can set whether to display their title when chatting
+15. The title can be displayed on the TAB and the top of the player’s head, which also supports customization
+16. You can customize one or more buffs for each title. Currently, it supports the attribute tags of AttributePlus and SX-Attribute plug-ins, as well as the buff function of truce with monsters, and the original potion effect. A total of 4 types of title buffs
+17. You can customize the acquisition message after the title is acquired, and support bar, msg and title message types (for example: Congratulations on getting the title of "Adventurer"!)
+18. The material displayed in the "title management GUI" for each title can be customized
+19. You can customize the particle effects of each title in the wearing state
+Multi-language type, support Simplified Chinese、Traditional Chinese、English, welcome everyone to provide me with texts in multiple languages
 ------------
 
 ## II. Related information
