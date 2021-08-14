@@ -5,6 +5,13 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+### 1.1.9
+**August 14, 2021:**
+1. **Fix** Vampires will now burn properly
+
+**1.1.9 Upgrade Assistant**
+- Language and configuration files have not changed, directly replace the jar can
+
 ### 1.1.8
 **July 26th, 2021:**
 1. **Optimized** Compatible with version 1.17
