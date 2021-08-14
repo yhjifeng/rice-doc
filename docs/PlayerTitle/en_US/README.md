@@ -1,10 +1,7 @@
-
 # Preface
 >PlayerTitle is divided into Public version/Full version after version 2.0.0  
 The Public version can only have 100 titles at the same time (Free, no need to pay).  
 BUT, the Full version will have no functional limitations, one purchase will take effect forever, and I will also give priority to adopting suggestions from you!
-
-
 
 ------------
 ## I. Introduction
