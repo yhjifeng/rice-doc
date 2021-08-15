@@ -15,4 +15,4 @@
 * [**AttributePlus支持**](PlayerTitle/zh_CN/ap)
 * [**SX-Attribute支持**](PlayerTitle/zh_CN/sx)
 * [**原版药水(PotionEffect)支持支持**](PlayerTitle/zh_CN/PotionEffect)
-  
+* [**云服务商黑名单**](PlayerTitle/zh_CN/blacklist)
