@@ -8,6 +8,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.8.1
+**08/18/2021**
+1. **Fix** hotload plugin causes multiple null in front of the name
+2. **FIX** A bug (because announcing it will cause players to know, so do not announce it, but the bug affects badly, please use the item exchange title of the rotten bamboo must upgrade)
+
+#### 2.8.1 update small assistant
+- Language file added content, please be sure to regenerate the new
+
 #### 2.8.0
 **08/2021**
 1. **New** custom title length limit
