@@ -124,3 +124,62 @@ isTab 显示tab称号和头顶称号这个小功能跟计分板插件冲突
 或者/plt adminShop 里删除对应的称号，都会自动删除玩家拥有的该称号
 2. 使用/plt add 新增个一样的称号 (可选)
 ```
+
+### 17. MiaoChat插件中如何使用变量来显示称号
+config.yml配置
+```
+#配置文件版本号 请勿修改
+Version: 1.8.5
+
+#BC跨服模式
+BungeeCord: false
+#当前服务器名称(变量为%mct_server%)
+Server: '§a生存服'
+#格式列表
+Formats:
+  #格式名称
+  default: 
+    #优先级(将按照从小到大依次检测 比如 1-50 优先检测 1 符合则显示 不符合 检测 2 ...)
+    index: 50
+    #权限
+    permission: 'MiaoChat.default'
+    #范围(0为无限制)
+    range: 0
+    #聊天格式([xxx]会调用format.yml下的对应格式)
+    format: '[title] [player]&f: '
+    #解析物品(%i=>手上物品,%0-9快捷栏对应物品)
+    item: true
+    #物品解析规则
+    itemformat: '&6[&b%s&6]&r'
+  #格式名称
+  admin: 
+    #优先级(将按照从小到大依次检测 比如 1-50 优先检测 1 符合则显示 不符合 检测 2 ...)
+    index: 49
+    #权限
+    permission: 'MiaoChat.admin'
+    #聊天格式([xxx]会调用format.yml下的对应格式)
+    format: '[title] [player]&f: '
+    #范围(0为无限制)
+    range: 0
+    #解析物品(%i=>手上物品,%0-9快捷栏对应物品)
+    item: true
+    #物品解析规则
+    itemformat: '&6[&b%s&6]&r'
+```
+format.yml配置
+```
+#当前文件为定义格式的基础文件
+player: 
+  text: '&f%player_name%'
+  tip: 
+  - '&r
+  - '&6▶ &e点击发送传送请求'
+  click: 
+    type: 'SUGGEST'
+    command: '/tpa %player_name%'
+title:
+  text: '%playerTitle_use%'
+  tip: 
+  - '&8▪ &6称号数量: %playerTitle_number%'
+  - '&8▪ &6称号币数量: %playerTitle_number%'
+```
