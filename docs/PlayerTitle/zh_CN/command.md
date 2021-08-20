@@ -68,7 +68,7 @@
 
 ```
 删除称号请输入/plt view shop 或者/plt adminShop查看
-涉及到 是否的  都是传 true/false
+涉及到 是否的 都是传 true/false
 
 /plt view open [玩家名] 可以对玩家的称号删除
 
@@ -82,7 +82,13 @@ setTitleBuff 的类型包含：
 
 属性标签 例如： 物理伤害:100 如果需要空格可以用#替换
 
-例子：/plt settitlebuff 1 attributePlus &e物理伤害:#&c100
+例子：
+/plt settitlebuff 1 attributePlus &e物理伤害:#&c100
+/plt settitlebuff 1 sxAttribute &e物理伤害:#&c100
+/plt settitlebuff 1 monsterTruce all
+/plt setTitleBuff 1 potionEffect [药水类型] [药水等级] [是否显示粒子效果]
+药水类型请tab提醒
+/plt settitlebuff 1 playerIntensify &e增加强化概率:6
 ```
 
 ## 指令(玩家):
