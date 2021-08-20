@@ -65,11 +65,24 @@
 |[] is a required parameter; () is a non-required parameter|
 
 ```
-Because there are too many people asking, I'll write it here
-To delete a title, please enter /plt view shop or /plt adminShop to view it
-When it comes to whether to pass true/false
+To delete the title, please enter /plt view shop or /plt adminShop to view
+Pass true/false when it comes to whether
 
-/plt view open [player name] can delete a player's title
+/plt view open [player name] can delete the player's title
+
+/plt settitlebuff [title id] [type] [attribute tag]
+The type of setTitleBuff contains.
+1. attributePlus: "ap attribute" [requires prefix AttributePlus]
+2. sxAttribute: "sx attribute" [requires prefix SX-Attribute]
+3. monsterTruce: "monster truce" [requires prefix 
+potionEffect: "Potion effect" 5.
+5. playerIntensify: "Reinforcement Effect" [requires pre-requisite PlayerIntensify]
+
+Attribute tag e.g.: physical damage:100 If you need a space you can replace it with #
+
+Example: /plt settitlebuff 1 attributePlus &e physical damage:#&c100
+
+Translated with www.DeepL.com/Translator (free version)
 ```
 
 ## Command (player):

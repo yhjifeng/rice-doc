@@ -67,11 +67,22 @@
 |[]為必填參數;()為非必填參數|
 
 ```
-因為問的人太多了,所以我就寫在這裏
 刪除稱號請輸入/plt view shop 或者/plt adminShop查看
 涉及到 是否的  都是傳 true/false
 
 /plt view open [玩家名] 可以對玩家的稱號刪除
+
+/plt settitlebuff [稱號id] [類型] [屬性標簽]
+setTitleBuff 的類型包含：
+1. attributePlus: "ap屬性" [需要前置 AttributePlus]
+2. sxAttribute: "sx屬性" [需要前置 SX-Attribute]
+3. monsterTruce: "怪物休戰" 
+4. potionEffect: "藥水效果"
+5. playerIntensify: "強化效果" [需要前置 PlayerIntensify]
+
+屬性標簽 例如： 物理傷害:100 如果需要空格可以用#替換
+
+例子：/plt settitlebuff 1 attributePlus &e物理傷害:#&c100
 ```
 
 ## 指令(玩家):
