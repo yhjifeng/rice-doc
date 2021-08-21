@@ -72,17 +72,21 @@ Pass true/false when it comes to whether
 
 /plt settitlebuff [title id] [type] [attribute tag]
 The type of setTitleBuff contains.
-1. attributePlus: "ap attribute" [requires prefix AttributePlus]
-2. sxAttribute: "sx attribute" [requires prefix SX-Attribute]
-3. monsterTruce: "monster truce" [requires prefix 
-potionEffect: "Potion effect" 5.
-5. playerIntensify: "Reinforcement Effect" [requires pre-requisite PlayerIntensify]
+1. attribute_plus: "ap attribute" [requires prefix AttributePlus]
+2. sx_attribute: "sx attribute" [requires prefix SX-Attribute]
+3. monster_truce: "monster truce" 
+4. potion_effect: "Potion effect" 5.
+5. player_intensify: "Intensify effect" [Requires previous PlayerIntensify]
 
-Attribute tag e.g.: physical damage:100 If you need a space you can replace it with #
+Attribute tag e.g.: physical_damage:100 If you need a space you can replace it with #
 
-Example: /plt settitlebuff 1 attributePlus &e physical damage:#&c100
-
-Translated with www.DeepL.com/Translator (free version)
+Example
+/plt settitlebuff 1 attribute_plus &e physical damage:#&c100
+/plt settitlebuff 1 sx_attribute &ePhysical damage:#&c100
+/plt settitlebuff 1 monster_truce all
+/plt setTitleBuff 1 potion_effect [potion type] [potion level] [whether to show particle effect]
+Potion type please tab reminder
+/plt settleTitlebuff 1 player_intensify &e increases the probability of reinforcement:6
 ```
 
 ## Command (player):

@@ -74,8 +74,8 @@
 
 /plt settitlebuff [稱號id] [類型] [屬性標簽]
 setTitleBuff 的類型包含：
-1. attributePlus: "ap屬性" [需要前置 AttributePlus]
-2. sxAttribute: "sx屬性" [需要前置 SX-Attribute]
+1. attribute_plus: "ap屬性" [需要前置 AttributePlus]
+2. sx_attribute: "sx屬性" [需要前置 SX-Attribute]
 3. monsterTruce: "怪物休戰" 
 4. potionEffect: "藥水效果"
 5. playerIntensify: "強化效果" [需要前置 PlayerIntensify]
