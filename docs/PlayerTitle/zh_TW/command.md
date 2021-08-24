@@ -74,15 +74,21 @@
 
 /plt settitlebuff [稱號id] [類型] [屬性標簽]
 setTitleBuff 的類型包含：
-1. attributePlus: "ap屬性" [需要前置 AttributePlus]
-2. sxAttribute: "sx屬性" [需要前置 SX-Attribute]
-3. monsterTruce: "怪物休戰" 
-4. potionEffect: "藥水效果"
-5. playerIntensify: "強化效果" [需要前置 PlayerIntensify]
+1. attribute_plus: "ap屬性" [需要前置 AttributePlus]
+2. sx_attribute: "sx屬性" [需要前置 SX-Attribute]
+3. monster_truce: "怪物休戰" 
+4. potion_effect: "藥水效果"
+5. player_intensify: "強化效果" [需要前置 PlayerIntensify]
 
 屬性標簽 例如： 物理傷害:100 如果需要空格可以用#替換
 
-例子：/plt settitlebuff 1 attributePlus &e物理傷害:#&c100
+例子：
+/plt settitlebuff 1 attribute_plus &e物理傷害:#&c100
+/plt settitlebuff 1 sx_attribute &e物理傷害:#&c100
+/plt settitlebuff 1 monster_truce all
+/plt setTitleBuff 1 potion_effect [藥水類型] [藥水等級] [是否顯示粒子效果]
+藥水類型請tab提醒
+/plt settitlebuff 1 player_intensify &e增加強化概率:6
 ```
 
 ## 指令(玩家):
