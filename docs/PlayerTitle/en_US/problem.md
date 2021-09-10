@@ -124,3 +124,79 @@ Please change the playerTitle.db file name to PlayerTitle.db first before upgrad
    or /plt adminShop to delete the corresponding title, both will automatically delete the title owned by the player
 2. Use /plt add to add an identical title (optional)
 ```
+
+### 17. How to use variables to display titles in MiaoChat plugin
+config.yml configuration
+```
+### Configuration file version number Do not modify
+Version: 1.8.5
+
+#BC Cross-Service Mode
+BungeeCord: false
+#Current server name (variable is %mct_server%)
+Server: '§a survival service'
+#Formats list
+Formats:
+  #Format names
+  default: 
+    #priority (will be detected from smallest to largest, e.g. 1-50 priority detection 1 if it matches, show it if it doesn't, detection 2 ...)
+    index: 50
+    #Permissions
+    permission: 'MiaoChat.default'
+    #range (0 is no limit)
+    range: 0
+    #Chat format ([xxx] will call the corresponding format under format.yml)
+    format: '[title] [player]&f: '
+    #parse item(%i=>item in hand,%0-9 shortcut bar items)
+    item: true
+    #Item parsing rules
+    itemformat: '&6[&b%s&6]&r'
+  #Format name
+  admin: 
+    #priority (will be detected from smallest to largest, e.g. 1-50 priority detection 1 if it matches, show it if it doesn't match, detection 2 ...)
+    index: 49
+    #permissions
+    permission: 'MiaoChat.admin'
+    #Chat format ([xxx] will call the corresponding format under format.yml)
+    format: '[title] [player]&f: '
+    #range (0 is no limit)
+    range: 0
+    #parse items (%i=>items in hand,%0-9 items in shortcut bar)
+    item: true
+    #Item parsing rules
+    itemformat: '&6[&b%s&6]&r'
+```
+format.yml configuration
+```
+#The current file is the base file for defining the format
+player: 
+  text: '&f%player_name%'
+  tip: 
+  - '&r
+  - '&6▶ &eClick to send transfer request'
+  click: 
+    type: 'SUGGEST'
+    command: '/tpa %player_name%'
+title:
+  text: '%playerTitle_use%'
+  tip: 
+  - '&8▪ &6 number of titles: %playerTitle_number%'
+  - '&8▪ &6 number of title coins: %playerTitle_number%'
+```
+
+#### 18. isTab does not display properly when turned on, e.g. missing right bracket
+
+```
+1.12 and below server titles longer than 16 bits will be intercepted
+1.13+ server length more than 64 bits will be intercepted
+The color code also counts as length, and is part of the mc mechanism itself
+```
+
+#### 19. purchase type is item is compatible with mod items
+
+```
+Test yourself, most mods are compatible
+But do not exclude a very few special mod incompatible, welcome feedback
+```
+
+Translated with www.DeepL.com/Translator (free version)
