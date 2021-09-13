@@ -6,7 +6,7 @@
 ## 使用方法
 
 #### 初始化jar
-- 下载开源地址代码中repo文件夹的PlayerTitle-2.8.1.jar
+- 下载开源地址代码中repo文件夹的PlayerTitle-2.8.2.jar
 - 或者下载releases里的jar文件导入你的项目中
 - 或者使用maven引入依赖
 
@@ -21,7 +21,7 @@
 <dependency>
   <groupId>com.handy.playertitle</groupId>
   <artifactId>PlayerTitle</artifactId>
-  <version>2.8.1</version>
+  <version>2.8.2</version>
 </dependency>
 ```
 

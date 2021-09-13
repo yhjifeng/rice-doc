@@ -12,5 +12,6 @@
 * [**api documentation**](PlayerTitle/en_US/api)
 * [**AttributePlus support**](PlayerTitle/en_US/ap)
 * [**SX-Attribute support**](PlayerTitle/en_US/sx)
+* [**MMOItems support**](PlayerTitle/en_US/mmo)
 * [**Original Potion(PotionEffect) Support Support**](PlayerTitle/en_US/PotionEffect)
   

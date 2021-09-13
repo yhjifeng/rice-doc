@@ -12,5 +12,6 @@
 * [**api文檔**](PlayerTitle/zh_TW/api)
 * [**AttributePlus支持**](PlayerTitle/zh_TW/ap)
 * [**SX-Attribute支持**](PlayerTitle/zh_TW/sx)
+* [**MMOItems 支持**](PlayerTitle/zh_TW/mmo)
 * [**原版藥水(PotionEffect)支持支持**](PlayerTitle/zh_TW/PotionEffect)
   

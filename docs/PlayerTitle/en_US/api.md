@@ -6,7 +6,7 @@ For example: you can set a level master title and then listen to the player's le
 ## How to use
 
 #### initialize the jar
-Download the PlayerTitle-2.5.9.jar file from the code and import it into your project
+Download the PlayerTitle-2.8.2.jar file from the code and import it into your project
 Or use maven to introduce dependencies (local machine private library, sometimes not online)
 
 ```
@@ -20,7 +20,7 @@ Or use maven to introduce dependencies (local machine private library, sometimes
 <dependency>
   <groupId>com.handy.playertitle</groupId>
   <artifactId>PlayerTitle</artifactId>
-  <version>2.8.1</version>
+  <version>2.8.2</version>
 </dependency>
 ```
 

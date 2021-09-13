@@ -6,7 +6,7 @@
 ## 使用方法
 
 #### 初始化jar
-下載代碼中的PlayerTitle-2.5.9.jar文件導入你的項目中
+下載代碼中的PlayerTitle-2.8.2.jar文件導入你的項目中
 或者使用maven引入依賴(本地機器私庫,有時候不在線)
 
 ```
@@ -20,7 +20,7 @@
 <dependency>
   <groupId>com.handy.playertitle</groupId>
   <artifactId>PlayerTitle</artifactId>
-  <version>2.8.1</version>
+  <version>2.8.2</version>
 </dependency>
 ```
 
