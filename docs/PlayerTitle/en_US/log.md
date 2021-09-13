@@ -8,6 +8,17 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.8.2
+**September 13, 2021**
+1. **Fix** the problem that the title buff variable does not change after switching titles
+2. **New** title buff compatible with MMOItems
+3. **Optimization** Some api optimization check [**api documentation**](PlayerTitle/en_US/api)
+
+#### 2.8.2 update small assistant
+- The configuration file has no changes compared to version 2.8.1
+- The language file has changed, it is recommended to delete the old language file to generate a new one.
+- Just replace the jar directly
+
 #### 2.8.1
 **08/18/2021**
 1. **Fix** hotload plugin causes multiple null in front of the name
