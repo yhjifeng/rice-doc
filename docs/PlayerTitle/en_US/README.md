@@ -25,7 +25,7 @@ The plugin functions are as follows:
 13. Optimized the display of the title-store. The title purchased by the player is only hidden from the player, avoiding the player who has already purchased the title from buying that title again
 14. Players can set whether to display their title when chatting
 15. The title can be displayed on the TAB and the top of the player’s head, which also supports customization
-16. You can customize one or more buffs for each title. Currently, it supports the attribute tags of AttributePlus and SX-Attribute plug-ins, as well as the buff function of truce with monsters, and the original potion effect. A total of 4 types of title buffs
+16. You can customize one or more buffs for each title. Currently, it supports the attribute tags of AttributePlus and SX-Attribute plug-ins, as well as the buff function of truce with monsters, and the original potion effect.**MMOItems(2.8.2+)** 5 A total of 4 types of title buffs
 17. You can customize the acquisition message after the title is acquired, and support bar, msg and title message types (for example: Congratulations on getting the title of "Adventurer"!)
 18. The material displayed in the "title management GUI" for each title can be customized
 19. You can customize the particle effects of each title in the wearing state
