@@ -6,6 +6,13 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+### 1.0.6
+**September 13, 2021:**
+1. **Optimization** A part of the code
+
+#### 1.0.6 update small assistant
+- Configuration file compared to version 1.0.5 without any changes, direct replacement of jar can be
+
 ### 1.0.5
 **August 5, 2021:** 1.
 1. **Added** Command enhancement/plis up
