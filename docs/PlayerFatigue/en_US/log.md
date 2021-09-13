@@ -7,8 +7,15 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+### 1.3.8
+**09/13/2021**
+1. **Optimization** Optimization code
+
+#### 1.3.8 update small assistant
+No changes compared to 1.3.7, just replace the jar directly
+
 ### 1.3.7
-**08/07/2021** 1.
+**08/07/2021**
 1. **Optimization** Now the real player name will be stored in the database, the historical data player login will be automatically synchronized off
 2. **Fix** mysql /plf viewBlock can't be viewed
 3. **Fix an exception with /* /plf give command
