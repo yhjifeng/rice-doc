@@ -7,6 +7,19 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+### 1.8.6
+**September 18, 2021:**
+1. **New** config.yml can be configured to refresh daily tasks at regular intervals
+2. **Optimized** Command type rewards can now have descriptions added
+
+**1.8.6 Upgrade Assistant**
+- The configuration file is new compared to 1.8.5, we suggest to regenerate it or copy it in
+```
+# Daily task refresh time, 24 hour system
+setTodayDate: "00:00"
+```
+- Then just replace the jar
+
 ### 1.8.5
 **August 11, 2021:**
 1. **Change** abandoned compatible < MythicMobs4.7 version, if you want to use, please mcbbs post download compatible version
