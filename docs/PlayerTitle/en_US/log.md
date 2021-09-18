@@ -10,7 +10,7 @@
 ------------
 #### 2.8.3
 **18 September 2021**
-1. **New** support for titles, title mall, title store button, title card model customization
+1. **New** support for titles, title mall, title store button, title card model customization [**custom model support**](PlayerTitle/en_US/resourcepacks)
 2. **New** Particle plugin PlayerParticles compatible
 3. **Optimized** Network error alert at launch in some areas
 

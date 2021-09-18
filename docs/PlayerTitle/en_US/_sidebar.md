@@ -14,4 +14,4 @@
 * [**SX-Attribute support**](PlayerTitle/en_US/sx)
 * [**MMOItems support**](PlayerTitle/en_US/mmo)
 * [**Original Potion(PotionEffect) Support Support**](PlayerTitle/en_US/PotionEffect)
-  
+* [**custom model support**](PlayerTitle/en_US/resourcepacks)
