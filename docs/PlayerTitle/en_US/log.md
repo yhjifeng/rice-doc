@@ -8,6 +8,18 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.8.3
+**18 September 2021**
+1. **New** support for titles, title mall, title store button, title card model customization
+2. **New** Particle plugin PlayerParticles compatible
+3. **Optimized** Network error alert at launch in some areas
+
+#### 2.8.3 update small assistant
+- No changes to the configuration file compared to 2.8.2
+- Language files have been changed, it is recommended to delete the old language file and generate a new one
+- material.yml has been greatly improved, please make sure to regenerate it
+- Then just replace the jar
+
 #### 2.8.2
 **September 13, 2021**
 1. **Fix** the problem that the title buff variable does not change after switching titles
