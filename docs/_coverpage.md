@@ -10,5 +10,5 @@
 * [PlayerFatigue](https://www.mcbbs.net/thread-1101322-1-1.html "MCBBS")
 * [PlayerRace](https://www.mcbbs.net/thread-1149860-1-1.html "MCBBS")
 
-[GitHub](https://github.com/handy-git/rice-doc.git)
+[Gitee](https://gitee.com/handy-git/rice-doc)
 [Get Started](#米饭插件列表)
