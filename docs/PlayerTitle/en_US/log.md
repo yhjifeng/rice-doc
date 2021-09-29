@@ -8,6 +8,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.8.5
+**09/29/2021**
+1. **Fix** 2.8.4 version Cancel the use of the title buff does not normally disappear the problem
+
+#### 2.8.5 update small assistant
+- The configuration file has no change compared to version 2.8.4
+- Just replace the jar directly
+
 #### 2.8.4
 **09/29/2021**
 1. **Optimized** now developing buff type api, external plugins can inject custom buffs
