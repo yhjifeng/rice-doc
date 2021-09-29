@@ -8,6 +8,16 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.8.4
+**09/29/2021**
+1. **Optimized** now developing buff type api, external plugins can inject custom buffs
+2. **Fix** Permission title not expiring properly, now modified to handle at regular intervals
+3. **Fix** some language alerts not existing
+
+#### 2.8.4 update small helper
+- No changes to the configuration file compared to version 2.8.2
+- Just replace the jar directly
+
 #### 2.8.3
 **18 September 2021**
 1. **New** support for titles, title mall, title store button, title card model customization [**custom model support**](PlayerTitle/en_US/resourcepacks)
@@ -15,7 +25,6 @@
 3. **Optimized** Network error alert at launch in some areas
 
 #### 2.8.3 update small assistant
-- No changes to the configuration file compared to 2.8.2
 - Language files have been changed, it is recommended to delete the old language file and generate a new one
 - material.yml has been greatly improved, please make sure to regenerate it
 - Then just replace the jar
