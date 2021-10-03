@@ -1,11 +1,3 @@
-# Preface
-> PlayerTask is available in **Public Version**/*Full Version**  
-**Open Version** 3 random tasks per day  
-**Full Version** No restrictions at all, one purchase is permanent, priority is given to suggestions  
-As for why I get this paid version, because I also want to eat, the difference between the public version and the full version on the above a little  
-The full version of how to get? | The actual fact is that you can get a lot more than just a few of these.  
-**The actual fact is that you can get a lot more than just a few of these types of things.
-
 ------------
 ## I. Introduction
 
