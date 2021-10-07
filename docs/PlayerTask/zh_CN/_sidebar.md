@@ -8,4 +8,4 @@
 * [**更新记录**](PlayerTask/zh_CN/log)
 * [**图片展示**](PlayerTask/zh_CN/img)
 * [**常见问题**](PlayerTask/zh_CN/problem)
-* [**公开版和完全版**](PlayerTask/zh_CN/note)
+* [**免费版和付费版**](PlayerTask/zh_CN/note)

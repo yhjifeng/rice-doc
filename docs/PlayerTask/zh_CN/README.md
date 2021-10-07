@@ -1,11 +1,8 @@
 # 前言
-> PlayerTask 分有 **公开版**/**完全版**  
-**公开版** 每日随机任务固定3个  
-**完全版** 完全无任何限制,一次购买永久生效,优先采纳建议  
-至于我为什么弄这个付费版,因为我也要吃饭嘛,公开版和完全版差别就上面那一点点  
-那完全版该怎么获取? | 联系我 QQ:956812056 | 售价 **150**  
-**公益服**:如果您的服务器是公益服,请带着mcbbs的宣传链接找我,可以享受半价优惠
-
+> PlayerTask 分有 **体验版**/**付费版**  
+**体验版** 每日随机任务固定3个  
+**付费版** 完全无任何限制,一次购买永久生效
+那付费版该怎么获取? | [前往SpigotMc购买](https://www.spigotmc.org/resources/96554/)
 ------------
 ## 一、简介
 
@@ -35,11 +32,12 @@
 ------------
 
 ## 二、相关信息
-插件发布帖：[MCBBS](https://www.mcbbs.net/thread-1084534-1-1.html "MCBBS") [米饭论坛](https://bbs.ljxmc.top/topic/detail/3 "米饭论坛")  
-交流群1064982471: [点击加入](https://jq.qq.com/?_wv=1027&k=5sxTf8u "点击加入")
+插件发布帖: [MCBBS](https://www.mcbbs.net/thread-1084534-1-1.html)  
+插件原帖: [SpigotMc](https://www.spigotmc.org/resources/96554/)  
+交流群1064982471: [点击加入](https://jq.qq.com/?_wv=1027&k=5sxTf8u)  
 
 ## 三、插件使用统计
 
 ![](https://bstats.org/signatures/bukkit/PlayerTask.svg)
 
-[点击查看bstats插件统计](https://bstats.org/plugin/bukkit/PlayerTask/8144 "点击查看bstats插件统计")
+[点击查看bstats插件统计](https://bstats.org/plugin/bukkit/PlayerTask/8144)

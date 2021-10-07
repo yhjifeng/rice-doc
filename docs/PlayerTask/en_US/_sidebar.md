@@ -8,3 +8,4 @@
 * [**Update log**](PlayerTask/en_US/log)
 * [**Image display**](PlayerTask/en_US/img)
 * [**FAQ**](PlayerTask/en_US/problem)
+* [**Free and paid versions**](PlayerTask/en_US/note)
