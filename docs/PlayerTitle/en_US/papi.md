@@ -21,4 +21,4 @@ New variables from version 2.7.6
 | Variable name | Show content |
 | ------------ | ------------ |
 | %playerTitle_custom_num%| The number of times a player can customize a title |
-| %playerTitle_custom_usenum%|Number of times a player has customized a title|
+| %playerTitle_custom_use_num%|Number of times a player has customized a title|

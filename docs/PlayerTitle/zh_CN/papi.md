@@ -22,4 +22,4 @@
 |变量名   | 显示内容  |
 | ------------ | ------------ |
 | %playerTitle_custom_num%| 玩家可自定义称号次数 |
-| %playerTitle_custom_usenum%|玩家已自定义称号次数|
+| %playerTitle_custom_use_num%|玩家已自定义称号次数|
