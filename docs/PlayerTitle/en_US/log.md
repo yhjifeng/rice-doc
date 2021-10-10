@@ -8,6 +8,15 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.8.6
+**October 10, 2021**
+1. **Fix** MMOItems type buff, the buff will not disappear after the title expires
+2. **Optimize** the optimization process related to the expiration of the authority title
+
+#### 2.8.6 update small assistant
+- The configuration file has no change compared to version 2.8.5
+- Directly replace the jar can be
+
 #### 2.8.5
 **09/29/2021**
 1. **Fix** 2.8.4 version Cancel the use of the title buff does not normally disappear the problem
