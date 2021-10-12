@@ -18,6 +18,8 @@
 | playertask.delShop  | 刪除對應id的任務幣商城物品  | op |
 | playertask.getip  | 獲取ip  | op |
 | playertask.reload  | 重載配置  | op |
+| playertask.edit  | 編輯任務  | op |
+| playertask.setRarity  | 編輯任務稀有度1.8.7+）  | op |
 
 ## 指令(管理員):
 |  指令 | 用途  |
@@ -33,6 +35,8 @@
 |/plk delShop [對應ID] | 刪除對應id的任務幣商城物品|
 |/plk getIp | 獲取ip|
 |/plk reload | 重載配置|
+|/plk edit [任務id] | 使用gui編輯任務  |
+|/plk setRarity [任務id] [稀有度]| 編輯任務稀有度（1.8.7+） ｜
 
 ## 指令(玩家):
 |  指令 | 用途  |

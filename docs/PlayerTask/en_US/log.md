@@ -7,6 +7,19 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+### 1.8.7 
+
+**October 12, 2021:**
+1. **New** Mission rarity system, each mission has a rarity (historical missions are all normal by default), refreshing appearances based on probabilities in config.ymL
+2. **Optimized** The gui-related code has been significantly reorganized and built with the latest handyLib.
+3. **FIXED** Exception when selecting a task target
+4. **New** New materiat.ymL for each task and /pLt open button material and custom model modification
+5. **New** New command /plk setRarity [mission id] [rarity] to modify mission rarity
+
+**1.8.7 update mini-helper**
+- This is a major update: changes have been made to the config.yml and language files, it is recommended to backup the old one and regenerate the new one
+- Then just replace the jar
+
 ### 1.8.6
 **September 18, 2021:**
 1. **New** config.yml can be configured to refresh daily tasks at regular intervals
