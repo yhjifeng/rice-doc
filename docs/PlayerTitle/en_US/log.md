@@ -8,6 +8,21 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.8.7
+**14 October 2021**
+1. **Fix** /plt set command error after turning on auto-use of title
+
+#### 2.8.7 update small helper
+- No changes to the configuration file compared to 2.8.6, just replace the jar
+
+#### 2.8.6
+**10 October 2021**
+1. **Fix** MMOItems type buff, buff will not disappear after the title expires
+2. **Optimized** Limit title expiration related optimization
+
+#### 2.8.6 update helper
+- No changes to the configuration file compared to 2.8.5, just replace the jar
+
 #### 2.8.6
 **October 10, 2021**
 1. **Fix** MMOItems type buff, the buff will not disappear after the title expires
