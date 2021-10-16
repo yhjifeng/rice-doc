@@ -7,6 +7,19 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+### 1.8.8
+**October 16, 2021:**
+1. **Fix** Fix the possibility of generating duplicate tasks
+2. **optimize** add task return id
+3. **FIX** Task rarity is displayed normally
+4. **FIX** wrong mm monster name caused mm error
+5. **FIX** item.yml Chinese processing will not be in the dash off cloud Chinese
+6. **Optimized** Now deleting tasks in /plk view list will delete the picked up tasks simultaneously
+
+**1.8.8 upgrade assistant**
+- The language file languages has been added compared to version 1.8.6, it is recommended to regenerate or copy into it
+- Then you can replace the jar
+
 ### 1.8.7 
 
 **October 12, 2021:**
