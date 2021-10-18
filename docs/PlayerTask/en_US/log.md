@@ -7,6 +7,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+### 1.9.1
+**October 18, 2021:**
+1. **Fix** scrolling task, error reported in the case of mysql data source
+
+**1.9.1 Upgrade Assistant**
+- Please see the 1.9.0 upgrade helper
+
 ### 1.9.0
 **18 October 2021:**
 1. **New** reel task, see [**reel task**](PlayerTask/en_US/reel)
