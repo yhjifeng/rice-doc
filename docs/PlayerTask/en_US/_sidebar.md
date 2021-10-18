@@ -9,4 +9,5 @@
 * [**Image display**](PlayerTask/en_US/img)
 * [**FAQ**](PlayerTask/en_US/problem)
 * [**task rarity**](PlayerTask/en_US/rarity)
+* [**reel task**](PlayerTask/en_US/reel)
 * [**Free and paid versions**](PlayerTask/en_US/note)

@@ -19,7 +19,8 @@
 | playertask.getip  | 获取ip  | op |
 | playertask.reload  | 重载配置  | op |
 | playertask.edit  | 编辑任务  | op |
-| playertask.setRarity  | 编辑任务稀有度1.8.7+）  | op |
+| playertask.setRarity  | 编辑任务稀有度(1.8.7+）  | op |
+| playertask.changeItem  | 生成任务卷轴 (1.9.0+) | op |
 
 ## 指令(管理员):
 |  指令 | 用途  |
@@ -37,9 +38,17 @@
 |/plk reload | 重载配置|
 |/plk edit [任务id] | 使用gui编辑任务  |
 |/plk setRarity [任务id] [稀有度]| 编辑任务稀有度（1.8.7+） ｜
+｜/plk changeItem [任务id] (玩家名称)｜生成任务卷轴(1.9.0+)｜
 
 ## 指令(玩家):
 |  指令 | 用途  |
 | ------------ | ------------    |
 | /plk open    | 打开每日任务gui  |
 | /plk shop    | 打开任务币商城gui  |
+
+```
+# 玩家执行指令,中间的0代表按照玩家身份执行,如果玩家没权限会执行失败
+/plk addReward command 0 eco#give#${player}#666
+# 玩家执行指令,中间的1代表按照op身份执行
+/plk addReward command 1 eco#give#${player}#666
+```

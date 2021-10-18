@@ -19,12 +19,13 @@
 | playertask.getip | Get ip | op |
 | playertask.reload | reload configuration | op |
 | playertask.edit | Edit task | op |
-| playertask.setRarity | edit task rarity 1.8.7+) | op |
+| playertask.setRarity | Edit task rarity (1.8.7+) | op |
+| playertask.changeItem | Generate quest scrolls (1.9.0+) | op |
 
 ## Command (Admin):
-| command | use |
+| command | usage |
 | ------------ | ------------ |
-| /plk addDemand [target type] [number] | Add quest target (requires main hand to have corresponding item) |
+| /plk addDemand [target type] [number] | Add quest target (requires main hand to have item) |
 | /plk addReward [Reward Type] [Number] | Add a reward (if the reward type is an item, the master must have the corresponding item in hand)
 | /plk addShop [type] [price] | Add Quest Shop item rewards (type: once: once; unlimited: infinite) | /plk addReward [type] [price] | Add Quest Shop item rewards (type: once: once; unlimited)
 | /plk create [task name] | Use gui to create tasks (recommended) |
@@ -37,9 +38,17 @@
 |/plk reload | Reload the configuration|
 |/plk edit [task id] | Use gui to edit tasks |
 |/plk setRarity [quest id] [rarity]| Edit quest rarity (1.8.7+) ｜
+|/plk changeItem [quest id] (player name)| generate quest scroll (1.9.0+)｜
 
 ## Command (Player):
 | command | use |
 | ------------ | ------------ |
-| /plk open | Open daily quest gui |
+| /plk open | Opens the daily quest gui |
 | /plk shop | open quest coin mall gui |
+
+```
+# The player executes the command, the 0 in the middle means it is executed according to the player's identity, if the player does not have permission it will fail.
+/plk addReward command 0 eco#give#${player}#666
+# Players execute the command, a 1 in the middle means it is executed as an op
+/plk addReward command 1 eco#give#${player}#666
+```

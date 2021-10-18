@@ -7,6 +7,15 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+### 1.9.0
+**18 October 2021:**
+1. **New** reel task, see [**reel task**](PlayerTask/en_US/reel)
+
+**1.9.0 Upgrade Assistant**
+- The language file languages has been added compared to 1.8.8, so it is recommended to regenerate it or copy it in.
+- material.yml has new content compared to version 1.8.8, we suggest to regenerate it or copy it in.
+- Then just replace the jar
+
 ### 1.8.8
 **October 16, 2021:**
 1. **Fix** Fix the possibility of generating duplicate tasks

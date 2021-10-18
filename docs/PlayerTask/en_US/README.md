@@ -4,8 +4,17 @@
 > PlayerTask is a somewhat good player task plug-in  
 The player can create a daily task with a simple command or gui  
 Players use the daily task gui to view and complete the task
+------------
 
-This plugin was developed independently by me (MCBBS Forum ID:**ヽ Rice**).
+### Introduction to the core function of the plugin:
+1. Daily automatic refresh random tasks
+   Automatically assign different rare degree tasks to the player, you can freely modify it in the configuration file
+2. Task bonded to NPC
+   You can receive a task from an NPC, rather than using a boring directive to do this
+   You can set a task can only be taken once, or it can be re-received
+3. Alternative task collection mode - REEL
+   You can use instructions to store a task into the "REEL". It is a specific gaming item, such as paper or map, players will receive the tasks included after using the reel
+
 
 ------------
 1. support mysql and local sqlite storage
@@ -27,7 +36,8 @@ This plugin was developed independently by me (MCBBS Forum ID:**ヽ Rice**).
 ------------
 
 ## Two, related information
-Plugin release post: [MCBBS](https://www.mcbbs.net/thread-1084534-1-1.html "MCBBS") [Rice Forum](https://bbs.ljxmc.top/topic/detail/3 "Rice Forum")  
+[MCBBS](https://www.mcbbs.net/thread-1084534-1-1.html)  
+[SpigotMc](https://www.spigotmc.org/resources/96554/)
 
 ## III. Plugin usage statistics
 

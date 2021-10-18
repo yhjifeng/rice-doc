@@ -9,4 +9,5 @@
 * [**圖片展示**](PlayerTask/zh_TW/img)
 * [**常見問題**](PlayerTask/zh_TW/problem)
 * [**任務稀有度**](PlayerTask/zh_TW/rarity)
-* [**免費版和付費版**](PlayerTask/zh_CN/note)
+* [**卷軸任務**](PlayerTask/zh_TW/reel)
+* [**免費版和付費版**](PlayerTask/zh_TW/note)
