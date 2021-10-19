@@ -7,6 +7,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+### 1.9.2
+**October 19, 2021:**
+1. **Fix** error when alerting permission has been registered when starting
+
+**1.9.2 upgrade small assistant**
+- Configuration file compared to version 1.9.1 no change, direct replacement jar can be
+
 ### 1.9.1
 **October 18, 2021:**
 1. **Fix** scrolling task, error reported in the case of mysql data source
