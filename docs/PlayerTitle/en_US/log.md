@@ -8,6 +8,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.8.8
+**October 21, 2021**
+1. **Fix** item.yml localization process will not conflict with cloud localization anymore
+2. **New** Added bStats statistics
+
+#### 2.8.8 Update Assistant
+-There is no change in the configuration file compared to the 2.8.7 version, just replace the jar directly
+
 #### 2.8.7
 **14 October 2021**
 1. **Fix** /plt set command error after turning on auto-use of title
