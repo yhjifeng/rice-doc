@@ -14,7 +14,7 @@
 2. **New** Added bStats statistics
 
 #### 2.8.8 Update Assistant
--There is no change in the configuration file compared to the 2.8.7 version, just replace the jar directly
+- There is no change in the configuration file compared to the 2.8.7 version, just replace the jar directly
 
 #### 2.8.7
 **14 October 2021**
