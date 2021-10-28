@@ -43,8 +43,8 @@
 | /plk edit [任务id] | 使用gui编辑任务(1.7.1+)  |
 | /plk addNpcTask [任务id] [npcId] [是否永久任务] [可完成次数] [冷却时间] (前置任务id)   |添加npc任务(1.6.0+)|
 | /plk delNpcTask [npcId]   |  删除npc任务(1.6.0+)|
-| /plk setRarity [任务id] [稀有度]| 编辑任务稀有度（1.8.7+） ｜
-｜/plk changeItem [任务id] (玩家名称)｜生成任务卷轴(1.9.0+)｜
+| /plk setRarity [任务id] [稀有度]| 编辑任务稀有度（1.8.7+） |
+| /plk changeItem [任务id] (玩家名称)|生成任务卷轴(1.9.0+)|
 
 ## 指令(玩家):
 |  指令 | 用途  |

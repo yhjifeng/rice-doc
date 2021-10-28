@@ -43,7 +43,7 @@
 | /plk edit [task id] | Use gui to edit tasks (1.7.1+) |
 | /plk addNpcTask [task id] [npcId] [whether task is permanent] [number of completions possible] [cooldown] (predecessor task id) | addNpcTask(1.6.0+)|
 | /plk delNpcTask [npcId] | Remove npc task (1.6.0+)|
-| /plk setRarity [task id] [rarity]| Edit task rarity (1.8.7+)｜
+| /plk setRarity [task id] [rarity]| Edit task rarity (1.8.7+)|
 | /plk changeItem [quest id] (player name)| Generate quest scroll (1.9.0+)|
 
 ## Command (Player):
