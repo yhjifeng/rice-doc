@@ -3,6 +3,7 @@ Description:
 ```
 The logic of npc quests is:
 1. first you add a new npc quest out as in example 1
+/plk create NpcTask npc normal
 2. then use the command to bind to the corresponding npc
 ````
 Suppose we already have an npc task, as shown in the figure, of type npc task

@@ -15,10 +15,13 @@
 | playertask.view  | 管理任务  | op |
 | playertask.vip  | vio权限  | op |
 | playertask.getToday  | 立即获取今日任务  | op |
+| playertask.delToday  | 清空今日任务列表和全部玩家的任务(1.4.1+)| op |
 | playertask.delShop  | 删除对应id的任务币商城物品  | op |
 | playertask.getip  | 获取ip  | op |
 | playertask.reload  | 重载配置  | op |
-| playertask.edit  | 编辑任务  | op |
+| playertask.edit  | 编辑任务(1.7.1+)  | op |
+| playertask addNpcTask | 添加npc任务(1.6.0+) | op |
+| playertask delNpcTask | 删除npc任务(1.6.0+) | op |
 | playertask.setRarity  | 编辑任务稀有度(1.8.7+）  | op |
 | playertask.changeItem  | 生成任务卷轴 (1.9.0+) | op |
 
@@ -28,16 +31,19 @@
 | /plk addDemand [目标类型] [数量] | 添加任务目标(需要主手持有对应物品)  |
 | /plk addReward [奖励类型] [数量] | 添加任务奖励(如果奖励类型是物品需要主手持有对应物品) |
 | /plk addShop [类型] [价格] | 添加任务币商城物品奖励(类型:限购一次:once;无限购买:infinite) |
-| /plk create [任务名称]   |  使用gui来创建任务(推荐) |
+| /plk create [任务名称] (任务类型) (任务稀有度)  |  使用gui来创建任务(推荐) |
 | /plk addList [任务名称] [称号目标id] [任务奖励id] | 使用指令方式添加一个任务 |
 | /plk delete [类型] [对应id] | 使用指令方式删除任务,任务目标,任务奖励 |
 | /plk view [类型] | 使用gui里查看和管理 类型,[list:任务,demand:任务目标,reward:任务奖励,例如: /plk view list|
 | /plk getToday | 立即执行一次获取今日任务程序|
-|/plk delShop [对应ID] | 删除对应id的任务币商城物品|
-|/plk getIp | 获取ip|
-|/plk reload | 重载配置|
-|/plk edit [任务id] | 使用gui编辑任务  |
-|/plk setRarity [任务id] [稀有度]| 编辑任务稀有度（1.8.7+） ｜
+| /plk delToday  |   清空今日任务列表和全部玩家的任务(1.4.1+)|
+| /plk delShop [对应ID] | 删除对应id的任务币商城物品|
+| /plk getIp | 获取ip|
+| /plk reload | 重载配置|
+| /plk edit [任务id] | 使用gui编辑任务(1.7.1+)  |
+| /plk addNpcTask [任务id] [npcId] [是否永久任务] [可完成次数] [冷却时间] (前置任务id)   |添加npc任务(1.6.0+)|
+| /plk delNpcTask [npcId]   |  删除npc任务(1.6.0+)|
+| /plk setRarity [任务id] [稀有度]| 编辑任务稀有度（1.8.7+） ｜
 ｜/plk changeItem [任务id] (玩家名称)｜生成任务卷轴(1.9.0+)｜
 
 ## 指令(玩家):
@@ -52,3 +58,5 @@
 # 玩家执行指令,中间的1代表按照op身份执行
 /plk addReward command 1 eco#give#${player}#666
 ```
+
+> 任务类型分为 everyday(每日任务)  npc(NPC任务) 不互通

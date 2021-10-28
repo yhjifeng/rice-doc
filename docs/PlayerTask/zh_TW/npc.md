@@ -3,6 +3,7 @@
 ```
 npc任務的邏輯是:
 1. 首先你按照例子1中,新增一個npc任務出來
+/plk create NpcTask npc normal
 2. 然後使用指令綁定到對應的npc上
 ```
 假設我們有已經個npc任務,如圖,類型為npc任務

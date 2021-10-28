@@ -7,6 +7,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+### 1.9.4
+**28th October 2021:**
+1. **Optimisation** Scroll quests to improve compatibility with other plugins
+
+**1.9.4 upgrade mini-helper**
+- No changes to the configuration file compared to 1.9.3, just replace the jar directly
+
 ### 1.9.3
 **20 October 2021:**
 1. **Optimized** pagination to show &a symbol in case of language file errors
