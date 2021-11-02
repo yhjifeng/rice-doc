@@ -8,6 +8,15 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.9.0
+**October 21, 2021**
+1. **New** Add ${player} as a player name variable in the gui
+2. **Optimized** Add pre-particle effect PlayerParticles Chinese text
+
+#### 2.9.0 update small helper
+- Configuration files have changed compared to version 2.8.8 language files
+- Just replace the jar directly
+
 #### 2.8.8
 **October 21, 2021**
 1. **Fix** item.yml localization process will not conflict with cloud localization anymore
