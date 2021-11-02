@@ -7,6 +7,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+### 1.9.5
+**November 1, 2021:**
+1. **Optimization** Improved compatibility with some mod items
+
+**1.9.5 Upgrade Assistant**
+- No changes to the configuration file compared to 1.9.4, just replace the jar
+
 ### 1.9.4
 **28th October 2021:**
 1. **Optimisation** Scroll quests to improve compatibility with other plugins
