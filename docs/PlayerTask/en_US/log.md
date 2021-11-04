@@ -3,10 +3,17 @@
 ### Known bugs (currently known but unresolved bugs will be displayed here)
 1. plugins do not use yum such plugins for hot loading!
 2. mission target, some items held in the hand and put down is a different item, so it can not be detected, it is recommended here try not to use these special items as the mission target, for example: red stone powder, railroad tracks, seeds ...
-3. <=4.7 version of MythicMobs please use the compatible version of MCBBS post
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+### 1.9.6
+**November 4, 2021:**
+1. **Optimization** Improved compatibility with MythicMob, should now support all mm versions at the same time
+2. **Optimization** Version 1.13+ also adds item.yml for custom name translation of mod items
+
+**1.9.6 upgrade helper**
+- No changes to the config file compared to 1.9.5, just replace the jar directly
+
 ### 1.9.5
 **November 1, 2021:**
 1. **Optimization** Improved compatibility with some mod items
