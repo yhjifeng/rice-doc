@@ -8,6 +8,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.9.1
+**November 4, 2021**
+1. **Fix** 2.9.0 version of /plt adminShop cannot be opened
+2. **Optimize** buff processing part of the code
+
+#### 2.9.1 update small helper
+- No change in configuration file compared to version 2.9.0, just replace the jar directly
+
 #### 2.9.0
 **October 21, 2021**
 1. **New** Add ${player} as a player name variable in the gui
