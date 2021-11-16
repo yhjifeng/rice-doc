@@ -8,6 +8,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.9.2
+**16 November 2021**
+1. **FIXED** In some cases, the title and introduction would show the colour code
+2. **FIXED** Adding a buff in mysql case, the field length was not long enough to cause an error
+
+#### 2.9.2 update helper
+- The configuration file has no change compared to version 2.9.1, just replace the jar directly.
+
 #### 2.9.1
 **November 4, 2021**
 1. **Fix** 2.9.0 version of /plt adminShop cannot be opened
