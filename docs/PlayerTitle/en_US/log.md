@@ -8,6 +8,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.9.3
+**November 18, 2021**
+1. **Fix** Fix the bug that color.yml configuration is invalid
+
+#### 2.9.3 update small assistant
+- Configuration file compared to 2.9.2 version no change, directly replace the jar can be
+
 #### 2.9.2
 **16 November 2021**
 1. **FIXED** In some cases, the title and introduction would show the colour code
