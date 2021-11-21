@@ -6,6 +6,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+### 1.9.7
+**November 21, 2021:**
+1. **Added ** /plk setDescription [task id] [task description] to add task description to tasks"
+2. **Fix an error caused by ** mm not configuring the monster name
+
+**1.9.7 upgrade assistant**
+- The language has a file change, suggest to regenerate
+
 ### 1.9.6
 **November 4, 2021:**
 1. **Optimization** Improved compatibility with MythicMob, should now support all mm versions at the same time

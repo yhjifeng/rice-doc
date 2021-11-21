@@ -24,6 +24,8 @@
 | playertask delNpcTask | 删除npc任务(1.6.0+) | op |
 | playertask.setRarity  | 编辑任务稀有度(1.8.7+）  | op |
 | playertask.changeItem  | 生成任务卷轴 (1.9.0+) | op |
+| playertask setDescription   |添加任务描述(1.9.7+)| op |
+
 
 ## 指令(管理员):
 |  指令 | 用途  |
@@ -45,6 +47,7 @@
 | /plk delNpcTask [npcId]   |  删除npc任务(1.6.0+)|
 | /plk setRarity [任务id] [稀有度]| 编辑任务稀有度（1.8.7+） |
 | /plk changeItem [任务id] (玩家名称)|生成任务卷轴(1.9.0+)|
+| /plk setDescription [任务id] [任务描述]  |添加任务描述(1.9.7+)|
 
 ## 指令(玩家):
 |  指令 | 用途  |

@@ -24,6 +24,7 @@
 | playertask delNpcTask | DeleteNpcTask(1.6.0+) | op |
 | playertask.setRarity | Edit Task Rarity (1.8.7+) | op |
 | playertask.changeItem | Generate quest scrolls (1.9.0+) | op |
+| playertask setDescription | add task description (1.9.7+)| op |
 
 ## Command (Admin):
 | command | usage |
@@ -45,6 +46,7 @@
 | /plk delNpcTask [npcId] | Remove npc task (1.6.0+)|
 | /plk setRarity [task id] [rarity]| Edit task rarity (1.8.7+)|
 | /plk changeItem [quest id] (player name)| Generate quest scroll (1.9.0+)|
+| /plk setDescription [task id] [task description] | Add task description (1.9.7+)|
 
 ## Command (Player):
 | command | use |
