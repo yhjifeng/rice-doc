@@ -8,8 +8,8 @@
 ------------
 ### 1.9.7
 **November 21, 2021:**
-1. **Added ** /plk setDescription [task id] [task description] to add task description to tasks"
-2. **Fix an error caused by ** mm not configuring the monster name
+1. **Added** /plk setDescription [task id] [task description] to add task description to tasks"
+2. **Fix** an error caused by mm not configuring the monster name
 
 **1.9.7 upgrade assistant**
 - The language has a file change, suggest to regenerate
