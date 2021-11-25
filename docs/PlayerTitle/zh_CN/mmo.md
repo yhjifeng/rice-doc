@@ -1,4 +1,9 @@
-1. 新增一个称号
+### MMOItems buff
+
+> PlayerTitle-2.8.2+版本开始 增加兼容MMOItems  
+> 基于 MMOItems6.6.0 开发
+
+1.新增一个称号
 ```
 /plt add not &f测试mmo称号 0
 ```

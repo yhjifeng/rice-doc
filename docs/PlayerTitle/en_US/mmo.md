@@ -1,3 +1,8 @@
+### MMOItems buff
+
+> PlayerTitle-version 2.8.2+ started to add MMOItems compatibility  
+> Based on MMOItems6.6.0 development
+
 1. add a new title
 ```
 /plt add not &f test mmo title 0

@@ -1,3 +1,8 @@
+### MMOItems buff
+
+> PlayerTitle-2.8.2+版本開始 增加兼容MMOItems  
+> 基於 MMOItems6.6.0 開發
+
 1. 新增一個稱號
 ```
 /plt add not &f測試mmo稱號 0
