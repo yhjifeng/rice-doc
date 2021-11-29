@@ -6,6 +6,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+### 1.9.8
+**November 29, 2021:**
+1. **Optimisation** Improved compatibility of Groupware with MythicMob
+
+**1.9.8 Upgrade Assistant**
+- No changes to the configuration file compared to 1.9.7, just replace the jar
+
 ### 1.9.7
 **November 21, 2021:**
 1. **Added** /plk setDescription [task id] [task description] to add task description to tasks"
