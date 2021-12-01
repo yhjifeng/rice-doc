@@ -13,9 +13,9 @@
 1. **Optimized** Better adaptation to 1.18
 2. **Optimization** The monster immunity in buffs can now be set to take effect in the world  
 
-> /plt setTitleBuff 1 monster_truce world
-The last parameter is added to the previous command and is the name of the world in effect
-Do not pass the last command to make all worlds effective by default
+> /plt setTitleBuff 1 monster_truce world  
+The last parameter of the command is the valid world name  
+Not passing the last parameter will validate all worlds by default
 
 #### 2.9.4 update small helper
 - The configuration file is unchanged from version 2.9.3, just replace the jar directly.
