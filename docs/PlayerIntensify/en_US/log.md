@@ -6,6 +6,13 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.0.8
+**Dec. 01, 2021**
+1. **Optimisation** Better adaptation to 1.18
+
+#### 1.0.8 update small helper
+- No change in configuration files compared to 1.0.7, just replace the jar directly
+
 ### 1.0.6
 **September 13, 2021:**
 1. **Optimization** A part of the code
