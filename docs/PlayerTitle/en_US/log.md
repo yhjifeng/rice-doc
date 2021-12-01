@@ -8,6 +8,20 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.9.4
+**December 01, 2021**
+1. **Optimized** Better adaptation to 1.18
+2. **Optimization** The monster immunity in buffs can now be set to take effect in the world  
+   Example:
+```
+/plt setTitleBuff 1 monster_truce world
+The last parameter is added to the previous command and is the name of the world in effect
+Do not pass the last command to make all worlds effective by default
+
+```
+#### 2.9.4 update small helper
+- The configuration file is unchanged from version 2.9.3, just replace the jar directly.
+
 #### 2.9.3
 **November 18, 2021**
 1. **Fix** Fix the bug that color.yml configuration is invalid
