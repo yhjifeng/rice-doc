@@ -6,6 +6,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.9.9
+**01 December 2021**
+1. **Optimised** Better adaptation 1.18
+
+#### 1.9.9 update mini-helper
+- No change in configuration file compared to 1.9.8, just replace the jar directly
+
 ### 1.9.8
 **November 29, 2021:**
 1. **Optimisation** Improved compatibility of Groupware with MythicMob
