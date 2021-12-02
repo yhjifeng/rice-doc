@@ -8,6 +8,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.9.5
+**December 02, 2021**
+1. **Optimisation** Better adaptation to 1.18
+
+#### 2.9.5 update small helper
+- No change in configuration files compared to 2.9.4, just replace the jar directly
+
 #### 2.9.4
 **December 01, 2021**
 1. **Optimized** Better adaptation to 1.18
