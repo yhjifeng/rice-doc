@@ -6,6 +6,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.10.1
+**December 03, 2021**
+1. **Optimization** Language file optimization
+
+#### 1.10.0 update small assistant
+- Configuration file compared to version 1.9.8 no change, direct replacement jar can be
+
 #### 1.10.0
 **01 December 2021**
 1. **Optimised** Better adaptation 1.18
