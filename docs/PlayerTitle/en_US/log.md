@@ -8,6 +8,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.9.7
+**07 December 2021**
+1. **Fix** Fix for title card's lore not supporting rgb colours
+
+#### 2.9.7 update of the little helper
+- No change in config file compared to version 2.9.6, just replace the jar directly
+
 #### 2.9.6
 **December 04, 2021**
 1. **Fix** Fix the bug that causes tab errors in lower versions in order to adapt 1.18
