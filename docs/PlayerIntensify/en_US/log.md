@@ -6,6 +6,13 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.0.9
+**December 18, 2021**
+1. **New** Now you can configure block restrictions in config.yml
+
+#### 1.0.9 update small helper
+- The configuration file has changed compared to version 1.0.8 (it is recommended to backup the previous one and then regenerate it)
+
 #### 1.0.8
 **Dec. 01, 2021**
 1. **Optimisation** Better adaptation to 1.18
