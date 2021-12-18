@@ -18,7 +18,7 @@
 isChunkLimit: true
 
 # 区块限制冷却时间-单位秒
-chunkLimitTime: 1800`
+chunkLimitTime: 1800
 ```
 
 #### 1.0.8
