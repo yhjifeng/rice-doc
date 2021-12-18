@@ -15,10 +15,10 @@
 ------------
 
 ## 二、相关信息
-插件发布帖：
-交流群1064982471: [点击加入](https://jq.qq.com/?_wv=1027&k=5sxTf8u "点击加入")
+插件发布帖： [MCBBS](https://www.mcbbs.net/thread-1285222-1-1.html)  
+交流群1064982471: [点击加入](https://jq.qq.com/?_wv=1027&k=5sxTf8u)
 
 ## 三、插件使用统计
 ![](https://bstats.org/signatures/bukkit/PlayerRewards.svg)
 
-[点击查看bstats插件统计](https://bstats.org/plugin/bukkit/PlayerRewards/13634 "点击查看bstats插件统计")
+[点击查看bstats插件统计](https://bstats.org/plugin/bukkit/PlayerRewards/13634)

@@ -14,9 +14,6 @@ This plugin was developed independently by me (MCBBS Forum ID:**ヽ Rice**).
 4. create bonus items directly
 ------------
 
-## II. Related information
-Plugin Release Post.
-
 ## III. Plugin usage statistics
 ! [](https://bstats.org/signatures/bukkit/PlayerRewards.svg)
 
