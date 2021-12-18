@@ -7,3 +7,4 @@
 * [**PlayerIntensify**](PlayerIntensify/)
 * [**PlayerFatigue**](PlayerFatigue/)
 * [**PlayerRace**](PlayerRace/)
+* [**PlayerRewards**](PlayerRewards/)
