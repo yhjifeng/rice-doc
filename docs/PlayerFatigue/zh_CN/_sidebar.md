@@ -5,3 +5,4 @@
 * [**更新记录**](PlayerFatigue/zh_CN/log)
 * [**常见问题**](PlayerFatigue/zh_CN/problem)
 * [**api**](PlayerFatigue/zh_CN/api)
+* [**我的作品**](PlayerFatigue/zh_CN/other)

@@ -17,3 +17,4 @@
 * [**MMOItems支持**](PlayerTitle/zh_CN/mmo)
 * [**原版药水(PotionEffect)支持支持**](PlayerTitle/zh_CN/PotionEffect)
 * [**自定义模型支持**](PlayerTitle/zh_CN/resourcepacks)
+* [**我的作品**](PlayerTitle/zh_CN/other)

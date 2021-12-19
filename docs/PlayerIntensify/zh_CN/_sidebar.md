@@ -6,3 +6,4 @@
 * [**常见问题**](PlayerIntensify/zh_CN/problem)
 * [**api**](PlayerIntensify/zh_CN/api)
 * [**图片展示**](PlayerIntensify/zh_CN/img)
+* [**我的作品**](PlayerIntensify/zh_CN/other)
