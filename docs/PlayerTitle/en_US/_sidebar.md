@@ -9,6 +9,7 @@
 * [**Update log**](PlayerTitle/en_US/log)
 * [**FAQ**](PlayerTitle/en_US/problem)
 * [**public and full versions**](PlayerTitle/en_US/note)
+* [**api**](PlayerTitle/en_US/api)
 * [**api documentation**](PlayerTitle/en_US/api)
 * [**AttributePlus support**](PlayerTitle/en_US/ap)
 * [**SX-Attribute support**](PlayerTitle/en_US/sx)
