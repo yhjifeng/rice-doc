@@ -10,7 +10,7 @@
 ------------
 #### 2.9.9
 **December 27, 2021**
-1. **New** api for removing reset player buffs, see [**api documentation**](PlayerTitle/zh_US/api)
+1. **New** api for removing reset player buffs, see [**api documentation**](PlayerTitle/en_US/api)
 
 #### 2.9.9 update of the mini-helper
 - The configuration file is unchanged from 2.9.8, just replace the jar directly
