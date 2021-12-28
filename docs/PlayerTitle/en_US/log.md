@@ -8,6 +8,8 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+
+#### 2.10.0
 **December 28, 2021**
 1. **optimization** api restore the type of previous version deleted
 
