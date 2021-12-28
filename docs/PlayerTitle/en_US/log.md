@@ -8,6 +8,12 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+**December 28, 2021**
+1. **optimization** api restore the type of previous version deleted
+
+#### 2.10.0 update small assistant
+- Configuration file compared to version 2.9.9 no change, direct replacement jar can be
+
 #### 2.9.9
 **December 27, 2021**
 1. **New** api for removing reset player buffs, see [**api documentation**](PlayerTitle/en_US/api)
