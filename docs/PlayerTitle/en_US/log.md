@@ -8,6 +8,12 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.10.1
+**December 30, 2021**
+1. **Optimization** Add more api, check javadoc for details
+
+#### 2.10.1 update small assistant
+- Configuration file compared to version 2.10.0 no change, direct replacement jar can be
 
 #### 2.10.0
 **December 28, 2021**
