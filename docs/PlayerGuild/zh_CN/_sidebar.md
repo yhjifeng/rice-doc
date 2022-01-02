@@ -7,3 +7,4 @@
 * [**图片展示**](PlayerGuild/zh_CN/img)
 * [**视频介绍**](PlayerGuild/zh_CN/mp4)
 * [**api**](PlayerGuild/zh_CN/api)
+* [**我的作品**](PlayerGuild/zh_CN/other)

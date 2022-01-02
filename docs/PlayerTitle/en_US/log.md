@@ -8,6 +8,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.10.2
+**January 02, 2022**
+1. **OPTIMIZED** After config turn off isEnableBuff configuration, do not trigger clear buff event
+
+#### 2.10.2 update small helper
+- Configuration file compared to version 2.10.1 no change, directly replace the jar can be
+
 #### 2.10.1
 **December 30, 2021**
 1. **Optimization** Add more api, check javadoc for details
