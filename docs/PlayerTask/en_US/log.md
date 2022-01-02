@@ -7,6 +7,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.11.2
+**January 02, 2022**
+1. **Fix** the exception that only one item can appear when disassembling in synthesis
+
+#### 1.11.2 update small assistant
+- Must execute command /plk up for data upgrade conversion
+- Configuration file compared to version 1.11.1 no change, directly replace the jar can be
+
 #### 1.11.1
 **January 02, 2022**
 1. **FIX** Unintentionally initialized mysql field lengths causing error reports
