@@ -5,6 +5,13 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.2.3
+**January 02, 2022**
+1. **Fix** Switched to vampire but reminded to become a werewolf
+
+#### 1.2.3 update small assistant
+- Configuration file compared to the 1.2.2 version no change, directly replace the jar can
+
 #### 1.2.2
 **December 01, 2021**
 1. **Optimisation** Better adaptation to 1.18
