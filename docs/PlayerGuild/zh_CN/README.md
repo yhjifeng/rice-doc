@@ -1,5 +1,7 @@
 # 前言
 > PlayerGuild 目前只有 **付费版**  
+> 获取网址 [爱发电](https://afdian.net/@PlayerTitle)  
+> 也直接联系作者购买 QQ: 956812056
 ------------
 ## 一、简介
 
