@@ -7,6 +7,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.11.1
+**January 02, 2022**
+1. **FIX** Unintentionally initialized mysql field lengths causing error reports
+
+#### 1.11.1 update assistant
+- Must execute command /plk up for data upgrade conversion
+- The configuration file has no change compared to version 1.11.0, just replace the jar directly
+
 #### 1.11.0
 **January 02, 2022**
 1. **New** A large number of api interfaces, see [github](https://github.com/handy-git/PlayerTaskVersions)
