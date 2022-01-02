@@ -1,17 +1,20 @@
 ### Version information
 
 ### Known bugs (currently known but unresolved bugs will be displayed here)
-1. plugins do not use yum such plugins for hot loading!
-2. mission target, some items held in the hand and put down is a different item, so it can not be detected, it is recommended here try not to use these special items as the mission target, for example: red stone powder, railroad tracks, seeds ...
+1. If the plugin is upgraded or the core is replaced, or the core is replaced with a smaller version, please make sure to execute /plk up for data conversion (this command is new in version 1.11.0+)
+2. plug-ins should not be hot-loaded using plug-ins like yum!
+3. mission objectives, some items held in the hand and put down is a different item, so it can not be detected, it is recommended that here try not to use these special items as mission objectives, for example: red stone powder, railroad tracks, seeds ...
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
-#### 1.10.2
-**December 24, 2021**
-1. **Fixes** npc type quests, new partial variable replacements (rarity, command descriptions)
+#### 1.11.0
+**January 02, 2022**
+1. **New** A large number of api interfaces, see [github](https://github.com/handy-git/PlayerTaskVersions)
+2. **Optimized** Now performance is improved, but to improve performance, you have to perform /plk up for data conversion
 
-#### 1.10.2 update small helper
-- No change in config file compared to 1.10.1, just replace the jar directly
+#### 1.11.0 update small helper
+- You must execute the command /plk up to convert the data update
+- The configuration file is unchanged compared to version 1.10.2, just replace the jar directly
 
 #### 1.10.1
 **December 03, 2021**
