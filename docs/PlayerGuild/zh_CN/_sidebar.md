@@ -4,4 +4,6 @@
 * [**PlaceholderAPI变量大全**](PlayerGuild/zh_CN/papi)
 * [**更新记录**](PlayerGuild/zh_CN/log)
 * [**常见问题**](PlayerGuild/zh_CN/problem)
+* [**图片展示**](PlayerGuild/zh_CN/img)
+* [**视频介绍**](PlayerGuild/zh_CN/mp4)
 * [**api**](PlayerGuild/zh_CN/api)

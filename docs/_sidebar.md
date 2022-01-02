@@ -4,6 +4,7 @@
 
 * [**PlayerTitle**](PlayerTitle/)
 * [**PlayerTask**](PlayerTask/)
+* [**PlayerGuild**](PlayerGuild/)
 * [**PlayerIntensify**](PlayerIntensify/)
 * [**PlayerFatigue**](PlayerFatigue/)
 * [**PlayerRace**](PlayerRace/)
