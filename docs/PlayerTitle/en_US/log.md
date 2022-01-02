@@ -8,6 +8,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.10.3
+**January 03, 2022**
+1. **Optimization** Some people alerted to the problem of abnormal connection to the server
+
+#### 2.10.3 update small assistant
+- Configuration file compared to version 2.10.2 no change, direct replacement jar can be
+
 #### 2.10.2
 **January 02, 2022**
 1. **OPTIMIZED** After config turn off isEnableBuff configuration, do not trigger clear buff event
