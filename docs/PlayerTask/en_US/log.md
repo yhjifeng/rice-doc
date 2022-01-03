@@ -7,6 +7,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.11.3
+**January 03, 2022**
+1. **Fix** Sometimes special items can cause sql query exceptions
+
+#### 1.11.3 update small assistant
+- Must execute command /plk up for data update conversion
+- Configuration file compared to version 1.11.2 no change, direct replacement jar can be
+
 #### 1.11.2
 **January 02, 2022**
 1. **Fix** the exception that only one item can appear when disassembling in synthesis
