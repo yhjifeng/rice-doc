@@ -8,6 +8,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.10.4
+**January 04, 2022**
+1. **Fix** particle effect error when using multiple attached particle plugins
+
+#### 2.10.4 update small assistant
+- Configuration file compared to 2.10.3 version no change, directly replace the jar can
+
 #### 2.10.3
 **January 03, 2022**
 1. **Optimization** Some people alerted to the problem of abnormal connection to the server
