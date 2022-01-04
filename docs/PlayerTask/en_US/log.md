@@ -7,6 +7,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.11.4
+**January 04, 2022**
+1. **Fix** sqlite sometimes sql execution fails
+
+#### 1.11.4 update small helper
+- Configuration file compared to version 1.11.3 no change, direct replacement jar can be
+
 #### 1.11.3
 **January 03, 2022**
 1. **Fix** Sometimes special items can cause sql query exceptions
