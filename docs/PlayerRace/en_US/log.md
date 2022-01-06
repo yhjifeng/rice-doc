@@ -5,6 +5,13 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.2.4
+**January 06, 2022**
+1. **New api** api can control the current player race hide and open
+
+#### 1.2.4 update small assistant
+- Configuration file compared to version 1.2.3 no change, direct replacement jar can be
+
 #### 1.2.3
 **January 02, 2022**
 1. **Fix** Switched to vampire but reminded to become a werewolf
