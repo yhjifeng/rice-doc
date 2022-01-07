@@ -4,11 +4,11 @@
 - [MCBBS SuperTrails](https://www.mcbbs.net/thread-592015-1-1.html "SuperTrails")
 - [SpigotMc SuperTrails](https://www.spigotmc.org/resources/supertrails.1879/ "Original Post")
 
-### 1.7-1.17 optional free front plugins (2.8.3+)
+### 1.7-1.18 optional free front plugins (2.8.3+)
 - [MCBBS PlayerParticles](https://www.mcbbs.net/thread-960877-1-1.html)
 - [SpigotMc PlayerParticles](https://www.spigotmc.org/resources/playerparticles.40261/)
 
-### 1.8-1.17 optional paid front plugins (particles more)
+### 1.8-1.18 optional paid front plugins (particles more)
 - [SpigotMc SuperTrailsPro](https://www.spigotmc.org/resources/supertrailspro.52132/ "SuperTrailsPro")
 
 ## Command
