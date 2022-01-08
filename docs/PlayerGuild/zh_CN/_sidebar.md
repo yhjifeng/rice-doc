@@ -6,5 +6,6 @@
 * [**常见问题**](PlayerGuild/zh_CN/problem)
 * [**图片展示**](PlayerGuild/zh_CN/img)
 * [**视频介绍**](PlayerGuild/zh_CN/mp4)
+* [**公平公会战**](PlayerGuild/zh_CN/kitpvp)
 * [**api**](PlayerGuild/zh_CN/api)
 * [**我的作品**](PlayerGuild/zh_CN/other)
