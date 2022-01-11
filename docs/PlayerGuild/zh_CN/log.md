@@ -12,6 +12,7 @@
 1. **新增** 指令/plg refresh  具体看指令介绍里
 2. **新增** title.yml和task.yml增加参数 enable: true来控制是否开启
 3. **修改** task.yml默认不会在自动生成任务，需要自己配置
+4. **修复** 匹配准备阶段有可能报错的bug
 
 #### 1.0.3更新小助手
 - zh_CN.yml 增加/plg refresh 的help提醒文本
