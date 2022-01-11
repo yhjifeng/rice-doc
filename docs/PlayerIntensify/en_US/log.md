@@ -6,6 +6,12 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+**11/01/2022**
+1. **New** You can now configure reinforcement items and reinforcement attributes in config.yml
+
+#### 1.1.0 update mini-helper
+- Configuration file has changed from version 1.0.9 (it is recommended to backup the previous one and regenerate it)
+
 #### 1.0.9
 **December 18, 2021**
 1. **New** Now you can configure block restrictions in config.yml
