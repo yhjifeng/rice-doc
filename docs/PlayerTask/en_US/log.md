@@ -7,14 +7,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
-#### 1.11.5
+#### 1.11.6
 **11/01/2022**
 1. **Fix** delete command parameter exception
 2. **Fix** unpage-down exception in gui
 3. **Fix** plk up command exception
 4. **Fix** an issue that may cause sqlite to lock the library
 
-#### 1.11.5 update helper
+#### 1.11.6 update helper
 - The command /plk up must be re-executed to convert the data update
 - No change in configuration file compared to 1.11.4, just replace the jar directly
 
