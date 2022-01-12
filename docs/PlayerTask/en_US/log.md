@@ -7,6 +7,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.11.7
+**12/01/2022**
+1. **Fixes** long-lasting bug with placement type tasks
+
+#### 1.11.7 update for small helpers
+- Must re-execute command /plk up for data upgrade conversion
+- No change in config file compared to 1.11.6, just replace the jar directly
+
 #### 1.11.6
 **11/01/2022**
 1. **Fix** delete command parameter exception
