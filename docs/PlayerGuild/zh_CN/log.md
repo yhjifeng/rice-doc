@@ -7,6 +7,48 @@
 #### 如果碰到报错,或者插件冲突等问题有请加群反馈
 
 ------------
+#### 1.1.1
+**2022年01月18日**
+1. **新增** 公会现在可以成员pvp管理
+2. **修复** 公会战场地异常
+3. **优化** 匹配比赛结束后活着的人先传送到观战点，然后传送到之前位置
+4. **新增** 公会现在可以主动邀请玩家加入了
+
+#### 1.1.1更新小助手
+对比1.1.0 版本 setting.yml有新增内容
+```
+# pvp管理
+pvp:
+  enable: true
+  index: 31
+  name: "   &8[&a设置成员PVP&8]"
+  material: iron_sword
+  isEnchant: false
+  lore:
+    - ''
+    - '&8▪ 当前状态 &8[${pvpStatus}&8]'
+    - ''
+    - '&8▪ &7需支付 &a${price} &7公会资金'
+    - '&8▪ &7你拥有 &a${money} &7公会资金'
+    - ''
+    - ' &8[&a✔&8] &7点击切换'
+  custom-model-data: 0
+  price: 100
+  yesPvp: "&a开启PVP"
+  noPvp: "&c禁止PVP"
+  
+ # 邀请成员
+invitation:
+  enable: true
+  index: 22
+  name: "     &8[&a邀请成员&8]"
+  material: PLAYER_HEAD
+  isEnchant: false
+  lore:
+    - "&f- &7点击可邀请在线玩家加入"
+  custom-model-data: 0
+```
+
 #### 1.1.0
 **2022年01月17日**
 1. **优化** 公会战场地分类型-赛季和匹配，之前的场地默认都是匹配
