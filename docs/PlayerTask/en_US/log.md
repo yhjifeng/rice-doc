@@ -7,6 +7,16 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.11.8
+**21/01/2022**
+1. **Fix** incorrect number of placement type tasks bug
+2. **Fix** /plk up upgrade command optimization
+3. **Fix** Unable to paginate issue
+
+#### 1.11.8 update of the small assistant
+- The command /plk up must be re-executed to convert the data to upgrade
+- Material.yml has new content
+
 #### 1.11.7
 **12/01/2022**
 1. **Fixes** long-lasting bug with placement type tasks
