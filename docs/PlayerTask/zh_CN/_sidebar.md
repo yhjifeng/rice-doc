@@ -7,6 +7,7 @@
 * [**NPC任务**](PlayerTask/zh_CN/npc)
 * [**更新记录**](PlayerTask/zh_CN/log)
 * [**图片展示**](PlayerTask/zh_CN/img)
+* [**视频介绍**](PlayerTask/zh_CN/mp4)
 * [**常见问题**](PlayerTask/zh_CN/problem)
 * [**任务稀有度**](PlayerTask/zh_CN/rarity)
 * [**卷轴任务**](PlayerTask/zh_CN/reel)
