@@ -7,6 +7,16 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.11.9
+**January 23, 2022**
+1. **FIX** Refreshing a task causes other people's tasks to be refreshed as well
+2. **FIX** Abnormal number of task refreshes
+3. **Fix** the problem that batch synthesis only counts 1 quantity
+4. **Fix** some erroneous sql that causes delete to delete more tasks
+
+#### 1.11.9 update small assistant
+- Configuration file compared to version 1.11.8 no change, directly replace the jar can be
+
 #### 1.11.8
 **21/01/2022**
 1. **Fix** incorrect number of placement type tasks bug
