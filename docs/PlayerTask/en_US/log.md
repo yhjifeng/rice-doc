@@ -7,6 +7,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.12.0
+**25/01/2022**
+1. **Fixes** some low version upgrades that caused error reporting on task creation
+
+#### 1.12.0 update for small helpers
+- No change in configuration file compared to 1.11.9, just replace the jar directly
+
 #### 1.11.9
 **January 23, 2022**
 1. **FIX** Refreshing a task causes other people's tasks to be refreshed as well
