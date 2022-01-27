@@ -7,5 +7,6 @@
 * [**图片展示**](PlayerGuild/zh_CN/img)
 * [**视频介绍**](PlayerGuild/zh_CN/mp4)
 * [**公会战介绍**](PlayerGuild/zh_CN/pvp)
+* [**公会战地图**](PlayerGuild/zh_CN/map)
 * [**api**](PlayerGuild/zh_CN/api)
 * [**我的作品**](PlayerGuild/zh_CN/other)

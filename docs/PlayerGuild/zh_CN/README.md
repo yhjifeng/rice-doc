@@ -1,6 +1,6 @@
 # 前言
 > PlayerGuild 目前只有 **付费版**  
-> 价格: **150RMB**  购买网址 [爱发电](https://afdian.net/@PlayerTitle)  
+> 价格: **150RMB**  购买网址 [爱发电](https://afdian.net/item?plan_id=0d1d56ae6b8111ecbbac52540025c377)  
 > 也直接联系作者购买(推荐方式) QQ: 956812056
 ------------
 ## 一、简介
