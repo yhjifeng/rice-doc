@@ -3,7 +3,7 @@
 **玩家称号**  **PlayerTitle** **付费插件** **(有免费版)**  
 [MCBBS](https://www.mcbbs.net/thread-1004671-1-1.html)
 [SpigotMc](https://www.spigotmc.org/resources/78048)
-[wiki](PlayerTitle/)  
+[wiki](PlayerTitle/)
 
 **玩家任务** **PlayerTask** **付费插件** **(有免费版)**    
 [MCBBS](https://www.mcbbs.net/thread-1084534-1-1.html)
@@ -13,13 +13,16 @@
 **玩家公会** **PlayerGuild** **付费插件**   
 [wiki](PlayerGuild/)
 
+MCMMO 附属 可视化gui 免费插件  
+[MCBBS](https://www.mcbbs.net/thread-1300127-1-1.html)
+
 玩家疲劳值 PlayerFatigue 免费插件  
 [MCBBS](https://www.mcbbs.net/thread-1101322-1-1.html)
 [SpigotMc](https://www.spigotmc.org/resources/95360)
 [wiki](PlayerFatigue/)
 
 玩家超自然种族 PlayerRace 免费插件  
-[MCBBS](https://www.mcbbs.net/thread-1149860-1-1.html)  
+[MCBBS](https://www.mcbbs.net/thread-1149860-1-1.html)
 [wiki](PlayerRace/)
 
 玩家强化 PlayerIntensify 免费插件  
