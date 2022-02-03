@@ -8,6 +8,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.10.5
+**February 03, 2022**
+1. **Fix** Sometimes open gui exception when using mmoItems as buff
+
+#### 2.10.5 update small helper
+- Configuration file compared to version 2.10.4 no change, direct replacement jar can be
+
 #### 2.10.4
 **January 04, 2022**
 1. **Fix** particle effect error when using multiple attached particle plugins
