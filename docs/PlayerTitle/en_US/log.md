@@ -8,6 +8,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.10.6
+**February 04, 2022**
+1. **Fix** an issue where using sqlite would report an error
+
+#### 2.10.6 update small assistant
+- Configuration file compared to 2.10.5 version no change, directly replace the jar can be
+
 #### 2.10.5
 **February 03, 2022**
 1. **Fix** Sometimes open gui exception when using mmoItems as buff
