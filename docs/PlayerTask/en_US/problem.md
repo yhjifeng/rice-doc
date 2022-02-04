@@ -22,12 +22,18 @@ After version 1.6.0
 The daily task will be generated automatically at 00:00 by logical judgement, and will only be extracted from those of type everyday
 Use the /plk getToday command with caution, use this command to clear the previous player task data and regenerate today's random tasks (it will not affect the created task list)
 For performance reasons, it now clears out all the old historical task data when generating a new daily task each day
+```
 
+After version 1.11.0
+```
+Daily quests will be automatically available when players log in to the game   
+At 00:00, yesterday's tasks will be deleted and today's tasks will be re-generated  
+(Only those of type EVERYDAY will be selected)
+````
 
 #### 2. Can't I Chineseize the quest requirements and reward items?
-ðŸ™' ðŸ™'
+```
  Version 1.13+ will be Chineseized automatically
- 
  Other versions are configured in item.json
  If you have not configured it, please make sure that each English word is correct (we recommend to use what items you want to Chineseize, add them here, and then reload the configuration file)
  
@@ -53,3 +59,7 @@ For example:
 # Players execute the command, the middle 1 means execute as op
 /plk addReward command 1 eco#give#${player}#666
 ````
+#### 5. How to submit a type of task
+```
+Mouse middle key
+```
