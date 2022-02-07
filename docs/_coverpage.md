@@ -12,6 +12,5 @@
 * [PlayerRace](https://www.mcbbs.net/thread-1149860-1-1.html)
 * [PlayerRewards](https://www.mcbbs.net/thread-1285222-1-1.html)
 
-
 [Gitee](https://gitee.com/handy-git/rice-doc)
 [Get Started](#米饭插件列表)

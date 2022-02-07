@@ -11,6 +11,7 @@
 [wiki](PlayerTask/)
 
 **玩家公会** **PlayerGuild** **付费插件**   
+[MCBBS](https://www.mcbbs.net/thread-1297813-1-1.html)
 [wiki](PlayerGuild/)
 
 MCMMO 附属 可视化gui 免费插件  
