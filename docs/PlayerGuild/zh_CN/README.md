@@ -36,11 +36,32 @@
 ------------
 
 ## 二、相关信息
-插件发布帖: 暂无     
-插件原帖: 暂无  
+插件原帖: [MCBBS](https://www.mcbbs.net/thread-1297813-1-1.html)  
 交流群1064982471: [点击加入](https://jq.qq.com/?_wv=1027&k=5sxTf8u)  
 
-## 三、插件使用统计
+## 三、插件前置说明(都是非必须)
+PlaceholderAPI PAPI变量  
+[spigotmc](https://www.spigotmc.org/resources/placeholderapi.6245/)
+[MCBBS](https://www.mcbbs.net/thread-1216863-1-1.html)  
+PlayerTitle 称号插件  需2.10.1+  
+[MCBBS](https://www.mcbbs.net/thread-1004671-1-1.html)  
+PlayerTask 任务插件  需1.11.1+  
+[MCBBS](https://www.mcbbs.net/thread-1084534-1-1.html)  
+Multiverse-Core 多世界插件    
+[MCBBS](https://www.mcbbs.net/thread-1016455-1-1.html)  
+WorldBorder 世界边境  
+[SpigotMC](https://www.spigotmc.org/resources/worldborder.60905/)
+[MCBBS](https://www.mcbbs.net/thread-608265-1-1.html)  
+Vault 经济插件(需基础插件例如ess，cmi等)  
+[MCBBS](https://www.mcbbs.net/thread-1229697-1-1.html)    
+PlayerPoints 点券插件 需3.0.0+    
+[SpigotMc](https://www.spigotmc.org/resources/playerpoints.80745/)
+[MCBBS](https://www.mcbbs.net/thread-1296992-1-1.html)  
+PlayerRace 种族插件  需1.2.4+    
+[MCBBS](https://www.mcbbs.net/thread-1149860-1-1.html)
+
+
+## 四、插件使用统计
 
 ![](https://bstats.org/signatures/bukkit/PlayerGuild.svg)
 
