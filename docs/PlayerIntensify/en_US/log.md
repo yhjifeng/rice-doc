@@ -6,6 +6,14 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.1.2
+**February 13, 2022**
+1. **optimize** the attack speed back to normal after strengthening (but lore will be more negative, because the mc itself is a negative number)
+2. **Fix** the problem of holograms remaining unchanged after strengthening
+
+#### 1.1.2 update small assistant
+- Configuration file compared to version 1.1.1 without any changes
+
 #### 1.1.1
 **17/01/2022**
 1. **Optimization** Improved event priority for fortifying secret potions and better compatibility with other plugins
