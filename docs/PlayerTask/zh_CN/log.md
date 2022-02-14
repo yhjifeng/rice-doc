@@ -7,6 +7,20 @@
 #### 如果碰到报错,或者插件冲突等问题有请加群反馈
 
 ------------
+#### 1.12.1
+**2022年02月14日**
+1. **优化** 事件的优先级调整
+2. **优化** 1.18版本可自定义提交任务的按键
+
+#### 1.12.1更新小助手
+- config.yml新增
+```
+# MIDDLE 鼠标中键(或鼠标滚轮按键)  DOUBLE_CLICK 双击鼠标左键
+# 具体查看https://bukkit.windit.net/javadoc/org/bukkit/event/inventory/ClickType.html
+# 无法使用键盘和Shift相关按键
+submitClickType: MIDDLE
+```
+
 #### 1.12.0
 **2022年01月25日**
 1. **修复** 一些低版本升级导致创建任务报错问题

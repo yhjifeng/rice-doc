@@ -7,6 +7,20 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.12.1
+**14 February 2022**
+1. **Optimization** Event prioritization
+2. **Optimized** customizable submit task button in version 1.18
+
+#### 1.12.1 update of the small helper
+- config.yml added
+```
+# MIDDLE mouse middle key (or mouse scroll wheel key) DOUBLE_CLICK double click mouse left key
+# Specific view https://bukkit.windit.net/javadoc/org/bukkit/event/inventory/ClickType.html
+# Keyboard and Shift related keys are not available
+submitClickType: MIDDLE
+```
+
 #### 1.12.0
 **25/01/2022**
 1. **Fixes** some low version upgrades that caused error reporting on task creation

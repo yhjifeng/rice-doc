@@ -7,6 +7,20 @@
 #### 如果碰到報錯,或者插件沖突等問題有請加群反饋
 
 ------------
+#### 1.12.1
+**2022年02月14日**
+1. **優化** 事件的優先級調整
+2. **優化** 1.18版本可自定義提交任務的按鍵
+
+#### 1.12.1更新小助手
+- config.yml新增
+```
+# MIDDLE 鼠標中鍵(或鼠標滾輪按鍵)  DOUBLE_CLICK 雙擊鼠標左鍵
+# 具體查看https://bukkit.windit.net/javadoc/org/bukkit/event/inventory/ClickType.html
+# 無法使用鍵盤和Shift相關按鍵
+submitClickType: MIDDLE
+```
+
 #### 1.12.0
 **2022年01月25日**
 1. **修復** 一些低版本升級導致創建任務報錯問題
