@@ -5,6 +5,14 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.2.6
+**February 16, 2022**
+1. **Fix** api to improve timed quest logic
+2. **New** vampires can be configured to use items
+
+#### 1.2.6 update small assistant
+- Configuration file compared to version 1.2.4 no change, directly replace the jar can
+
 #### 1.2.4
 **January 06, 2022**
 1. **New api** api can control the current player race hide and open
