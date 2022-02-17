@@ -5,6 +5,13 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.2.7
+**February 17, 2022**
+1. **Fix** Vampires can be configured to use items
+
+#### 1.2.7 update small assistant
+- Configuration file compared to the 1.2.6 version no change, directly replace the jar can
+
 #### 1.2.6
 **February 16, 2022**
 1. **Fix** api to improve timed quest logic
