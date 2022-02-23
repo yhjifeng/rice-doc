@@ -54,3 +54,6 @@ MCMMO 附属 可视化gui 免费插件
 
 米饭论坛  
 [rice-bbs](https://bbs.ljxmc.top/)
+
+米饭爱发电  
+[电铺](https://afdian.net/@PlayerTitle?tab=shop)
