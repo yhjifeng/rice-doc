@@ -8,5 +8,6 @@
 * [**视频介绍**](PlayerGuild/zh_CN/mp4)
 * [**公会战介绍**](PlayerGuild/zh_CN/pvp)
 * [**公会战地图**](PlayerGuild/zh_CN/map)
+* [**萌芽版本**](PlayerGuild/zh_CN/GermEngine)
 * [**api**](PlayerGuild/zh_CN/api)
 * [**我的作品**](PlayerGuild/zh_CN/other)
