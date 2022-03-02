@@ -7,6 +7,72 @@
 #### 如果碰到报错,或者插件冲突等问题有请加群反馈
 
 ------------
+#### 1.2.8
+**2022年03月02日**
+1. **新增** 公会消息
+2. **优化** 各种gui的title可以重载加载
+3. **新增** 公会logo名称的变量
+4. **修复** 公会世界边境升级处理
+5. **新增** 现在可以设置公会世界规则了(例如死亡不掉落)
+
+#### 1.2.8更新小助手
+对比1.2.7 版本配置文件变化如下:
+
+world.yml新增(可手动改或者备份后重新生成)
+```
+# 世界规则 可查阅 https://minecraft.fandom.com/zh/wiki/%E5%91%BD%E4%BB%A4/gamerule
+gameRule:
+  # 要设置为true的规则
+  trueFlag:
+    - 'keepInventory'
+  # 要设置为false的规则
+  falseFlag:
+    - ''
+```
+config.yml新增(可手动改或者备份后重新生成)
+```
+# 什么符号开头的消息会自动转化为公会消息
+guildChat:
+enable: true
+startsWith: "!"
+prefix: "&f[&a公会消息&f] "
+```
+view.yml新增和变更内容如下(可手动改或者备份后重新生成)
+```
+# 公会消息
+msg:
+  enable: true
+  index: 33
+  name: "   &8[&c公会消息&8]"
+  material: REDSTONE
+  isEnchant: false
+  lore:
+    - "&f- &7点击查看公会消息"
+  custom-model-data: 0
+
+# 退出公会
+exit:
+  enable: true
+  index: 51
+  name: "   &8[&c退出公会&8]"
+  material: REDSTONE
+  isEnchant: false
+  lore:
+    - "&f- &7点击退出公会"
+  custom-model-data: 0
+
+# 分隔板
+pane:
+  enable: true
+  index: 0,1,2,3,5,6,7,8,9,17,18,26,27,35,36,44,45,46,47,48,50,52,53
+  material: BLACK_STAINED_GLASS_PANE
+  isEnchant: false
+  name: "       &8[&7分割板&8]"
+  lore:
+    - "&7哎呀,不要随便戳人家啦"
+  custom-model-data: 0
+```
+
 #### 1.2.7
 **2022年02月22日**
 1. **优化** 热加载关闭的时候检查gui类型
