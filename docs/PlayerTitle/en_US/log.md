@@ -8,6 +8,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.10.7
+**04 February 2022**
+1. **OPTIMIZED** Adapted to PlayerIntensify Enhanced Plugin version 1.1.2+
+
+#### 2.10.7 update mini-helper
+- No changes to the configuration file compared to version 2.10.6, just replace the jar directly
+
 #### 2.10.6
 **February 04, 2022**
 1. **Fix** an issue where using sqlite would report an error
