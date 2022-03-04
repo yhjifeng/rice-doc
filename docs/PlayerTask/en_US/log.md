@@ -7,6 +7,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.12.2
+**March 02, 2022**
+1. **Improvement** Removed logic from 1.12.1, now submit item type quests are integrated directly into the left click  
+   When clicked, the item will be submitted and the task will be completed (only if the required number of items are in the backpack)
+
+#### 1.12.2 update helper
+- No changes to the configuration file compared to 1.12.1, just replace the jar directly
+
 #### 1.12.1
 **14 February 2022**
 1. **Optimization** Event prioritization
