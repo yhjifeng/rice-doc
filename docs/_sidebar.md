@@ -2,10 +2,10 @@
 
 # 米饭插件列表
 
-* [**PlayerTitle**](PlayerTitle/)
-* [**PlayerTask**](PlayerTask/)
-* [**PlayerGuild**](PlayerGuild/)
-* [**PlayerIntensify**](PlayerIntensify/)
-* [**PlayerFatigue**](PlayerFatigue/)
-* [**PlayerRace**](PlayerRace/)
-* [**PlayerRewards**](PlayerRewards/)
+* [**PlayerTitle**](PlayerTitle/zh_CN/)
+* [**PlayerTask**](PlayerTask/zh_CN/)
+* [**PlayerGuild**](PlayerGuild/zh_CN/)
+* [**PlayerIntensify**](PlayerIntensify/zh_CN/)
+* [**PlayerFatigue**](PlayerFatigue/zh_CN/)
+* [**PlayerRace**](PlayerRace/zh_CN/)
+* [**PlayerRewards**](PlayerRewards/zh_CN/)

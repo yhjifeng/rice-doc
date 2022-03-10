@@ -30,6 +30,7 @@
 <script>
     window.$docsify = {
         loadSidebar: true,
+        loadNavbar: true,
         name: '米饭 文档',
         repo: 'https://gitee.com/handy-git/rice-doc',
         coverpage: true,
@@ -37,6 +38,12 @@
         auto2top: true,
         //小屏设备下合并导航栏到侧边栏
         mergeNavbar: true,
+        count:{
+            countable:true,
+            fontsize:'0.9em',
+            color:'rgb(90,90,90)',
+            language:'chinese'
+        },
         plugins: [
             // footer
             function (hook) {
@@ -69,6 +76,8 @@
     };
 </script>
 <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
+<!-- emoji -->
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>

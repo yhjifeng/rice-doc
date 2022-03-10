@@ -1,36 +1,59 @@
-# 米饭主页及文档项目
+## 我的作品
 
-## 技术选型
+**玩家称号**  **PlayerTitle** **付费插件** **(有免费版)**  
+[MCBBS](https://www.mcbbs.net/thread-1004671-1-1.html) &ensp;
+[SpigotMc](https://www.spigotmc.org/resources/78048) &ensp;
+[wiki](PlayerTitle/zh_CN/)
 
-1. 主页为纯HTML，只有一个`index.html`（模板来自网上修改）
-2. 文档位于`docs`文件夹下，纯静态，基于[docsify](https://docsify.js.org/)构建。
+**玩家任务** **PlayerTask** **付费插件** **(有免费版)**    
+[MCBBS](https://www.mcbbs.net/thread-1084534-1-1.html) &ensp;
+[SpigotMc](https://www.spigotmc.org/resources/96554) &ensp;
+[wiki](PlayerTask/zh_CN/)
 
-## 资源和托管
+**玩家公会** **PlayerGuild** **付费插件**   
+[MCBBS](https://www.mcbbs.net/thread-1297813-1-1.html) &ensp;
+[wiki](PlayerGuild/zh_CN/)
 
-1. 主页和文档的页面托管于[gitee](https://www.gitee.com/)
+MCMMO 附属 可视化gui 免费插件  
+[MCBBS](https://www.mcbbs.net/thread-1300127-1-1.html)
 
-## 文档结构
+玩家疲劳值 PlayerFatigue 免费插件  
+[MCBBS](https://www.mcbbs.net/thread-1101322-1-1.html) &ensp;
+[SpigotMc](https://www.spigotmc.org/resources/95360) &ensp;
+[wiki](PlayerFatigue/zh_CN/)
 
-- docs
-  - PlayerTitle
-    - en_US
-    - zh_CN
-      - _sidebar.md
-      - add.md
-      - ap.md
-      - api.md
-      - .....
-    - zh_TW
-    
-## 贡献
+玩家超自然种族 PlayerRace 免费插件  
+[MCBBS](https://www.mcbbs.net/thread-1149860-1-1.html) &ensp;
+[wiki](PlayerRace/zh_CN/)
 
-如果你想参与文档的编辑和修改文档内容  
-不管是错别字，还是一个图还是其他语言的文档都可以
-1. fork本项目到你本地
-2. 在你本地的分支上进行新增或修改对应内容
-3. 发起Pull Request到本项目
-4. 等待审核并合并代码
+玩家强化 PlayerIntensify 免费插件  
+[MCBBS](https://www.mcbbs.net/thread-1198166-1-1.html) &ensp;
+[SpigotMc](https://www.spigotmc.org/resources/95362) &ensp;
+[wiki](PlayerIntensify/zh_CN/)
 
-## 复用
+玩家奖励 PlayerRewards 免费插件  
+[MCBBS](https://www.mcbbs.net/thread-1285222-1-1.html) &ensp;
+[wiki](PlayerRewards/zh_CN/)
 
-如果你对这个项目中的文档和模板有兴趣，可以clone项目到你自己的账号下，修改为自己的内容即可，无版权问题。
+领地扩展 ResidenceEnhance 免费插件  
+[MCBBS](https://www.mcbbs.net/thread-1206203-1-1.html) &ensp;
+[SpigotMc](https://www.spigotmc.org/resources/96192)
+
+怪物增强 monster 免费插件  
+[MCBBS](https://www.mcbbs.net/thread-963507-1-1.html)
+
+米饭快速插件开发框架  
+[MCBBS](https://www.mcbbs.net/thread-1254437-1-1.html)
+
+米饭服务器管理平台  
+[MCBBS](https://www.mcbbs.net/thread-1083629-1-1.html) &ensp;
+[McAdmin](https://admin.ljxmc.top/)
+
+米饭插件文档  
+[rice-doc](https://handy-git.gitee.io/rice-doc)
+
+米饭论坛  
+[rice-bbs](https://bbs.ljxmc.top/)
+
+米饭爱发电  
+[电铺](https://afdian.net/@PlayerTitle?tab=shop)
