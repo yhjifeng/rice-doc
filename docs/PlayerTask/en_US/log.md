@@ -7,6 +7,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.12.3
+**March 11, 2022**
+1. **Optimization** Task probability random refresh mechanism anomaly repair
+
+#### 1.12.3 update small assistant
+- Configuration file compared to version 1.12.2 no change, directly replace the jar can
+
 #### 1.12.2
 **March 02, 2022**
 1. **Improvement** Removed logic from 1.12.1, now submit item type quests are integrated directly into the left click  
