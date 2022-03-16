@@ -11,7 +11,7 @@
 **16 Mar 2022**
 1. **Fix** a bug where items were not deducted for certain special cases of task submissions
 
-#### 1.12.34 New small helper
+#### 1.12.4 update small assistant
 - The configuration file has no change compared to version 1.12.3, just replace the jar directly
 
 #### 1.12.3
