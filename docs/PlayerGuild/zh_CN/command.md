@@ -31,6 +31,7 @@
 | playerguild.create.color        | 公会名可使用颜色代码(1.2.0+) | op |
 | playerguild.signin              | 使用指令后台签到(1.2.7+) | op |
 | playerguild.look              | 使用指令查看当前是否开启公会战(1.2.7+) | op |
+| playerguild.start              | 使用指令立即开启赛季公会战(1.3.2+) | op |
 
 ## 指令:
 
@@ -52,6 +53,7 @@
 | /plg setEquipment (类型)             | 设置公平pvp装备(1.2.0+)                   |
 | /plg signin [vault或point] [玩家名]    | 使用指令给玩家后台签到(1.2.7+)                 |
 | /plg look                          | 使用指令查看当前是否开启公会战(1.2.7+)             |
+| /plg start                         | 使用指令立即开启赛季公会战(1.3.2+)               |
 [] 必填 () 非必填
 
 ## 特别说明
