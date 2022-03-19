@@ -8,6 +8,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 2.10.8
+**March 19, 2022**
+1. **Optimized** Variables now support showing offline players
+
+#### 2.10.8 update small assistant
+- The configuration file has no change compared to version 2.10.7, just replace the jar directly
+
 #### 2.10.7
 **04 February 2022**
 1. **OPTIMIZED** Adapted to PlayerIntensify Enhanced Plugin version 1.1.2+

@@ -7,6 +7,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.12.5
+**March 19, 2022**
+1. **Fix** special items under mysql length too long error reported
+
+#### 1.12.5 update small assistant
+- Configuration file compared to version 1.12.4 no change, direct replacement jar can be
+
 #### 1.12.4
 **16 Mar 2022**
 1. **Fix** a bug where items were not deducted for certain special cases of task submissions
