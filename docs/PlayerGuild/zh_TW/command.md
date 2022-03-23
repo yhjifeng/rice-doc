@@ -4,54 +4,58 @@
 
 ##### 很多下面涉及都類型不知道的 低版本請使用tab提醒,1.12以上會自動提醒
 
-| 權限                              | 用途              | 默認擁有者  |
-|---------------------------------|--- --------------|--------|
-| playerguild.reload              | 重載插件            | op     |
-| playerguild.create              | 創建公會            | true   |
-| playerguild.addLogo             | 添加logo商城物品      | op     |
-| playerguild.addShop             | 添加公會商城物品        | op     |
-| playerguild.setLocation         | 設置pvp場地         | op     |
-| playerguild.view                | 管理員進行查看信息       | op     |
-| playerguild.spawn               | 回去公會主城          | true   |
-| playerguild.setspawn            | 設置公會主城          | true   |
-| playerguild.createworld         | 創建公會世界          | op     |
-| playerguild.up                  | 升級公會            | true   |
-| playerguild.leave               | 離開公會            | true   |
-| playerguild.accept              | 同意加入公會          | true   |
-| playerguild.deny                | 拒絕加入公會          | true   |
-| playerguild.open                | 打開公會列表          | true   |
-| playerguild.acceptPvp           | 同意加入公會戰         | true   |
-| playerguild.denyPvp             | 絕加入公會戰          | true   |
-| playerguild.editGuildName       | 修改公會名稱          | true   |
-| playerguild.give                | 增加貢獻(1.0.2+)    | op     |
-| playerguild.take                | 減少貢獻(1.0.2+)    | op     |
-| playerguild.set                 | 設置貢獻(1.0.2+)    | op     |
-| playerguild.refresh             | 刷新(1.0.3+)      | op     |
-| playerguild.dissolve            | 刷新(1.2.0+)      | op     |
-| playerguild.create.color        | 公會名可使用顏色代碼(1.2.0+) | op |
-| playerguild.signin              | 使用指令後臺簽到(1.2.7+) | op |
-| playerguild.look              | 使用指令查看當前是否開啟公會戰(1.2.7+) | op |
+|            權限             |           用途            |  默認擁有者  |  
+|:-------------------------:|:-----------------------:|:-------:|
+|    playerguild.reload     |          重載插件           |   op    |  
+|    playerguild.create     |          創建公會           |  true   |
+|    playerguild.addLogo    |       添加logo商城物品        |   op    |
+|    playerguild.addShop    |        添加公會商城物品         |   op    |
+|  playerguild.setLocation  |         設置pvp場地         |   op    |
+|     playerguild.view      |        管理員進行查看信息        |   op    |
+|     playerguild.spawn     |         回去公會主城          |  true   |
+|   playerguild.setspawn    |         設置公會主城          |  true   |
+|  playerguild.createworld  |         創建公會世界          |   op    |
+|      playerguild.up       |          升級公會           |  true   |
+|     playerguild.leave     |          離開公會           |  true   |
+|    playerguild.accept     |         同意加入公會          |  true   |
+|     playerguild.deny      |         拒絕加入公會          |  true   |
+|     playerguild.open      |         打開公會列表          |  true   |
+|   playerguild.acceptPvp   |         同意加入公會戰         |  true   |
+|    playerguild.denyPvp    |         絕加入公會戰          |  true   |
+| playerguild.editGuildName |         修改公會名稱          |  true   |
+|     playerguild.give      |      增加貢獻(1.0.2+)       |   op    |
+|     playerguild.take      |      減少貢獻(1.0.2+)       |   op    |
+|      playerguild.set      |      設置貢獻(1.0.2+)       |   op    |
+|    playerguild.refresh    |       刷新(1.0.3+)        |   op    |
+|   playerguild.dissolve    |       刷新(1.2.0+)        |   op    |
+| playerguild.create.color  |   公會名可使用顏色代碼(1.2.0+)    |   op    |
+|    playerguild.signin     |    使用指令後臺簽到(1.2.7+)     |   op    |
+|     playerguild.look      | 使用指令查看當前是否開啟公會戰(1.2.7+) |   op    |
+|     playerguild.start     |  使用指令立即開啟賽季公會戰(1.3.2+)  |   op    |
+|    playerguild.convert    |      轉換數據源(1.3.3+)      |   op    |
 
 ## 指令:
 
-| 指令                                 | 用途                                  |
-|------------------------------------|-------------------------------------|
-| /plg reload                        | 重載配置文件                              |
-| /plg create [公會名稱]                 | 創建公會                                |
-| /plg open                          | 打開公會界面                              |
-| /plg view  [類型]                    | 管理員進行查看信息                           |
+|                 指令                 |                 用途                  |
+|:----------------------------------:|:-----------------------------------:|
+|            /plg reload             |               重載配置文件                |
+|         /plg create [公會名稱]         |                創建公會                 |
+|             /plg open              |               打開公會界面                |
+|          /plg view  [類型]           |              管理員進行查看信息              |
 | /plg setLocation [類型] [場地名] [出生點名] | 設置公會戰場地(類型: season:賽季場地, mate:匹配場地) |
-| /plg addShop  [價格] (等級) (限購次數)     | 手持物品上架公會商城                          |
-| /plg addLogo  [價格] (等級)            | 手持物品上架公會logo商城                      |
-| /plg restore  [玩家名]                | 救命指令,獲取玩家公會戰開始前備份的裝備                |
-| /plg give  [類型] [名稱][數量]           | 增加貢獻(1.0.2+)                        |
-| /plg take  [類型] [名稱][數量]           | 減少貢獻(1.0.2+)                        |
-| /plg set  [類型] [名稱][數量]            | 設置貢獻(1.0.2+)                        |
-| /plg refresh                       | 刷新，用於修復公會沒任務或者沒稱號(1.0.3+)           |
-| /plg dissolve  [公會名]               | 強製解散公會(1.2.0+)                      |
-| /plg setEquipment (類型)             | 設置公平pvp裝備(1.2.0+)                   |
-| /plg signin [vault或point] [玩家名]    | 使用指令給玩家後臺簽到(1.2.7+)                 |
-| /plg look                          | 使用指令查看當前是否開啟公會戰(1.2.7+)             |
+|   /plg addShop  [價格] (等級) (限購次數)   |             手持物品上架公會商城              |
+|      /plg addLogo  [價格] (等級)       |           手持物品上架公會logo商城            |
+|        /plg restore  [玩家名]         |        救命指令,獲取玩家公會戰開始前備份的裝備         |
+|      /plg give  [類型] [名稱][數量]      |            增加貢獻(1.0.2+)             |
+|      /plg take  [類型] [名稱][數量]      |            減少貢獻(1.0.2+)             |
+|      /plg set  [類型] [名稱][數量]       |            設置貢獻(1.0.2+)             |
+|            /plg refresh            |      刷新，用於修復公會沒任務或者沒稱號(1.0.3+)      |
+|        /plg dissolve  [公會名]        |           強製解散公會(1.2.0+)            |
+|       /plg setEquipment (類型)       |          設置公平pvp裝備(1.2.0+)          |
+|  /plg signin [vault或point] [玩家名]   |         使用指令給玩家後臺簽到(1.2.7+)         |
+|             /plg look              |       使用指令查看當前是否開啟公會戰(1.2.7+)       |
+|             /plg start             |        使用指令立即開啟賽季公會戰(1.3.2+)        |
+|     /plg convert[MySQL-SQLite]     |            轉換數據源(1.3.3+)            |
 [] 必填 () 非必填
 
 ## 特別說明
