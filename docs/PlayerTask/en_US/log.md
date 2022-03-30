@@ -7,6 +7,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.12.6
+**March 30, 2022**
+1. **Optimized** Compatible with MythicMobs 5.x
+
+#### 1.12.6 update small assistant
+- Configuration file no change compared to 1.12.5 version, just replace the jar directly
+
 #### 1.12.5
 **March 19, 2022**
 1. **Fix** special items under mysql length too long error reported
