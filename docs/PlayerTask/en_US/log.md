@@ -7,6 +7,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.12.8
+**03/04/2022**
+1. **Fix** 1.8 submission type quest exception
+2. **Fix** npc quest disable right click query
+
+#### 1.12.8 update for small helpers
+- No change in configuration file compared to 1.12.6, just replace the jar directly
+
 #### 1.12.6
 **March 30, 2022**
 1. **Optimized** Compatible with MythicMobs 5.x
