@@ -7,6 +7,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.12.9
+**04 April 04, 2022**
+1. **optimized** item.json works for other language types as well
+2. **Optimize** some problems with convert command
+
+#### 1.12.9 update small helper
+- The configuration file has no change compared to version 1.12.8, just replace the jar directly
+
 #### 1.12.8
 **03/04/2022**
 1. **Fix** 1.8 submission type quest exception
