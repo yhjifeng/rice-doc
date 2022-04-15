@@ -5,6 +5,13 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+
+#### 1.2.8
+**April 15, 2022**
+1. **Fix** bug caused by size name ("magic hand" method, etc. Bug)
+#### 1.2.8 Update the assistant
+- the configuration file is free compared to version 1.2.7, so you can replace jar directly.
+
 #### 1.2.7
 **February 17, 2022**
 1. **Fix** Vampires can be configured to use items
