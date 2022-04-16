@@ -5,6 +5,12 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.2.9
+**16 April 2022**
+1. **Fixes** bugs caused by caching
+
+#### 1.2.9 update small helper
+- No changes to the configuration file compared to version 1.2.8, just replace the jar directly
 
 #### 1.2.8
 **April 15, 2022**
