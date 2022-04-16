@@ -98,7 +98,7 @@ isTab 顯示tab稱號和頭頂稱號這個小功能跟計分板插件沖突
 #### 14. 粒子效果不顯示
 
 ```
-1. 檢查前置是否正常目前有SuperTrails和SuperTrailsPro
+1. 檢查前置是否正常目前有SuperTrails或SuperTrailsPro或PlayerParticles加載成功
 2. 檢查客戶端是否已經開啟粒子顯示
 3. 插件完全禁止任何形式的熱加載，請重啟
 4. 添加了粒子後請看看稱號描述上是否已經有了
@@ -197,4 +197,10 @@ title:
 ```
 自己測試，大部分mod是兼容的
 但是不排除極少的特殊mod不兼容，歡迎反饋
+```
+
+#### 20. MiaoChat不兼容RGB顏色的稱號變量
+
+```
+沒救，miaoChat設計缺陷 請更換使用trchat，這個支持的
 ```

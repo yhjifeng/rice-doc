@@ -98,7 +98,7 @@ SxAttribute default support is sx3.x version, if you use the sx is 2.x please go
 #### 14. particle effect does not show
 
 ```
-1. check whether the front is normal at present there are SuperTrails and SuperTrailsPro
+1. check whether the front is normal at present there are SuperTrails or SuperTrailsPro or PlayerParticles
 2. check if the client has enabled the particle display
 3. the plugin completely prohibits any kind of hot loading, please restart
 4. After adding the particles, please check if the title description is already there
