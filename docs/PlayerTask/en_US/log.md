@@ -7,6 +7,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.13.0
+**04/19/2022**
+1. **Optimization** Special version causes item null exception
+
+#### 1.13.0 update small assistant
+- Configuration file compared to version 1.12.9 no change, direct replacement jar can be
+
 #### 1.12.9
 **04 April 04, 2022**
 1. **optimized** item.json works for other language types as well
