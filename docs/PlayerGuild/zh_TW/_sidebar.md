@@ -2,7 +2,6 @@
 * [首頁](PlayerGuild/zh_TW/README)
 * [**命令和權限**](PlayerGuild/zh_TW/command)
 * [**PlaceholderAPI變量大全**](PlayerGuild/zh_TW/papi)
-* [**更新記錄**](PlayerGuild/zh_TW/log)
 * [**常見問題**](PlayerGuild/zh_TW/problem)
 * [**圖片展示**](PlayerGuild/zh_TW/img)
 * [**視頻介紹**](PlayerGuild/zh_TW/mp4)
@@ -10,4 +9,5 @@
 * [**公會戰地圖**](PlayerGuild/zh_TW/map)
 * [**萌芽版本**](PlayerGuild/zh_TW/GermEngine)
 * [**api**](PlayerGuild/zh_TW/api)
+* [**更新記錄**](PlayerGuild/zh_TW/log)
 * [**我的作品**](PlayerGuild/zh_TW/other)

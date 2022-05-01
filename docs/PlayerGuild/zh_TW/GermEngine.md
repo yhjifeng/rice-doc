@@ -5,6 +5,9 @@
 > 顛覆版本包含   
 > PlayerGuild本體 單價: 150RMB 和 萌芽顛覆內容 單價: 150RM
 
+### 註意事項
+如果你沒有付費版本萌芽的完整的使用經驗請務必不要購買萌芽版本,免得你不會用
+
 ### 圖片介紹
 
 [![bC3F5d.png](https://s4.ax1x.com/2022/02/23/bC3F5d.png)](https://imgtu.com/i/bC3F5d)
