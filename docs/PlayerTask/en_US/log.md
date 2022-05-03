@@ -7,6 +7,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.13.1
+**May 03, 2022**
+1. **Fix** an abnormal issue with the id returned by the edit command
+2. **Fix** the problem that rewards are not sent in full in some cases
+
+#### 1.13.1 update small assistant
+- Configuration file compared to version 1.13.0 no change, direct replacement jar can be
+
 #### 1.13.0
 **04/19/2022**
 1. **Optimization** Special version causes item null exception

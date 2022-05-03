@@ -58,8 +58,16 @@ For example:
 /plk addReward command 0 eco#give#${player}#666
 # Players execute the command, the middle 1 means execute as op
 /plk addReward command 1 eco#give#${player}#666
-````
+```
+
 #### 5. How to submit a type of task
 ```
-Mouse middle key
+Middle mouse button
+Plugin version 1.12.2+ is integrated into the left mouse button function
+```
+
+#### 6. NPC binding quest after clicking invalid
+```
+Please note the pvp status
+World pvp ban or birth point protection etc. can't trigger events
 ```
