@@ -71,3 +71,9 @@ Plugin version 1.12.2+ is integrated into the left mouse button function
 Please note the pvp status
 World pvp ban or birth point protection etc. can't trigger events
 ```
+
+#### 7. Refreshing tasks or insufficient number of tasks after the player enters the game
+```
+Reason: The number of daily tasks is too small, I suggest that the number of tasks for each rarity is set to more than 2 times the total number of tasks for today is more reasonable
+In general, there is no need to deal with the situation, the player will automatically reenter the game to complete
+```

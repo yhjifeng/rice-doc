@@ -199,4 +199,13 @@ Test yourself, most mods are compatible
 But do not exclude a very few special mod incompatible, welcome feedback
 ```
 
-Translated with www.DeepL.com/Translator (free version)
+#### 20. MiaoChat is not compatible with the RGB color designation variable
+```
+No help, miaoChat design flaws Please replace the use of trchat, which supports
+```
+
+#### 21. 1.13 below the server material Chinese is not normal
+```
+For example, clown fish become puffer fish (no help, because their materials are FISH, can not be identified)
+Please do not use such items or can guide the player to right-click to see the required items
+```
