@@ -7,6 +7,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.13.2
+**May 13, 2022**
+1. **New** /plk coin [give|take|set] [player name] [quantity] give|take|set player task coin quantity
+
+#### 1.13.2 update small assistant
+- Configuration file compared to version 1.13.1 language file has changed, it is recommended to backup and regenerate the next
+
 #### 1.13.1
 **May 03, 2022**
 1. **Fix** an abnormal issue with the id returned by the edit command
