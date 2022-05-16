@@ -45,6 +45,9 @@ MCMMO 附属 可视化gui 免费插件
 米饭快速插件开发框架  
 [MCBBS](https://www.mcbbs.net/thread-1254437-1-1.html)
 
+MythicMobs插件全版本兼容框架  
+[MCBBS](https://www.mcbbs.net/thread-1320430-1-1.html)
+
 米饭服务器管理平台  
 [MCBBS](https://www.mcbbs.net/thread-1083629-1-1.html) &ensp;
 [McAdmin](https://admin.ljxmc.top/)

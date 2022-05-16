@@ -15,8 +15,9 @@
 2.8.3 对material.yml文件有重大改动
 可以自定义每个按钮,每个称号的自定义模型id,根据材质包就可以实现花里胡哨的功能
 
-
 ### playerTitle官方材质包下载
 
-> 目前暂时不开放下载途径,请自己制作或者购买定制  
-> 购买了完整版称号的可以免费获取 playerTitle官方材质包(效果图就是上面的截图)
+[点击下载](https://minecraft-admin.oss-cn-hangzhou.aliyuncs.com/resourcepacks/PlayerTitle.zip)
+
+### 注意事项
+PlayerTitle-3.0.0开始大幅度改变了gui,资源包不在适用
