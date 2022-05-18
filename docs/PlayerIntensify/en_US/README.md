@@ -1,5 +1,3 @@
-
-------------
 ## I. Introduction
 
 > PlayerIntensify is a somewhat good player enhancement plug-in
@@ -7,7 +5,6 @@ Only this plug-in tribute to my 10-year DNF career ~
 
 This plug-in by me (MCBBS Forum ID: **ヽ Rice**) independent development completed.
 
-------------
 1. support for strengthening a variety of items, all swords, alloy axes, bows, alloy equipment, tridents, shields, etc..
 2. support mysql and local sqlite storage player reinforcement data.
 3. replica furnace rock carbon, advanced furnace rock carbon, reinforcement protection coupon, reinforcement title, +12 reinforcement coupon, etc.
@@ -18,8 +15,6 @@ This plug-in by me (MCBBS Forum ID: **ヽ Rice**) independent development comple
 8. Use furnace to strengthen, more realistic.
 9. Strengthen the high level of the whole service notification reinforcement message, more realistic.
 10. more exciting, please continue to see this wiki.
-
-------------
 
 ## II. Related information
 Plugin release post: [MCBBS](https://www.mcbbs.net/thread-1198166-1-1.html "MCBBS")  

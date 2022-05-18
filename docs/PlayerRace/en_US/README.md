@@ -6,7 +6,6 @@ Currently includes humans, vampires, werewolves, ghouls, demons, angels, demon h
 Will continue to update over time with new races, please look forward to ~  
 This plug-in is developed independently by me (MCBBS Forum ID: **ヽ Rice**).
 
-------------
 1. support mysql and local sqlite storage player data
 2. support for multiple races, currently contains human, vampire, werewolf, ghoul, demon, angel, demon hunter
 3. support each race unique active skills, passive skills
@@ -14,7 +13,6 @@ This plug-in is developed independently by me (MCBBS Forum ID: **ヽ Rice**).
 5. support variable PlaceholderAPI
 6. the plug-in continuous maintenance development, frequent updates, to solve the bugs very fast
    8 multi-language type, support simple Chinese; traditional Chinese; English, welcome to provide multiple language text to me
-------------
 
 ## Two, related information
 Plugin release post: [MCBBS](https://www.mcbbs.net/thread-1149860-1-1.html "MCBBS")  

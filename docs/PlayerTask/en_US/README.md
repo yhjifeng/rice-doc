@@ -1,10 +1,8 @@
-------------
 ## I. Introduction
 
 > PlayerTask is a somewhat good player task plug-in  
 The player can create a daily task with a simple command or gui  
 Players use the daily task gui to view and complete the task
-------------
 
 ### Introduction to the core function of the plugin:
 1. Daily automatic refresh random tasks
@@ -15,8 +13,6 @@ Players use the daily task gui to view and complete the task
 3. Alternative task collection mode - REEL
    You can use instructions to store a task into the "REEL". It is a specific gaming item, such as paper or map, players will receive the tasks included after using the reel
 
-
-------------
 1. support mysql and local sqlite storage
 2. comes with the creation of gui, can be in the gui to create tasks
 3. comes with the player daily task gui, can be in the gui to view and complete tasks
@@ -33,7 +29,6 @@ Players use the daily task gui to view and complete the task
 11. mission coin mall, you can customize the sale of items
 10. the plug-in continuous maintenance development update records
     11 multi-language type, support simple Chinese; traditional Chinese; English, welcome to provide multiple language text to me
-------------
 
 ## Two, related information
 [MCBBS](https://www.mcbbs.net/thread-1084534-1-1.html)  
