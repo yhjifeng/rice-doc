@@ -1,4 +1,3 @@
-------------
 ## I. Introduction
 
 > PlayerFatigue is a somewhat good player fatigue value plugin  
@@ -7,7 +6,6 @@ Players digging or synthesizing these cubes will automatically consume fatigue v
 
 This plug-in is developed independently by me (MCBBS Forum ID: **ヽ Rice**).
 
-------------
 1. support mysql and local sqlite storage
 2. full item custom limit the fatigue value consumed
 3. support configurable fatigue value recovery speed and maximum limit
@@ -20,7 +18,6 @@ This plug-in is developed independently by me (MCBBS Forum ID: **ヽ Rice**).
 10. can switch between recovering only the fatigue value of online players and recovering the fatigue value of all players
 11. can use ActionBar to remind the fatigue value consumption in real time
 8. multi-language type, support simple Chinese; traditional Chinese; English, welcome to provide multiple language text to me
-------------
 
 ## Two, related information
 Plugin release post: [MCBBS](https://www.mcbbs.net/thread-1101322-1-1.html "MCBBS")  
