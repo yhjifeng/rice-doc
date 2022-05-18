@@ -3,7 +3,7 @@
 > 價格: **150RMB**  購買網址 [愛發電](https://afdian.net/item?plan_id=0d1d56ae6b8111ecbbac52540025c377)   
 > 萌芽顛覆版獨立出售: [點擊查看萌芽版本](PlayerGuild/zh_TW/GermEngine)  
 > 也直接聯系作者購買(推薦方式) QQ: 956812056
-------------
+
 ## 一、簡介
 
 > PlayerGuild是一款有點好用的玩家公會插件  
@@ -12,7 +12,6 @@
 
 本插件由本人(MCBBS論壇ID:**ヽ米飯**)獨立開發完成。
 
-------------
 1. 支持<font color=red>MYSQL</font>和本地<font color=red>SQLITE</font>存儲
 2. 支持[萌芽顛覆版](https://www.mcbbs.net/thread-1063561-1-1.html)
 3. 公會基礎功能,創建,審批,加入,成員,解散等等
@@ -35,7 +34,6 @@
 20. 可在config設置變量支持essChat(默認關閉)
 21. 支持全版本自動全物品雲漢化,1.13-1.17支持全漢化 ,其他版本會逐步完善
 22. 插件配置公開化[Github](https://github.com/handy-git/PlayerGuild)
-------------
 
 ## 二、相關信息
 插件原帖: [MCBBS](https://www.mcbbs.net/thread-1297813-1-1.html)  

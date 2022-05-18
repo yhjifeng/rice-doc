@@ -3,13 +3,12 @@
 The Public version can only have 100 titles at the same time (Free, no need to pay).  
 BUT, the Full version will have no functional limitations, one purchase will take effect forever, and I will also give priority to adopting suggestions from you!
 
-------------
 ## I. Introduction
 >The administrator use simple instructions to create titles and use title management gui for title management.  
 Players use the title store gui and title warehouse gui to purchase and use titles.
 
 The plugin functions are as follows:
-------------
+
 1. Support mysql and local sqlite storage
 2. "Title Shop", players can use the GUI interface to buy titles (also has a classification function!)
 3. "Management interface", the administrator can use the GUI symmetry number to quickly modify (for example: title price, title name, title description, etc.)
@@ -30,7 +29,6 @@ The plugin functions are as follows:
 18. The material displayed in the "title management GUI" for each title can be customized
 19. You can customize the particle effects of each title in the wearing state
 Multi-language type, support Simplified Chinese、Traditional Chinese、English, welcome everyone to provide me with texts in multiple languages
-------------
 
 ## II. Related information
 Plugin release post: [MCBBS](https://www.mcbbs.net/thread-1004671-1-1.html "Click to enter")  
