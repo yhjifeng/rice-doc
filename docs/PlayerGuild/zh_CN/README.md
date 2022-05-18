@@ -60,7 +60,6 @@ PlayerPoints 点券插件 需3.0.0+
 PlayerRace 种族插件  需1.2.4+    
 [MCBBS](https://www.mcbbs.net/thread-1149860-1-1.html)
 
-
 ## 四、插件使用统计
 
 ![](https://bstats.org/signatures/bukkit/PlayerGuild.svg)
