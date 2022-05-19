@@ -33,7 +33,7 @@
 19. 支持變量PlaceholderAPI
 20. 可在config設置變量支持essChat(默認關閉)
 21. 支持全版本自動全物品雲漢化,1.13-1.17支持全漢化 ,其他版本會逐步完善
-22. 插件配置公開化[Github](https://github.com/handy-git/PlayerGuild)
+22. 插件配置公開化[点击查看](https://github.com/handy-git/PlayerGuild)
 
 ## 二、相關信息
 插件原帖: [MCBBS](https://www.mcbbs.net/thread-1297813-1-1.html)  

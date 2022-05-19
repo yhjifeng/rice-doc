@@ -1,6 +1,7 @@
 ## 公会相关事件
 
-[javadoc](https://handy-git.gitee.io/playerguild/)
+[javadoc](https://handy-git.gitee.io/playerguild/)  
+[API](https://github.com/handy-git/PlayerGuild)
 
 ### 公会相关事件
 1. GuildCreateEvent -> 公会创建事件
