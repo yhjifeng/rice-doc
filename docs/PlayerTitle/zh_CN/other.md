@@ -14,6 +14,9 @@
 [MCBBS](https://www.mcbbs.net/thread-1297813-1-1.html) &ensp;
 [wiki](PlayerGuild/zh_CN/)
 
+DanTiao 附属 免费插件  
+[MCBBS](https://www.mcbbs.net/thread-1052788-1-1.html)
+
 MCMMO 附属 可视化gui 免费插件  
 [MCBBS](https://www.mcbbs.net/thread-1300127-1-1.html)
 
