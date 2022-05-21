@@ -1,6 +1,6 @@
 ## 權限
 ##### 本插件默認無需配置任何權限,服主開箱即用
-##### 很多下面涉及都類型不知道的 低版本請使用tab提醒,1.12以上會自動提醒
+##### 很多下面涉及都類型不知道的 低版本請使用tab自動補全,1.12以上會自動提醒
 
 | 權限                         | 用途                                      | 默認擁有者           |
 |----------------------------|-----------------------------------------|-----------------|
@@ -57,6 +57,31 @@
 | /plk open    | 打開每日任務gui  |
 | /plk shop    | 打開任務幣商城gui  |
 
+
+### 目前支持的任務目標類型如下
+```
+craftItem 合成
+blockBreak 挖掘
+Fish 垂釣
+Interact 放置
+kill 擊殺MM怪物
+consume 消耗物品
+killNormal 擊殺普通怪物
+submit 提交物品
+killPlayer 擊殺玩家(1.13.3+)
+enchantment 附魔(1.13.3+)
+```
+
+### 目前支持的任務獎勵類型如下
+```
+vault 金幣
+playerPoints 點券
+coin 任務幣
+itemStack 物品
+command 命令
+```
+
+### 命令類型說明
 ```
 # 玩家執行指令,中間的0代表按照玩家身份執行,如果玩家沒權限會執行失敗
 /plk addReward command 0 eco#give#${player}#666
@@ -64,4 +89,5 @@
 /plk addReward command 1 eco#give#${player}#666
 ```
 
+### 任務類型說明
 > 任務類型分為 everyday(每日任務)  npc(NPC任務) 不互通

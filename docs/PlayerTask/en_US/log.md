@@ -1,12 +1,19 @@
 ### Version information
 
 ### Known bugs (currently known but unresolved bugs will be displayed here)
-1. If the plugin is upgraded or the core is replaced, or the core is replaced with a smaller version, please make sure to execute /plk up for data conversion (this command is new in version 1.11.0+)
-2. plug-ins should not be hot-loaded using plug-ins like yum!
-3. mission objectives, some items held in the hand and put down is a different item, so it can not be detected, it is recommended that here try not to use these special items as mission objectives, for example: red stone powder, railroad tracks, seeds ...
+1. plug-ins should not be hot-loaded using plug-ins like yum!
+2. mission objectives, some items held in the hand and put down is a different item, so it can not be detected, it is recommended that here try not to use these special items as mission objectives, for example: red stone powder, railroad tracks, seeds ...
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.13.3
+**May 21, 2022**
+1. **New** New mission objective type added enchantment and kill players
+2. **Optimization** Optimize a lot of code
+
+#### 1.13.3 update small assistant
+- Configuration file compared to version 1.13.0 no change, direct replacement jar can be
+
 #### 1.13.2
 **May 13, 2022**
 1. **New** /plk coin [give|take|set] [player name] [quantity] give|take|set player task coin quantity

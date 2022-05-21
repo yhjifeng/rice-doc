@@ -50,11 +50,38 @@
 | /plk changeItem [quest id] (player name)                                                                                        | Generate quest scroll (1.9.0+)                                                                               |
 | /plk setDescription [task id] [task description]                                                                                | Add task description (1.9.7+)                                                                                |
 | /plk coin [Type] [Player Name] [Number]                                                                                         | Operation Player Mission Coins (1.13.2+)                                                                     |
+
 ## Command (Player):
-| command | use |
-| ------------ | ------------ |
-| /plk open | Opens the daily quest gui |
-| /plk shop | open quest coin mall gui |
+| command    | use                       |
+|------------|---------------------------|
+| /plk open  | Opens the daily quest gui |
+| /plk shop  | open quest coin mall gui  |
+
+### The currently supported task target types are as follows
+```
+craftItem 
+BlockBreak 
+Fish 
+Interact 
+Kill 
+consume 
+killNormal 
+submit 
+killPlayer (1.13.3+)
+enchantment (1.13.3+)
+```
+
+### The currently supported mission reward types are as follows
+```
+vault 
+playerPoints 
+coin 
+itemStack 
+command 
+```
+
+Translated with www.DeepL.com/Translator (free version)
+
 
 ```
 # The player executes the command, the 0 in the middle means it is executed according to the player's identity, if the player does not have permission it will fail.
