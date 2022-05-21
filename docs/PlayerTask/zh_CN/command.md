@@ -72,6 +72,8 @@ killPlayer 击杀玩家(1.13.3+)
 enchantment 附魔(1.13.3+)
 ```
 
+[附魔类型WIKI](https://bukkit.windit.net/javadoc/org/bukkit/enchantments/Enchantment.html)
+
 ### 目前支持的任务奖励类型如下
 ```
 vault 金币
