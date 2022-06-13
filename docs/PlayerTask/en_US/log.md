@@ -6,6 +6,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.13.4
+**June 13, 2022**
+1. **Optimization** Better compatibility with 1.19
+
+#### 1.13.4 update small assistant
+Compare to 1.13.3 version Just replace the jar directly
+
 #### 1.13.3
 **May 21, 2022**
 1. **New** New mission objective type added enchantment and kill players
