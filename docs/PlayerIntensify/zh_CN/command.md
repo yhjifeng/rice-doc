@@ -29,7 +29,7 @@
 | /plis adminUp                           | 强行设置强化等级                        |
 | /plis giveIntensifyCard [类型] [等级] [数量]  | 获取强化券                           |
 
-#### 强化券类型
+#### 对应类型
 
 ```
 # 强化券类型  -> 默认概率 例如 iron_ingot 概率为百分之1
