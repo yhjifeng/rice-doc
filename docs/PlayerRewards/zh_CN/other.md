@@ -14,6 +14,10 @@
 [MCBBS](https://www.mcbbs.net/thread-1297813-1-1.html) &ensp;
 [wiki](PlayerGuild/zh_CN/)
 
+PlayerTop 排行榜插件 爱发电专属插件  
+[爱发电](https://afdian.net/item?plan_id=3ccf4a54e3f611ec984c52540025c377)
+[wiki](PlayerTop/zh_CN/)
+
 DanTiao 附属 免费插件  
 [MCBBS](https://www.mcbbs.net/thread-1052788-1-1.html)
 

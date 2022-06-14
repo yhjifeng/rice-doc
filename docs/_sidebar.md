@@ -9,3 +9,4 @@
 * [**PlayerFatigue**](PlayerFatigue/zh_CN/)
 * [**PlayerRace**](PlayerRace/zh_CN/)
 * [**PlayerRewards**](PlayerRewards/zh_CN/)
+* [**PlayerTop**](PlayerTop/zh_CN/)
