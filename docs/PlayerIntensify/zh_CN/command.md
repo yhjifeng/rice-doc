@@ -7,8 +7,8 @@
 | 权限                                       | 用途          | 默认拥有者         |
 |------------------------------------------|-------------|---------------|
 | playerintensify.reload                   | 重载插件        | op            |
-| playerintensify.giveryancokes            | 获取炉岩碳       | op            |
-| playerintensify.giveenchantedcokes       | 获取高级炉岩碳     | op            |
+| playerintensify.giveryancokes            | 获取强化石       | op            |
+| playerintensify.giveenchantedcokes       | 获取高级强化石     | op            |
 | playerintensify.giveprotectioncard       | 获取强化保护券     | op            |
 | playerintensify.probability              | 测试强化概率      | op            |
 | playerintensify.createhd                 | 创建强化排行全息图   | op            |
@@ -22,8 +22,8 @@
 | 指令                                      | 用途                              |
 |-----------------------------------------|---------------------------------|
 | /plis reload                            | 重载插件                            |
-| /plis giveRyanCokes [数量]                | 给对应玩家数量的炉岩碳                     |
-| /plis giveEnchantedCokes [数量]           | 给对应玩家数量的高级炉岩碳                   |
+| /plis giveRyanCokes [数量]                | 给对应玩家数量的强化石                     |
+| /plis giveEnchantedCokes [数量]           | 给对应玩家数量的高级强化石                   |
 | /plis giveProtectionCard [数量]           | 给对应玩家数量的强化保护券                   |
 | /plis probability  [等级]                 | 测试当前强化概率                        |
 | /plis createHd                          | 创建全息图强化排行(需HolographicDisplays) |
