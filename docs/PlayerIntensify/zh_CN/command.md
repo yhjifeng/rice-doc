@@ -19,18 +19,6 @@
 
 ## 指令:
 
-| 指令                                      | 用途                              |
-|-----------------------------------------|---------------------------------|
-| /plis reload                            | 重载插件                            |
-| /plis giveRyanCokes [数量]                | 给对应玩家数量的强化石                     |
-| /plis giveEnchantedCokes [数量]           | 给对应玩家数量的高级强化石                   |
-| /plis giveProtectionCard [数量]           | 给对应玩家数量的强化保护券                   |
-| /plis probability  [等级]                 | 测试当前强化概率                        |
-| /plis createHd                          | 创建全息图强化排行(需HolographicDisplays) |
-| /plis giveSecretMedicines [数量]          | 获取强化秘药                          |
-| /plis up                                | 提升强化等级                          |
-| /plis adminUp                           | 强行设置强化等级                        |
-| /plis giveIntensifyCard [类型] [等级] [数量]  | 获取强化券                           |
 
 #### 强化券类型
 
