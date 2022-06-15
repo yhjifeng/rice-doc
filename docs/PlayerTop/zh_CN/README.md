@@ -19,7 +19,7 @@
    * 玩家公会贡献
 
 ## 二、相关信息
-插件发布帖：
+插件发布帖：[MCBBS](https://www.mcbbs.net/thread-1351130-1-1.html)  
 交流群1064982471: [点击加入](https://jq.qq.com/?_wv=1027&k=5sxTf8u)
 
 ## 三、插件使用统计
