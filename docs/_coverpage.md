@@ -11,6 +11,7 @@
 * [PlayerFatigue](https://www.mcbbs.net/thread-1101322-1-1.html)
 * [PlayerRace](https://www.mcbbs.net/thread-1149860-1-1.html)
 * [PlayerRewards](https://www.mcbbs.net/thread-1285222-1-1.html)
+* [PlayerTop](https://www.mcbbs.net/thread-1351130-1-1.html)
 
 [Gitee](https://gitee.com/handy-git/rice-doc)
-[Get Started](#米饭插件列表)
+[快速开始](#米饭插件列表)
