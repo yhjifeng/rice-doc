@@ -1,19 +1,38 @@
 ### Version information
 
 ### Known bugs (currently known but unresolved bugs will be displayed here)
+
 1. plug-ins should not be hot-loaded using plug-ins like yum!
-2. mission objectives, some items held in the hand and put down is a different item, so it can not be detected, it is recommended that here try not to use these special items as mission objectives, for example: red stone powder, railroad tracks, seeds ...
+2. mission objectives, some items held in the hand and put down is a different item, so it can not be detected, it is
+   recommended that here try not to use these special items as mission objectives, for example: red stone powder,
+   railroad tracks, seeds ...
+
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+
+#### 1.13.5
+
+**June 18, 2022**
+
+1. **OPTIMIZATION** The mission coin mall will only refresh the gui after purchasing items will not be closed down
+
+#### 1.13.5 update small assistant
+
+Compared to 1.13.4 version directly replace the jar can be
+
 #### 1.13.4
+
 **June 13, 2022**
+
 1. **Optimization** Better compatibility with 1.19
 
 #### 1.13.4 update small assistant
+
 Compare to 1.13.3 version Just replace the jar directly
 
 #### 1.13.3
+
 **May 21, 2022**
 1. **New** New mission objective type added enchantment and kill players
 2. **Optimization** Optimize a lot of code
