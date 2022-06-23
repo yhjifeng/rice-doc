@@ -5,6 +5,14 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.3.1
+**16 April 2022**
+1. **Fixed** energy value deduction exception
+2. **New** API
+
+#### 1.3.1 update of the mini-helper
+- No change in configuration file compared to version 1.2.9, just replace the jar directly
+
 #### 1.2.9
 **16 April 2022**
 1. **Fixes** bugs caused by caching
