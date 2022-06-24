@@ -35,7 +35,7 @@ PlaceholderAPI PAPI变量
 PlayerTitle 称号插件 需2.10.1+  
 [MCBBS](https://www.mcbbs.net/thread-1004671-1-1.html) &ensp;
 [SpigotMc](https://www.spigotmc.org/resources/78048) &ensp;
-[wiki](PlayerTitle/zh_CN/)
+[wiki](PlayerTitle3/zh_CN/)
 
 PlayerTask 任务插件 需1.11.1+  
 [MCBBS](https://www.mcbbs.net/thread-1084534-1-1.html) &ensp;

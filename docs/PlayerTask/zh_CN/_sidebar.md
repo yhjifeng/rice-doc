@@ -12,4 +12,5 @@
 * [**任务稀有度**](PlayerTask/zh_CN/rarity)
 * [**卷轴任务**](PlayerTask/zh_CN/reel)
 * [**免费版和付费版**](PlayerTask/zh_CN/note)
+* [**API**](PlayerTask/zh_CN/api)
 * [**我的作品**](PlayerTask/zh_CN/other)

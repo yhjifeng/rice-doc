@@ -11,3 +11,4 @@
 * [**任務稀有度**](PlayerTask/zh_TW/rarity)
 * [**卷軸任務**](PlayerTask/zh_TW/reel)
 * [**免費版和付費版**](PlayerTask/zh_TW/note)
+* [**API**](PlayerTask/zh_TW/api)

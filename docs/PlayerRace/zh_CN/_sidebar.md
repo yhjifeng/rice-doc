@@ -10,4 +10,5 @@
 * [**恶魔猎手**](PlayerRace/zh_CN/demonHunter)
 * [**重拾人性**](PlayerRace/zh_CN/problem)
 * [**更新记录**](PlayerRace/zh_CN/log)
+* [**API**](PlayerRace/zh_CN/api)
 * [**我的作品**](PlayerRace/zh_CN/other)

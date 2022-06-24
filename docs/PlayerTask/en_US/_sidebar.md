@@ -11,3 +11,4 @@
 * [**task rarity**](PlayerTask/en_US/rarity)
 * [**reel task**](PlayerTask/en_US/reel)
 * [**Free and paid versions**](PlayerTask/en_US/note)
+* [**API**](PlayerTask/en_US/api)

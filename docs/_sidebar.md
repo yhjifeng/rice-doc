@@ -2,7 +2,7 @@
 
 # 米饭插件列表
 
-* [**PlayerTitle**](PlayerTitle/zh_CN/)
+* [**PlayerTitle**](PlayerTitle3/zh_CN/)
 * [**PlayerTask**](PlayerTask/zh_CN/)
 * [**PlayerGuild**](PlayerGuild/zh_CN/)
 * [**PlayerIntensify**](PlayerIntensify/zh_CN/)

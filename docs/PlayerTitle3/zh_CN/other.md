@@ -3,7 +3,7 @@
 **玩家称号**  **PlayerTitle** **付费插件** **(有免费版)**  
 [MCBBS](https://www.mcbbs.net/thread-1004671-1-1.html) &ensp;
 [SpigotMc](https://www.spigotmc.org/resources/78048) &ensp;
-[wiki](PlayerTitle/zh_CN/)
+[wiki](PlayerTitle3/zh_CN/)
 
 **玩家任务** **PlayerTask** **付费插件** **(有免费版)**    
 [MCBBS](https://www.mcbbs.net/thread-1084534-1-1.html) &ensp;
