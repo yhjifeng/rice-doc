@@ -1,20 +1,26 @@
-## 公会相关事件
+#### API使用教程
 
-[javadoc](https://handy-git.gitee.io/playerguild/)  
-[API](https://github.com/handy-git/PlayerGuild)
+[![](https://jitpack.io/v/com.gitee.handy-api/PlayerGuild.svg)](https://jitpack.io/#com.gitee.handy-api/PlayerGuild)
 
-### 公会相关事件
-1. GuildCreateEvent -> 公会创建事件
-2. GuildDissolutionEvent -> 公会解散事件
-3. PlayerLeaveGuildEvent  玩家离开公会事件
+要将本项目添加到您的构建中：
 
-### 匹配公会战相关事件
-1. GuildPvpMatchEvent 匹配公会战 匹配事件
-2. GuildPvpPreparationEvent 匹配公会战 准备事件
-3. GuildPvpStartEvent 匹配公会战 开始事件
-4. GuildPvpEndEvent 匹配公会战 结束事件
+步骤 1.将 JitPack 存储库添加到您的构建文件
+```
+<repositories>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
+</repositories>
+```
+步骤 2.添加依赖项
+```
+<dependency>
+    <groupId>com.gitee.handy-api</groupId>
+    <artifactId>PlayerGuild</artifactId>
+    <version>1.4.7</version>
+</dependency>
+```
 
-### 赛季公会战相关事件
-1. GuildSeasonPvpPreparationEvent 赛季公会战 准备阶段事件
-2. GuildSeasonPvpStartEvent赛季公会战 开始事件
-3. GuildSeasonPvpEndEvent赛季公会战 结束事件
+#### 具体方法查看
+[javadoc](https://handy-api.gitee.io/playerguild/)
