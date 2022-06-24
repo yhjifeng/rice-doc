@@ -1,31 +1,25 @@
-## 歡迎對接本插件開發更多附屬插件~
-你可以基於稱號來自定義擴展,你可以初始化一個或者多個稱號,然後達到什麽條件後可以玩家獲取這個稱號
-例如: 你可以設置個 等級達人稱號  然後監聽玩家等級到了多少級就給玩家這個稱號
+#### API使用教程
 
-API Class[開源地址](https://github.com/handy-git/PlayerTitleVersions/blob/master/src/main/java/com/handy/playertitle/api/PlayerTitleApi.java)
+[![](https://jitpack.io/v/com.gitee.handy-api/PlayerTitle.svg)](https://jitpack.io/#com.gitee.handy-api/PlayerTitle)
 
-## 使用方法
+要將本項目添加到您的構建中：
 
-#### 初始化jar
-下載代碼中的PlayerTitle-2.9.9.jar文件導入你的項目中
-或者使用maven引入依賴(本地機器私庫,有時候不在線)
-
+步驟 1.將 JitPack 存儲庫添加到您的構建文件
 ```
 <repositories>
-   <repository>
-      <id>player-title</id>
-      <url>https://raw.githubusercontent.com/handy-git/PlayerTitleVersions/master/repo</url>
-   </repository>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
 </repositories>
-
+```
+步驟 2.添加依賴項
+```
 <dependency>
-  <groupId>com.handy.playertitle</groupId>
-  <artifactId>PlayerTitle</artifactId>
-  <version>2.9.9</version>
+    <groupId>com.gitee.handy-api</groupId>
+    <artifactId>PlayerTtile</artifactId>
+    <version>3.0.2</version>
 </dependency>
 ```
 
-1. 在附屬插件初始化時候新增關聯的稱號
-2. 並把稱號唯一id保存在附屬插件的yml或者數據庫中進行永久保存
-3. 根據玩家名和這個稱號的唯一id將稱號給予玩家
-4. 具體查詢: [開源地址](https://github.com/handy-git/PlayerTitleVersions "開源地址")  ApiTest類   或者 [javadoc](https://handy-git.github.io/PlayerTitleVersions/ "javadoc")
+[javadoc](https://handy-api.gitee.io/playertitle/)
