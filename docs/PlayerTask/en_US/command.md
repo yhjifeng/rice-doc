@@ -4,28 +4,27 @@
 
 | Permissions               | Usage                                                    | Default owner   |
 |---------------------------|----------------------------------------------------------|-----------------|
-| playertask.addList        | Add task                                                 | op              |
-| playertask.addDemand      | Add task target                                          | op              |
-| playertask.addReward      | Add a new task reward                                    | op              |
-| playertask.addShop        | Add a new task shop item                                 | op              |
-| playertask.open           | Daily quest gui                                          | op              |
-| playertask.shop           | Task Shop gui                                            | op              |
-| playertask.create         | Create a task                                            | op              |
-| playertask.delete         | Delete a task                                            | op              |
-| playertask.view           | Manage Tasks                                             | op              |
-| playertask.vip            | vio permissions                                          | op              |
-| playertask.getToday       | Get today's tasks now                                    | op              |
-| playertask.delToday       | Clear today's task list and all players' tasks (1.4.1+)  | op              |
-| playertask.delShop        | Delete the shop item with the corresponding id           | op              |
-| playertask.getip          | Get ip                                                   | op              |
-| playertask.reload         | reload configuration                                     | op              |
-| playertask.edit           | Edit task (1.7.1+)                                       | op              |
-| playertask addNpcTask     | Adding npc tasks (1.6.0+)                                | op              |
-| playertask delNpcTask     | DeleteNpcTask(1.6.0+)                                    | op              |
-| playertask.setRarity      | Edit Task Rarity (1.8.7+)                                | op              |
-| playertask.changeItem     | Generate quest scrolls (1.9.0+)                          | op              |
-| playertask setDescription | add task description (1.9.7+)                            | op              |
-| playertask.coin           | Operation Player Mission Coins (1.13.2+)                 | op              |
+| playerTask.addList        | Add task                                                 | op              |
+| playerTask.addDemand      | Add task target                                          | op              |
+| playerTask.addReward      | Add a new task reward                                    | op              |
+| playerTask.addShop        | Add a new task shop item                                 | op              |
+| playerTask.open           | Daily quest gui                                          | op              |
+| playerTask.shop           | Task Shop gui                                            | op              |
+| playerTask.create         | Create a task                                            | op              |
+| playerTask.delete         | Delete a task                                            | op              |
+| playerTask.view           | Manage Tasks                                             | op              |
+| playerTask.vip            | vio permissions                                          | op              |
+| playerTask.getToday       | Get today's tasks now                                    | op              |
+| playerTask.delToday       | Clear today's task list and all players' tasks (1.4.1+)  | op              |
+| playerTask.delShop        | Delete the shop item with the corresponding id           | op              |
+| playerTask.reload         | reload configuration                                     | op              |
+| playerTask.edit           | Edit task (1.7.1+)                                       | op              |
+| playerTask addNpcTask     | Adding npc tasks (1.6.0+)                                | op              |
+| playerTask delNpcTask     | DeleteNpcTask(1.6.0+)                                    | op              |
+| playerTask.setRarity      | Edit Task Rarity (1.8.7+)                                | op              |
+| playerTask.changeItem     | Generate quest scrolls (1.9.0+)                          | op              |
+| playerTask setDescription | add task description (1.9.7+)                            | op              |
+| playerTask.coin           | Operation Player Mission Coins (1.13.2+)                 | op              |
 
 ## Command (Admin):
 | command                                                                                                                         | usage                                                                                                        |

@@ -10,6 +10,16 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.13.6
+**July 02, 2022**
+1. **Optimized** Add automatic pickup of completed tasks
+
+#### 1.13.6 update small assistant
+- config.yml added
+```
+# Automatic delivery of rewards for completing daily tasks (Automatic delivery of rewards for completing daily tasks)
+autoReward: false
+```
 
 #### 1.13.5
 

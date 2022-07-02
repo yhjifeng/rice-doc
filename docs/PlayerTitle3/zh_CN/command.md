@@ -8,21 +8,21 @@
 
 ## 具体权限
 
-| 权限                        | 用途             | 默认拥有者  |
-|---------------------------|----------------|--------|
-| playertitle.addreward     | 添加称号数量奖励       | op     |
-| playertitle.buff          | 称号buff相关       | op     |
-| playertitle.card          | 称号卡相关          | op     |
-| playertitle.coin          | 称号币相关          | op     |
-| playertitle.convert       | 转换数据库          | op     |
-| playertitle.getip         | 获取服务器信息        | op     |
-| playertitle.particle      | 称号粒子相关         | op     |
-| playertitle.player        | 玩家称号相关         | op     |
-| playertitle.reload        | 重载插件           | op     |
-| playertitle.title         | 称号相关           | op     |
-| playertitle.view          | 查看管理           | op     |
-| playertitle.open          | 称号仓库           | true   |
-| playertitle.shop          | 称号商城           | true   |
+| 权限                    | 用途             | 默认拥有者  |
+|-----------------------|----------------|--------|
+| playerTitle.addReward | 添加称号数量奖励       | op     |
+| playerTitle.buff      | 称号buff相关       | op     |
+| playerTitle.card      | 称号卡相关          | op     |
+| playerTitle.coin      | 称号币相关          | op     |
+| playerTitle.convert   | 转换数据库          | op     |
+| playerTitle.getIp     | 获取服务器信息        | op     |
+| playerTitle.particle  | 称号粒子相关         | op     |
+| playerTitle.player    | 玩家称号相关         | op     |
+| playerTitle.reload    | 重载插件           | op     |
+| playerTitle.title     | 称号相关           | op     |
+| playerTitle.view      | 查看管理           | op     |
+| playerTitle.open      | 称号仓库           | true   |
+| playerTitle.shop      | 称号商城           | true   |
 
 ## 指令(管理员):
 

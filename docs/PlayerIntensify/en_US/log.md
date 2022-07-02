@@ -6,6 +6,13 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.1.3
+**July 02, 2022**
+1. **Fix** a bug of reinforcement protection coupon
+
+#### 1.1.3 update small assistant
+- Configuration file compared to version 1.1.2 without any changes, direct replacement of jar can be
+
 #### 1.1.2
 **February 13, 2022**
 1. **optimize** the attack speed back to normal after strengthening (but lore will be more negative, because the mc itself is a negative number)

@@ -3,17 +3,16 @@
 ##### 很多下面涉及都類型不知道的 低版本請使用tab提醒,1.12以上會自動提醒
 | 權限                                  | 用途        | 默認擁有者   |
 |-------------------------------------|-----------|---------|
-| playerintensify.reload              | 重載插件      | op      |
-| playerintensify.getip               | 獲取ip      | op      |
-| playerintensify.giveryancokes       | 獲取爐巖碳     | op      |
-| playerintensify.giveenchantedcokes  | 獲取高級爐巖碳   | op      |
-| playerintensify.giveprotectioncard  | 獲取強化保護券   | op      |
-| playerintensify.probability         | 測試強化概率    | op      |
-| playerintensify.createhd            | 創建強化排行全息圖 | op      |
-| playerintensify.givesecretmedicines | 獲取強化秘藥    | op      |
-| playerintensify.up                  | 提升強化等級    | op      |
-| playerintensify.adminUp             | 強行設置強化等級  | op      |
-| playerintensify.giveIntensifyCard   | 獲取強化券     | op      |
+| playerIntensify.reload              | 重載插件      | op      |
+| playerIntensify.giveRyanCokes       | 獲取爐巖碳     | op      |
+| playerIntensify.giveEnchantedCokes  | 獲取高級爐巖碳   | op      |
+| playerIntensify.giveProtectionCard  | 獲取強化保護券   | op      |
+| playerIntensify.probability         | 測試強化概率    | op      |
+| playerIntensify.createHd            | 創建強化排行全息圖 | op      |
+| playerIntensify.giveSecretMedicines | 獲取強化秘藥    | op      |
+| playerIntensify.up                  | 提升強化等級    | op      |
+| playerIntensify.adminUp             | 強行設置強化等級  | op      |
+| playerIntensify.giveIntensifyCard   | 獲取強化券     | op      |
 
 ## 指令:
 | 指令                                      | 用途           |

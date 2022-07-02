@@ -3,20 +3,16 @@
 ##### a lot of the following types involved do not know the low version, please use the tab reminder, 1.12 or more will automatically remind
 | Permissions                         | Usage                                 | Default owner |
 |-------------------------------------|---------------------------------------|---------------|
-| playerintensify.reload              | reload plugin                         | op            |
-| playerintensify.getip               | Get ip                                | op            |
-| playerintensify.giveryancokes       | get hearthstone carbon                | op            |
-| playerintensify.giveenchantedcokes  | getadvancedcarbon                     | op            |
-| playerintensify.giveprotectioncard  | get fortifiedcokes                    | op            |
-| playerintensify.giveprotectioncard  | get fortifiedcokes                    | op            |
-| playerintensify.probability         | test the probability of reinforcement | op            |
-| playerintensify.createhd            | Create a reinforcement hologram       | op            |
-| playerintensify.givesecretmedicines | Get the reinforcement secret          | op            |
-| playerintensify.up                  | Level up                              | op            |
-| playerintensify.adminUp             | Force level up                        | op            |
-| playerintensify.adminUp             | Force level up                        | op            |
-| playerintensify.adminUp             | Force level up                        | op            |
-| playerintensify.giveIntensifyCard   | Get a fortification voucher           | op            |
+| playerIntensify.reload              | reload plugin                         | op            |
+| playerIntensify.giveRyanCokes       | get hearthstone carbon                | op            |
+| playerIntensify.giveEnchantedCokes  | getadvancedcarbon                     | op            |
+| playerIntensify.giveProtectionCard  | get fortifiedcokes                    | op            |
+| playerIntensify.probability         | test the probability of reinforcement | op            |
+| playerIntensify.createHd            | Create a reinforcement hologram       | op            |
+| playerIntensify.giveSecretMedicines | Get the reinforcement secret          | op            |
+| playerIntensify.up                  | Level up                              | op            |
+| playerIntensify.adminUp             | Force level up                        | op            |
+| playerIntensify.giveIntensifyCard   | Get a fortification voucher           | op            |
 
 ## Command:
 | Command                                             | Usage                                                                  |

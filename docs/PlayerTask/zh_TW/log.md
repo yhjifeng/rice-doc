@@ -8,6 +8,16 @@
 #### 如果碰到報錯,或者插件沖突等問題有請加群反饋
 
 ------------
+#### 1.13.6
+**2022年07月02日**
+1. **優化** 添加自動領取已完成的任務
+
+#### 1.13.6更新小助手
+- config.yml新增
+```
+# 完成每日任務自動發送獎勵(Automatic delivery of rewards for completing daily tasks)
+autoReward: false
+```
 
 #### 1.13.5
 

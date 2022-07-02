@@ -4,28 +4,27 @@
 
 | 權限                         | 用途                                      | 默認擁有者           |
 |----------------------------|-----------------------------------------|-----------------|
-| playertask.addList         | 新增任務                                    | op              |
-| playertask.addDemand       | 新增任務目標                                  | op              |
-| playertask.addReward       | 新增任務獎勵                                  | op              |
-| playertask.addShop         | 新增任務幣商城物品                               | op              |
-| playertask.open            | 每日任務gui                                 | op              |
-| playertask.shop            | 任務幣商城gui                                | op              |
-| playertask.create          | 創建任務                                    | op              |
-| playertask.delete          | 刪除任務                                    | op              |
-| playertask.view            | 管理任務                                    | op              |
-| playertask.vip             | vio權限                                   | op              |
-| playertask.getToday        | 立即獲取今日任務                                | op              |
-| playertask.delToday        | 清空今日任務列表和全部玩家的任務(1.4.1+)                | op              |
-| playertask.delShop         | 刪除對應id的任務幣商城物品                          | op              |
-| playertask.getip           | 獲取ip                                    | op              |
-| playertask.reload          | 重載配置                                    | op              |
-| playertask.edit            | 編輯任務(1.7.1+)                            | op              |
-| playertask addNpcTask      | 添加npc任務(1.6.0+)                         | op              |
-| playertask delNpcTask      | 刪除npc任務(1.6.0+)                         | op              |
-| playertask.setRarity       | 編輯任務稀有度(1.8.7+）                         | op              |
-| playertask.changeItem      | 生成任務卷軸 (1.9.0+)                         | op              |
-| playertask.setDescription  | 添加任務描述(1.9.7+)                          | op              |
-| playertask.coin            | 操作玩家任務幣(1.13.2+)                        | op              |
+| playerTask.addList         | 新增任務                                    | op              |
+| playerTask.addDemand       | 新增任務目標                                  | op              |
+| playerTask.addReward       | 新增任務獎勵                                  | op              |
+| playerTask.addShop         | 新增任務幣商城物品                               | op              |
+| playerTask.open            | 每日任務gui                                 | op              |
+| playerTask.shop            | 任務幣商城gui                                | op              |
+| playerTask.create          | 創建任務                                    | op              |
+| playerTask.delete          | 刪除任務                                    | op              |
+| playerTask.view            | 管理任務                                    | op              |
+| playerTask.vip             | vio權限                                   | op              |
+| playerTask.getToday        | 立即獲取今日任務                                | op              |
+| playerTask.delToday        | 清空今日任務列表和全部玩家的任務(1.4.1+)                | op              |
+| playerTask.delShop         | 刪除對應id的任務幣商城物品                          | op              |
+| playerTask.reload          | 重載配置                                    | op              |
+| playerTask.edit            | 編輯任務(1.7.1+)                            | op              |
+| playerTask addNpcTask      | 添加npc任務(1.6.0+)                         | op              |
+| playerTask delNpcTask      | 刪除npc任務(1.6.0+)                         | op              |
+| playerTask.setRarity       | 編輯任務稀有度(1.8.7+）                         | op              |
+| playerTask.changeItem      | 生成任務卷軸 (1.9.0+)                         | op              |
+| playerTask.setDescription  | 添加任務描述(1.9.7+)                          | op              |
+| playerTask.coin            | 操作玩家任務幣(1.13.2+)                        | op              |
 
 
 ## 指令(管理員):
@@ -52,10 +51,10 @@
 | /plk coin [類型] [玩家名] [數量]                                       | 操作玩家任務幣數量(1.13.2)                                                  |
 
 ## 指令(玩家):
-|  指令 | 用途  |
-| ------------ | ------------    |
-| /plk open    | 打開每日任務gui  |
-| /plk shop    | 打開任務幣商城gui  |
+| 指令        | 用途         |
+|-----------|------------|
+| /plk open | 打開每日任務gui  |
+| /plk shop | 打開任務幣商城gui |
 
 
 ### 目前支持的任務目標類型如下

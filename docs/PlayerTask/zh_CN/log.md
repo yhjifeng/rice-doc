@@ -8,6 +8,16 @@
 #### 如果碰到报错,或者插件冲突等问题有请加群反馈
 
 ------------
+#### 1.13.6
+**2022年07月02日**
+1. **优化** 添加自动领取已完成的任务
+
+#### 1.13.6更新小助手
+- config.yml新增
+```
+# 完成每日任务自动发送奖励(Automatic delivery of rewards for completing daily tasks)
+autoReward: false
+```
 
 #### 1.13.5
 

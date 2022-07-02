@@ -4,18 +4,18 @@
 
 ##### 很多下面涉及都类型不知道的 低版本请使用tab提醒,1.12以上会自动提醒
 
-| 权限                                       | 用途         | 默认拥有者         |
-|------------------------------------------|------------|---------------|
-| playerintensify.reload                   | 重载插件       | op            |
-| playerintensify.giveryancokes            | 获取强化石      | op            |
-| playerintensify.giveenchantedcokes       | 获取高级强化石    | op            |
-| playerintensify.giveprotectioncard       | 获取强化保护券    | op            |
-| playerintensify.probability              | 测试强化率      | op            |
-| playerintensify.createhd                 | 创建强化排行全息图  | op            |
-| playerintensify.givesecretmedicines      | 获取强化秘药     | op            |
-| playerintensify.up                       | 提升强化等级     | op            |
-| playerintensify.adminUp                  | 强行设置强化等级   | op            |
-| playerintensify.giveIntensifyCard        | 获取强化券      | op            |
+| 权限                                  | 用途         | 默认拥有者         |
+|-------------------------------------|------------|---------------|
+| playerIntensify.reload              | 重载插件       | op            |
+| playerIntensify.giveRyanCokes       | 获取强化石      | op            |
+| playerIntensify.giveEnchantedCokes  | 获取高级强化石    | op            |
+| playerIntensify.giveProtectionCard  | 获取强化保护券    | op            |
+| playerIntensify.probability         | 测试强化率      | op            |
+| playerIntensify.createHd            | 创建强化排行全息图  | op            |
+| playerIntensify.giveSecretMedicines | 获取强化秘药     | op            |
+| playerIntensify.up                  | 提升强化等级     | op            |
+| playerIntensify.adminUp             | 强行设置强化等级   | op            |
+| playerIntensify.giveIntensifyCard   | 获取强化券      | op            |
 
 ## 指令:
 
