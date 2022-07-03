@@ -6,6 +6,13 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.1.4
+**July 03, 2022**
+1. **Fixes** the problem that no failures under Enhanced 8
+
+#### 1.1.4 update small assistant
+- Configuration file compared to the 1.1.3 version without any changes, directly replace the jar can be
+
 #### 1.1.3
 **July 02, 2022**
 1. **Fix** a bug of reinforcement protection coupon
