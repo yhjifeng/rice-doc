@@ -5,6 +5,16 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.3.2
+**12/07/2022**
+1. **FIX** Command conversion vampire energy value abnormal
+2. **FIX** Vampires not burning properly
+3. **FIX** Some issues with converting demon hunters
+4. **FIX** Large number of race recognition anomalies
+
+#### 1.3.2 update minor helper
+- No changes to the configuration file compared to version 1.3.1, just replace the jar directly
+
 #### 1.3.1
 **16 April 2022**
 1. **Fixed** energy value deduction exception
