@@ -57,7 +57,7 @@
 
 6. 新增: 权限称号: 玩家有权限**test**登录后自动获取
 ```
-/plt title add permission 权限称号 test 0 true 这是个权限称号,玩家有权限**test**登录后自动获取
+/plt title add permission 权限称号 test 这是个权限称号的描述,玩家有权限**test**登录后自动获取
 ```
 
 7. 新增: 活动称号: 这类称号无法购买,只能OP指令给予
