@@ -6,6 +6,14 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.1.5
+**July 20, 2022** 1.
+1. **New** Now the commands at the beginning of give can be assigned to the corresponding player name, please see the command
+2. **New** Now leather equipment can be strengthened (thanks to someone's sponsorship)
+
+#### 1.1.5 update small assistant
+- Configuration file compared to version 1.1.4 without any changes, directly replace the jar can be
+
 #### 1.1.4
 **July 03, 2022**
 1. **Fixes** the problem that no failures under Enhanced 8

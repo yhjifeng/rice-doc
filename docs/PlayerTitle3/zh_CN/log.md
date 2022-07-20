@@ -1,7 +1,7 @@
 ## 版本信息
 
 ### 已知bug(目前知道但是未解决的bug会统一显示在这里)
-> 暂无
+> 1. /plt view shop指令跟[crazycrate](https://www.mcbbs.net/thread-688445-1-1.html)1.7.4版本冲突
 
 #### 如果碰到报错,或者插件冲突等问题有请加群反馈
 

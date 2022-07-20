@@ -15,19 +15,19 @@
 | playerIntensify.giveIntensifyCard   | Get a fortification voucher           | op            |
 
 ## Command:
-| Command                                             | Usage                                                                  |
-|-----------------------------------------------------|------------------------------------------------------------------------|
-| /plis reload                                        | Reload the plugin                                                      |
-| /plis giveRyanCokes [number]                        | Give the player a specified number of enhanced stones                  |
-| /plis giveEnchantedCokes [quantity]                 | Give the player a specified number of Advanced Enhanced Cokes          |
-| plis giveProtectionCokes [quantity]                 | Give the player a specified number of Advanced Enhanced Cokes          |
-| /plis giveProtectionCard [quantity]                 | Give the player a specified number of Enhanced Protection Certificates |
-| /plis probability [level]                           | Test the current level's enhancement rate                              |
-| /plis createHd                                      | Create a hologram ranking                                              |
-| /plis giveSecretMedicines [number]                  | Get Secret Medicines                                                   |
-| /plis up                                            | Raise the enhancement level                                            |
-| /plis adminUp                                       | Administer the setting of enhancement levels                           |
-| /plis giveIntensifyCard [Type] [Level] [Quantity]   | Get Intensify Vouchers                                                 |
+| Command                                                           | Usage                                                                  |
+|-------------------------------------------------------------------|------------------------------------------------------------------------|
+| /plis reload                                                      | Reload the plugin                                                      |
+| /plis giveRyanCokes [number]    (player name)                     | Give the player a specified number of enhanced stones                  |
+| /plis giveEnchantedCokes [quantity]     (player name)             | Give the player a specified number of Advanced Enhanced Cokes          |
+| plis giveProtectionCokes [quantity]    (player name)              | Give the player a specified number of Advanced Enhanced Cokes          |
+| /plis giveProtectionCard [quantity]    (player name)              | Give the player a specified number of Enhanced Protection Certificates |
+| /plis probability [level]                                         | Test the current level's enhancement rate                              |
+| /plis createHd                                                    | Create a hologram ranking                                              |
+| /plis giveSecretMedicines [number]      (player name)             | Get Secret Medicines                                                   |
+| /plis up                                                          | Raise the enhancement level                                            |
+| /plis adminUp                                                     | Administer the setting of enhancement levels                           |
+| /plis giveIntensifyCard [Type] [Level] [Quantity]   (player name) | Get Intensify Vouchers                                                 |
 
 #### Intensify Card Type
 ```
