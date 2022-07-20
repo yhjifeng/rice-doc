@@ -19,18 +19,18 @@
 
 ## 指令:
 
-| 指令                                            | 用途           |
-|-----------------------------------------------|--------------|
-| /plis reload                                  | 重载插件         |
-| /plis giveRyanCokes [数量] (玩家名)                | 给玩家指定数量强化石   |
-| /plis giveEnchantedCokes [数量]  (玩家名)          | 给玩家指定数量高级强化石 |
-| /plis giveProtectionCard [数量]   (玩家名)         | 给玩家指定数量强化保护券 |
-| /plis probability  [等级]                       | 测试当前等级的强化率   |
-| /plis createHd                                | 创建全息图排行      |
-| /plis giveSecretMedicines [数量]   (玩家名)        | 获取强化秘药       |
-| /plis up                                      | 提升强化等级       |
-| /plis adminUp                                 | 管理设置强化等级     |
-| /plis giveIntensifyCard [类型] [等级] [数量]  (玩家名) | 获取强化券        |
+| 指令                                          | 用途           |
+|---------------------------------------------|--------------|
+| /plis reload                                | 重载插件         |
+| /plis giveRyanCokes [数量] (玩家)               | 给玩家指定数量强化石   |
+| /plis giveEnchantedCokes [数量] (玩家)          | 给玩家指定数量高级强化石 |
+| /plis giveProtectionCard [数量] (玩家)          | 给玩家指定数量强化保护券 |
+| /plis probability  [等级]                     | 测试当前等级的强化率   |
+| /plis createHd                              | 创建全息图排行      |
+| /plis giveSecretMedicines [数量] (玩家)         | 获取强化秘药       |
+| /plis up                                    | 提升强化等级       |
+| /plis adminUp                               | 管理设置强化等级     |
+| /plis giveIntensifyCard [类型] [等级] [数量] (玩家) | 获取强化券        |
 
 #### 强化券类型
 

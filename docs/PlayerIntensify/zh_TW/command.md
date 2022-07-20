@@ -15,18 +15,18 @@
 | playerIntensify.giveIntensifyCard   | 獲取強化券     | op      |
 
 ## 指令:
-| 指令                                           | 用途           |
-|----------------------------------------------|--------------|
-| /plis reload                                 | 重載插件         |
-| /plis giveRyanCokes [數量]      (玩家名)          | 給玩家指定數量強化石   |
-| /plis giveEnchantedCokes [數量]    (玩家名)       | 給玩家指定數量高級強化石 |
-| /plis giveProtectionCard [數量]  (玩家名)         | 給玩家指定數量強化保護券 |
-| /plis probability  [等級]                      | 測試當前等級的強化率   |
-| /plis createHd                               | 創建全息圖排行      |
-| /plis giveSecretMedicines [數量]  (玩家名)        | 獲取強化秘藥       |
-| /plis up                                     | 提升強化等級       |
-| /plis adminUp                                | 管理設置強化等級     |
-| /plis giveIntensifyCard [類型] [等級] [數量] (玩家名) | 獲取強化券        |
+| 指令                                          | 用途           |
+|---------------------------------------------|--------------|
+| /plis reload                                | 重載插件         |
+| /plis giveRyanCokes [數量] (玩家)               | 給玩家指定數量強化石   |
+| /plis giveEnchantedCokes [數量] (玩家)          | 給玩家指定數量高級強化石 |
+| /plis giveProtectionCard [數量] (玩家)          | 給玩家指定數量強化保護券 |
+| /plis probability  [等級]                     | 測試當前等級的強化率   |
+| /plis createHd                              | 創建全息圖排行      |
+| /plis giveSecretMedicines [數量] (玩家)         | 獲取強化秘藥       |
+| /plis up                                    | 提升強化等級       |
+| /plis adminUp                               | 管理設置強化等級     |
+| /plis giveIntensifyCard [類型] [等級] [數量] (玩家) | 獲取強化券        |
 
 #### 強化券類型
 ```
