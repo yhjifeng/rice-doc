@@ -10,6 +10,16 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.13.7
+
+**21 July 2022**
+
+1. **Fix** irregularities in npc quest cooldown times
+
+#### 1.13.7 update of the little helper
+
+Compare to version 1.13.6 Just replace the jar directly
+
 #### 1.13.6
 **July 02, 2022**
 1. **Optimized** Add automatic pickup of completed tasks
