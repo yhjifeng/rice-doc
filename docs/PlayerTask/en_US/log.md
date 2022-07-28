@@ -10,6 +10,16 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.13.8
+
+**28 July 2022**
+
+1. **Fix** occasional sqlite deadlock issue
+
+#### 1.13.8 update of the small helper
+
+Compare to version 1.13.7. Just replace the jar directly.
+
 #### 1.13.7
 
 **21 July 2022**
