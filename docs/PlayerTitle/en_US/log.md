@@ -8,6 +8,8 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+# [**click to go to version 3.x update log**](PlayerTitle3/zh_CN/log)
+
 #### 2.10.8
 **March 19, 2022**
 1. **Optimized** Variables now support showing offline players

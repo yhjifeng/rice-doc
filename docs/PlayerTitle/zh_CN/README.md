@@ -1,5 +1,3 @@
-<!-- docs/PlayerTitle/zh_CN/README.md -->
-
 # 前言
 > 这是PlayerTitle-2.x版本的WIKI  
 > 如需3.x版本的WIKI请右上角切换

@@ -1,5 +1,3 @@
-<!-- docs/_sidebar.md -->
-
 # 米饭插件列表
 
 * [**PlayerTitle**](PlayerTitle3/zh_CN/)
