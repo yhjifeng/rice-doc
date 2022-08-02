@@ -8,3 +8,4 @@
 * [**PlayerRace**](PlayerRace/zh_CN/)
 * [**PlayerRewards**](PlayerRewards/zh_CN/)
 * [**PlayerTop**](PlayerTop/zh_CN/)
+* [**PlayerWarp**](PlayerWarp/zh_CN/)

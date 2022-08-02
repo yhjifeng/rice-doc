@@ -14,6 +14,9 @@
 [MCBBS](https://www.mcbbs.net/thread-1297813-1-1.html) &ensp;
 [wiki](PlayerGuild/zh_CN/)
 
+**玩家地标** **PlayerWarp** **付费插件** **(有免费版)**  
+[wiki](PlayerWarp/zh_CN/)
+
 PlayerTop 排行榜插件 爱发电专属插件  
 [MCBBS](https://www.mcbbs.net/thread-1351130-1-1.html)&ensp;
 [爱发电](https://afdian.net/item?plan_id=3ccf4a54e3f611ec984c52540025c377)&ensp;
