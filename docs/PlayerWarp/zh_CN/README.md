@@ -18,7 +18,7 @@
 12. 支持玩家自定义logo
 
 ## 二、相关信息
-
+插件发布帖：[MCBBS](https://www.mcbbs.net/thread-1369714-1-1.html)  
 交流群1064982471: [点击加入](https://jq.qq.com/?_wv=1027&k=5sxTf8u)
 
 ## 三、插件前置说明(都是非必须)

@@ -15,6 +15,7 @@
 [wiki](PlayerGuild/zh_CN/)
 
 **玩家地标** **PlayerWarp** **付费插件** **(有免费版)**  
+[MCBBS](https://www.mcbbs.net/thread-1369714-1-1.html)  &ensp; 
 [wiki](PlayerWarp/zh_CN/)
 
 PlayerTop 排行榜插件 爱发电专属插件  
