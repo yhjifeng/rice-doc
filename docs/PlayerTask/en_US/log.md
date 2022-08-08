@@ -10,24 +10,25 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.13.9
+**08 August 2022**
+1. **Optimization** Better compatibility with mods
+
+#### 1.13.9 update helper
+Compare to version 1.13.8 Just replace the jar directly
+
 #### 1.13.8
-
 **28 July 2022**
-
 1. **Fix** occasional sqlite deadlock issue
 
 #### 1.13.8 update of the small helper
-
 Compare to version 1.13.7. Just replace the jar directly.
 
 #### 1.13.7
-
 **21 July 2022**
-
 1. **Fix** irregularities in npc quest cooldown times
 
 #### 1.13.7 update of the little helper
-
 Compare to version 1.13.6 Just replace the jar directly
 
 #### 1.13.6
