@@ -1,5 +1,3 @@
-<!-- docs/PlayerTitle/zh_CN/README.md -->
-
 # 前言
 > 这是PlayerTitle-3.x版本的WIKI  
 > 如需2.x版本的WIKI请右上角切换
@@ -41,4 +39,4 @@
 ## 三、插件使用统计
 ![](https://bstats.org/signatures/bukkit/PlayerTitle.svg)
 
-[点击查看bstats插件统计](https://bstats.org/plugin/bukkit/PlayerTitle/6913 "点击查看bstats插件统计")
+[点击查看bstats插件统计](https://bstats.org/plugin/bukkit/PlayerTitle/6913)
