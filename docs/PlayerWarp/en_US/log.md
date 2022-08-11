@@ -7,6 +7,24 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.0.6
+**11 August 2022**
+1. **New** Can be configured in config.yml to enable landmark name uniqueness
+2. **New** New plw tp [ID] command to transfer directly to landmarks
+3. **New** Configurable in config.yml to disable world creation
+4. **Added** Configurable teleport time permission in config.yml
+5. **New** The location of landmarks in the gui can now be configured
+6. **New** /plw open (type) can be used to open landmarks of the corresponding type directly
+7. **New** /plw me opens my landmark directly
+8. **New** /plw collection (type) opens directly to the corresponding type of collection landmark
+9. **Fixed** Now the money is correctly given to the landmark owner if there is a transfer amount
+10. **New** tax rate for transfer amounts can be configured in config.yml
+11. **New** variable %playerWarp_num% number of player landmarks
+12. **Optimized** The name and lore of landmarks now support parsing variables and are now compatible with ia variable plugins
+
+#### 1.0.6 update helper
+Compared to version 1.0.5 config.yml needs to be regenerated
+
 #### 1.0.5
 **05 August 2022**
 1. **Fix** the bug that the number of items holding multiple logos will change to 1

@@ -1,6 +1,7 @@
 # PlayerWarp
 * [首頁](PlayerWarp/zh_TW/README)
 * [**命令權限**](PlayerWarp/zh_TW/command)
+* [**變量支持**](PlayerWarp/zh_TW/papi)
 * [**圖片展示**](PlayerWarp/zh_TW/img)
 * [**常見問題**](PlayerWarp/zh_TW/problem)
 * [**更新記錄**](PlayerWarp/zh_TW/log)
