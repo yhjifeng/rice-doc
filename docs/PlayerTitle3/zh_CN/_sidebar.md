@@ -7,6 +7,7 @@
 * [**BUFF支持**](PlayerTitle3/zh_CN/buff)
 * [**RGB称号**](PlayerTitle3/zh_CN/rgb)
 * [**称号卡**](PlayerTitle3/zh_CN/card)
+* [**图片展示**](PlayerTitle3/zh_CN/img)
 * [**更新记录**](PlayerTitle3/zh_CN/log)
 * [**常见问题**](PlayerTitle3/zh_CN/problem)
 * [**api文档**](PlayerTitle3/zh_CN/api)
