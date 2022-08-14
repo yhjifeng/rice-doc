@@ -6,6 +6,12 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 3.0.9
+**08/14/2022** 1.
+1. **New** Name compatible variables
+
+#### 3.0.9 update small assistant
+Compared to 3.0.8 version directly replace the jar can be
 
 #### 3.0.8
 **August 03, 2022**
