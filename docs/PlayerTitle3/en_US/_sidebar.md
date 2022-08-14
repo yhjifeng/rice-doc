@@ -10,3 +10,4 @@
 * [**Update log**](PlayerTitle3/en_US/log)
 * [**FAQ**](PlayerTitle3/en_US/problem)
 * [**api documentation**](PlayerTitle3/en_US/api)
+* [**Terms and conditions**](PlayerTitle3/en_US/note)
