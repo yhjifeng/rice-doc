@@ -6,6 +6,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 3.1.0
+**16 August 2022**
+1. **New** title buff is now compatible with AttributeSystem
+
+#### 3.1.0 update small assistant
+Compared to version 3.0.9 just replace the jar directly
+
 #### 3.0.9
 **08/14/2022** 1.
 1. **New** Name compatible variables

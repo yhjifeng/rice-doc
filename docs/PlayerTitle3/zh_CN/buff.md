@@ -8,6 +8,7 @@
 * sx_attribute [2.x](https://www.mcbbs.net/thread-793362-1-1.html) [3.x](https://www.mcbbs.net/thread-1083840-1-1.html)
 * potion_effect 原版药水
 * MMOItems [MCBBS](https://www.mcbbs.net/thread-1104772-1-1.html)
+* AttributeSystem [MCBBS](https://www.mcbbs.net/thread-1307249-1-1.html) 3.1.0+开始兼容
 
 ### 例子 
 注意事项: # 代替空格
@@ -27,7 +28,12 @@
 /plt buff addBuff 1 potion_effect ABSORPTION(伤害吸收) 3 true
 ```
 
-4. 新增: MMOItems 的buff (需手持MMOItems对应的物品)
+4. 新增: AttributeSystem 的buff
+```
+/plt buff addBuff 1 AttributeSystem 物理伤害:#100
+```
+
+5. 新增: MMOItems 的buff (需手持MMOItems对应的物品)
 >必须手持对应类型为MMOItems的物品执行下面指令  
 绑定这个自定义物品的属性到称号buff里  
 请不要使用**剑**类型的物品，无效的，默认是使用的副手类型，你可以试试
