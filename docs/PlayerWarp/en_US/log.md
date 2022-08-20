@@ -7,6 +7,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.0.7
+**2022/08/20**
+1. **FIXED** My favorites will now display properly
+2. **Optimized** Landmark descriptions now also have length and keyword blacklist limits
+
+#### 1.0.7 update of the little helper
+Compare to version 1.0.6 Direct jar replacement
+
 #### 1.0.6
 **11 August 2022**
 1. **New** Can be configured in config.yml to enable landmark name uniqueness

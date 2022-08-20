@@ -1,9 +1,9 @@
-### 新增buff指令
+### 新增buff指令(新增buff后请重新佩戴称号)
 
 >  /plt buff addBuff [称号ID] [buff类型] (buff属性)  -> 新增buff
 >  /plt buff deleteBuff [称号ID]  -> 移除对应称号buff
 
-#### buff类型分为:
+#### buff类型分为(对应buff需要按照对应的前置):
 * attribute_plus  [MCBBS](https://www.mcbbs.net/thread-898670-1-1.html)
 * sx_attribute [2.x](https://www.mcbbs.net/thread-793362-1-1.html) [3.x](https://www.mcbbs.net/thread-1083840-1-1.html)
 * potion_effect 原版药水
