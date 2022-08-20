@@ -6,6 +6,15 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 3.1.1
+**20 August 2022**
+1. **New** Add keyword blacklist to custom title
+2. **FIXED** Changed plt view open [player] page number exception
+3. **New** api to determine if a player has a corresponding title
+
+#### 3.1.1 update of the small helper
+Compare to version 3.1.0. Just replace the jar directly.
+
 #### 3.1.0
 **16 August 2022**
 1. **New** title buff is now compatible with AttributeSystem
