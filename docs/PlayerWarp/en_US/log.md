@@ -7,6 +7,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.0.8
+**21 August 2022**
+1. **Fixed** My favorites will now display properly
+
+#### 1.0.8 update small assistant
+Compare to version 1.0.7 Just replace the jar directly
+
 #### 1.0.7
 **2022/08/20**
 1. **FIXED** My favorites will now display properly
