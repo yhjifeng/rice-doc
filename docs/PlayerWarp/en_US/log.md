@@ -7,6 +7,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.0.9
+**26 August 2022**
+1. **FIXED** Strange gold plugins that could cause errors to be reported when sending
+
+#### 1.0.9 update of the small assistant
+Compare to version 1.0.8 Just replace the jar directly
+
 #### 1.0.8
 **21 August 2022**
 1. **Fixed** My favorites will now display properly
