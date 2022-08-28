@@ -7,6 +7,19 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.1.0
+**28 August 2022**
+1. **FIXED** Exception for group service to get landmark world names
+2. **Optimized** Now you can control whether the heat value is emptied every day
+3. **FIXED** Some strange configurations that cause landmark errors are now alerted when they are sent
+
+#### 1.1.0 update of the small assistant
+Compared to version 1.0.9, config.yml can be added or regenerated manually
+```
+# Whether to clear the landmark heat daily
+clearThermalValue: true
+```
+
 #### 1.0.9
 **26 August 2022**
 1. **FIXED** Strange gold plugins that could cause errors to be reported when sending
