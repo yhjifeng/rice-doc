@@ -6,6 +6,13 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.1.6
+**10 September 2022**
+1. **Fix** bug that exceptionally identifies items from other plugins as reinforcement cards
+
+#### 1.1.6 update mini-helper
+- The configuration file has no changes compared to version 1.1.5, just replace the jar directly
+
 #### 1.1.5
 **July 20, 2022** 1.
 1. **New** Now the commands at the beginning of give can be assigned to the corresponding player name, please see the command
