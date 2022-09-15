@@ -17,8 +17,8 @@ Step 2. Add dependencies
 ```
 <dependency>
     <groupId>com.gitee.handy-api</groupId>
-    <artifactId>PlayerTtile</artifactId>
-    <version>3.0.2</version>
+    <artifactId>PlayerTitle</artifactId>
+    <version>3.1.1</version>
 </dependency>
 ```
 
