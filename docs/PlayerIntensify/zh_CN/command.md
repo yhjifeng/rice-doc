@@ -35,7 +35,7 @@
 #### 强化券类型
 
 ```
-# 强化券类型  -> 默认概率 例如 iron_ingot 概率为百分之1
+# 强化券类型  -> 默认概率 例如 iron_ingot 是 百分之1
 # iron_ingot -> 1
 # bronze -> 5
 # bai_yin -> 10
