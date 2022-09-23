@@ -57,9 +57,9 @@
 
 clear parameter description (3.0.6+)
 ```
-Crocodile plg clear title Clear all data for the title plugin
-Crocodile plg clear player Clear all player's title data
-Crocodile plg clear buff Clear all title buff data
-Crocodile plg clear particle Clear all title particle data
-Crocodile plg clear rewar誒 Clear all title number bonus data
+/plt clear title        Clear all data for the title plugin
+/plt clear player       Clear all player's title data
+/plt clear buff         Clear all title buff data
+/plt clear particle     Clear all title particle data
+/plt clear reward       Clear all title number rewards data
 ```

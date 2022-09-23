@@ -57,9 +57,9 @@
 
 clear 參數說明(3.0.6+)
 ```
-鱷plg clear title 清理稱號插件的全部數據
-鱷plg clear player 清理全部玩家的稱號數據
-鱷plg clear buff 清理全部稱號buff數據
-鱷plg clear particle 清理全部稱號粒子數據
-鱷plg clear rewar誒 清理全部稱號數量獎勵數據
+/plt clear title 清理稱號插件的全部數據
+/plt clear player 清理全部玩家的稱號數據
+/plt clear buff 清理全部稱號buff數據
+/plt clear particle 清理全部稱號粒子數據
+/plt clear reward 清理全部稱號數量獎勵數據
 ```

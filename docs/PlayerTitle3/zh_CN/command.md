@@ -57,9 +57,9 @@
 
 clear 参数说明(3.0.6+)
 ```
-/plg clear title 清理称号插件的全部数据
-/plg clear player 清理全部玩家的称号数据
-/plg clear buff 清理全部称号buff数据
-/plg clear particle 清理全部称号粒子数据
-/plg clear reward 清理全部称号数量奖励数据
+/plt clear title 清理称号插件的全部数据
+/plt clear player 清理全部玩家的称号数据
+/plt clear buff 清理全部称号buff数据
+/plt clear particle 清理全部称号粒子数据
+/plt clear reward 清理全部称号数量奖励数据
 ```
