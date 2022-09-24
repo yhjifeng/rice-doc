@@ -6,6 +6,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 3.1.2
+**24 September 2022**
+1. **New** title description support for papi variable parsing
+
+#### 3.1.2 update of the little helper
+Compared to 3.1.1 version just replace the jar directly
+
 #### 3.1.1
 **20 August 2022**
 1. **New** Add keyword blacklist to custom title
