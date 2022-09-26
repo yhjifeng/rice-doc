@@ -9,3 +9,4 @@
 * [**PlayerRewards**](PlayerRewards/zh_CN/)
 * [**PlayerTop**](PlayerTop/zh_CN/)
 * [**PlayerWarp**](PlayerWarp/zh_CN/)
+* [**MonsterPlus**](MonsterPlus/zh_CN/)
