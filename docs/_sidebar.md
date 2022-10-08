@@ -10,3 +10,4 @@
 * [**PlayerTop**](PlayerTop/zh_CN/)
 * [**PlayerWarp**](PlayerWarp/zh_CN/)
 * [**MonsterPlus**](MonsterPlus/zh_CN/)
+* [**PlayerMenu**](PlayerMenu/zh_CN/)
