@@ -1,17 +1,14 @@
 ## Example
-
 Description:
-
 ```
 The logic of this plugin is:
-1. first have a mission goal and mission reward
+1. first have a mission objective and a mission reward
 2. then multiple quest objectives and quest rewards are combined to create a quest
-3. the task is now divided into two categories, a npc task, a daily task (1.6.0 +)
-4. note, in order to be compatible with rpg items, so please be sure to keep the durability of the handheld items for full, otherwise there will be synthesized items but the task did not +1 problem, that is because the durability did not match the
+3. the quests are now divided into two categories, one for npc and one for daily quests (1.6.0+)
+4. note, in order to be compatible with rpg items, please make sure to keep the durability of the item you are holding full, otherwise you will have the problem of synthesizing the item but the quest is not +1, because the durability is not matched.
 ```
-
-Suppose we want to create a task
-Task name: &f[&eNewbie task&f]
+Suppose we want to create a quest
+Mission Name: Newbie Mission
 
 Requirement 1: Synthesize 3 diamond blocks
 Requirement 2: Dig 10 diamond mines
@@ -19,7 +16,7 @@ Requirement 2: Dig 10 diamond mines
 Reward 1: 1 diamond helmet
 Reward 2: 100 gold coins
 
-Step 1. New: Mission Objective
+Step 1. New: Mission Objectives
 ```
 Main handheld diamond block input
 /plk addDemand craftItem 3
@@ -42,18 +39,17 @@ Step 3. Add a daily task
 
 Step 3. Add new NPC quests (1.6.0+)
 ```
-/plk create &f[&e newbie quest&f] npc
+/plk create &f[&eNewbieQuest&f] npc
 ```
 
 Special reminder:
 ```
-The first time you create a task /plk open will not have, you need /plk gettoday into get today's task
-After that, the daily tasks will be refreshed automatically at 00:00 every day (npc tasks will not be refreshed)
+The first time you create a quest, it won't be available in /plk open, you need /plk gettoday to get today's quests.
+After that the daily quests will be refreshed at 00:00 every day (npc quests will not be refreshed)
 ```
 
-So a task is completed, the above task objectives and task rewards can be infinitely reused as long as they are created.
+This will complete a quest, and the above quest objectives and rewards can be reused indefinitely once they are created.
 ## Screenshot description
-
 ![4oeBcj.png](https://z3.ax1x.com/2021/09/30/4oeBcj.png)
 ![4oeDjs.png](https://z3.ax1x.com/2021/09/30/4oeDjs.png)
 ![4oe03Q.png](https://z3.ax1x.com/2021/09/30/4oe03Q.png)
