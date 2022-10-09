@@ -4,38 +4,38 @@
 
 ##### 很多下面涉及都类型不知道的 低版本请使用tab提醒,1.12以上会自动提醒
 
-| 权限                                  | 用途        | 默认拥有者  |
-|-------------------------------------|-----------|--------|
-| playerIntensify.reload              | 重载插件      | op     |
-| playerIntensify.giveRyanCokes       | 获取强化石     | op     |
-| playerIntensify.giveEnchantedCokes  | 获取高级强化石   | op     |
-| playerIntensify.giveProtectionCard  | 获取强化保护券   | op     |
-| playerIntensify.probability         | 测试强化率     | op     |
-| playerIntensify.createHd            | 创建强化排行全息图 | op     |
-| playerIntensify.giveSecretMedicines | 获取强化秘药    | op     |
-| playerIntensify.up                  | 提升强化等级    | op     |
-| playerIntensify.adminUp             | 强行设置强化等级  | op     |
-| playerIntensify.giveIntensifyCard   | 获取强化券     | op     |
+|                 权限                  |     用途     | 默认拥有者 |
+|:-----------------------------------:|:----------:|:-----:|
+|       playerIntensify.reload        |    重载插件    |  op   |
+|    playerIntensify.giveRyanCokes    |   获取强化石    |  op   |
+| playerIntensify.giveEnchantedCokes  |  获取高级强化石   |  op   |
+| playerIntensify.giveProtectionCard  |  获取强化保护券   |  op   |
+|     playerIntensify.probability     |   测试强化率    |  op   |
+|      playerIntensify.createHd       | 创建强化排行全息图  |  op   |
+| playerIntensify.giveSecretMedicines | 获取强化概率加成道具 |  op   |
+|         playerIntensify.up          |  指令提升强化等级  |  op   |
+|       playerIntensify.adminUp       |  强行设置强化等级  |  op   |
+|  playerIntensify.giveIntensifyCard  |   获取强化券    |  op   |
 
 ## 指令:
 
-| 指令                                          | 用途             |
-|---------------------------------------------|----------------|
-| /plis reload                                | 重载插件           |
-| /plis giveRyanCokes [数量] (名称)               | 给玩家指定数量强化石     |
-| /plis giveEnchantedCokes [数量] (名称)          | 给玩家指定数量高级强化石   |
-| /plis giveProtectionCard [数量] (名称)          | 给玩家指定数量强化保护券   |
-| /plis probability  [等级]                     | 测试当前等级的强化率     |
-| /plis createHd                              | 创建全息图排行        |
-| /plis giveSecretMedicines [数量] (名称)         | 获取强化秘药         |
-| /plis up                                    | 提升强化等级         |
-| /plis adminUp                               | 管理设置强化等级       |
-| /plis giveIntensifyCard [类型] [等级] [数量] (名称) | 获取强化券          |
+|                     指令                      |      用途      |
+|:-------------------------------------------:|:------------:|
+|                /plis reload                 |     重载插件     |
+|        /plis giveRyanCokes [数量] (名称)        |  给玩家指定数量强化石  |
+|     /plis giveEnchantedCokes [数量] (名称)      | 给玩家指定数量高级强化石 |
+|     /plis giveProtectionCard [数量] (名称)      | 给玩家指定数量强化保护券 |
+|           /plis probability [等级]            |  测试当前等级的强化率  |
+|               /plis createHd                |   创建全息图排行    |
+|     /plis giveSecretMedicines [数量] (名称)     |  获取强化概率加成道具  |
+|                  /plis up                   |    提升强化等级    |
+|                /plis adminUp                |   管理设置强化等级   |
+| /plis giveIntensifyCard [类型] [等级] [数量] (名称) |    获取强化券     |
 
-#### 强化券类型
+### 强化券类型
 
 ```
-# 强化券类型  -> 例如 iron_ingot 是 百分之1
+# 强化券类型  -> 例如 iron_ingot 是 百分之1的概率
 # iron_ingot -> 1
 # bronze -> 5
 # bai_yin -> 10
