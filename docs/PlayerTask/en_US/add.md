@@ -1,54 +1,55 @@
-## 例子
-说明:
+## Example
+Description:
 ```
-本插件的逻辑是:
-1. 首先有了任务目标和任务奖励
-2. 然后将多个任务目标和任务奖励组合起来创建出一个任务
-3. 任务现在分为俩类,一种npc任务,一种每日任务(1.6.0+)
-4. 注意,为了兼容rpg物品,所以请一定要保持手持物品的耐久为满,不然会出现合成了物品但是却任务没+1的问题,那是因为耐久没匹配到
+The logic of this plugin is:
+1. first have a mission objective and a mission reward
+2. then multiple quest objectives and quest rewards are combined to create a quest
+3. the quests are now divided into two categories, one for npc and one for daily quests (1.6.0+)
+4. note, in order to be compatible with rpg items, please make sure to keep the durability of the item you are holding full, otherwise you will have the problem of synthesizing the item but the quest is not +1, because the durability is not matched.
 ```
-假设我们要创建一个任务
-任务名称: &f[&e新手任务&f]
+Suppose we want to create a quest
+Mission Name: Newbie Mission
 
-要求1: 合成 3个钻石块
-要求2: 挖掘10个钻石矿
+Requirement 1: Synthesize 3 diamond blocks
+Requirement 2: Dig 10 diamond mines
 
-奖励1: 1个钻石头盔
-奖励2: 100金币
+Reward 1: 1 diamond helmet
+Reward 2: 100 gold coins
 
-步骤一. 新增: 任务目标
+Step 1. New: Mission Objectives
 ```
-主手持钻石块输入
+Main handheld diamond block input
 /plk addDemand craftItem 3
-主手持钻石矿输入
+The main hand is holding a diamond mine.
 /plk addDemand blockBreak 10
 ```
-步骤二. 新增: 任务奖励
+
+Step 2. New: Mission Reward
 ```
-主手持钻石头盔输入
+The master holds the diamond helmet and enters
 /plk addReward itemStack 1
-直接输入
+Type directly into
 /plk addReward vault 100
 ```
 
-步骤三. 新增每日任务
+Step 3. Add a daily task
 ```
-/plk create &f[&e新手任务&f] everyday
-```
-
-步骤三. 新增NPC任务(1.6.0+)
-```
-/plk create &f[&e新手任务&f] npc
+/plk create newbie task everyday
 ```
 
-特别提醒:
+Step 3. Add new NPC quests (1.6.0+)
 ```
-第一次创建好任务后/plk open中不会有,需要/plk gettoday进获取今日任务
-之后每天00:00会自动刷新每日任务(npc任务不会刷新)
+/plk create NewbieQuest npc
 ```
 
-这样一个任务就完成了,上面的任务目标和任务奖励只要创建了就可以无限的复用.
-## 截图说明
+Special reminder:
+```
+The first time you create a quest, it won't be available in /plk open, you need /plk gettoday to get today's quests.
+After that the daily quests will be refreshed at 00:00 every day (npc quests will not be refreshed)
+```
+
+This will complete a quest, and the above quest objectives and rewards can be reused indefinitely once they are created.
+## Screenshot description
 ![4oeBcj.png](https://z3.ax1x.com/2021/09/30/4oeBcj.png)
 ![4oeDjs.png](https://z3.ax1x.com/2021/09/30/4oeDjs.png)
 ![4oe03Q.png](https://z3.ax1x.com/2021/09/30/4oe03Q.png)
