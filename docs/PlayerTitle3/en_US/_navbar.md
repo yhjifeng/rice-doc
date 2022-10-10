@@ -1,4 +1,4 @@
-* [2.x version](PlayerTitle/en_US/)
+* [2.x version](PlayerTitle/zh_CN/)
 
 * **Translations**
   * [中文简体](PlayerTitle3/zh_CN/)
