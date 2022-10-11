@@ -60,8 +60,7 @@ HolographicDisplays hologram plugin
 McMmo Plugin    
 [SpigotMc](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/)
 
-## IV. Plugin usage statistics
+## IV. [Plugin usage statistics ](https://bstats.org/plugin/bukkit/PlayerTop/15377)
 
 ![](https://bstats.org/signatures/bukkit/PlayerTop.svg)
 
-[点击查看bstats插件统计](https://bstats.org/plugin/bukkit/PlayerTop/15377)

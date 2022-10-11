@@ -1,7 +1,7 @@
 # PlayerTask
 * [首页](PlayerTask/zh_CN/README)
-* [**命令和权限**](PlayerTask/zh_CN/command)
-* [**PlaceholderAPI变量大全**](PlayerTask/zh_CN/papi)
+* [**命令权限**](PlayerTask/zh_CN/command)
+* [**变量支持**](PlayerTask/zh_CN/papi)
 * [**新增任务**](PlayerTask/zh_CN/add)
 * [**击杀任务**](PlayerTask/zh_CN/kill)
 * [**NPC任务**](PlayerTask/zh_CN/npc)

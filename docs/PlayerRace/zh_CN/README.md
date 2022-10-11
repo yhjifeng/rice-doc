@@ -20,7 +20,5 @@ gitee下载: [直接下载](https://gitee.com/handy-git/PlayerRace/releases "直
 交流群1064982471: [点击加入](https://jq.qq.com/?_wv=1027&k=5sxTf8u "点击加入")  
 开源地址: [gitee](https://gitee.com/handy-git/PlayerRace "gitee")   
 
-## 三、插件使用统计
+## 三、[使用统计](https://bstats.org/plugin/bukkit/PlayerRace/8605)
 ![](https://bstats.org/signatures/bukkit/PlayerRace.svg)
-
-[点击查看bstats插件统计](https://bstats.org/plugin/bukkit/PlayerRace/8605 "点击查看bstats插件统计")

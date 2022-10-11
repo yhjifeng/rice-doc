@@ -1,7 +1,7 @@
 # PlayerRace
 * [首页](PlayerRace/zh_CN/README)
-* [**命令和权限**](PlayerRace/zh_CN/command)
-* [**PlaceholderAPI变量大全**](PlayerRace/zh_CN/papi)
+* [**命令权限**](PlayerRace/zh_CN/command)
+* [**变量支持**](PlayerRace/zh_CN/papi)
 * [**吸血鬼**](PlayerRace/zh_CN/vampire)
 * [**狼人**](PlayerRace/zh_CN/werwolf)
 * [**食尸鬼**](PlayerRace/zh_CN/ghoul)

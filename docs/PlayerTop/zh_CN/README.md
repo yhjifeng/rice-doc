@@ -65,8 +65,7 @@ HolographicDisplays 全息图插件
 McMmo 插件    
 [SpigotMc](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/)
 
-## 四、插件使用统计
+## 四、[使用统计](https://bstats.org/plugin/bukkit/PlayerTop/15377)
 
 ![](https://bstats.org/signatures/bukkit/PlayerTop.svg)
 
-[点击查看bstats插件统计](https://bstats.org/plugin/bukkit/PlayerTop/15377)

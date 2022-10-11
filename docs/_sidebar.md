@@ -11,3 +11,4 @@
 * [**PlayerWarp**](PlayerWarp/zh_CN/)
 * [**MonsterPlus**](MonsterPlus/zh_CN/)
 * [**PlayerMenu**](PlayerMenu/zh_CN/)
+* [**PlayerReturn**](PlayerReturn/zh_CN/)

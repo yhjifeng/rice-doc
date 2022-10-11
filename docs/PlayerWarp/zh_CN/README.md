@@ -37,8 +37,7 @@ PlayerPoints 点券插件 需3.0.0+
 [SpigotMc](https://www.spigotmc.org/resources/playerpoints.80745/) &ensp;
 [MCBBS](https://www.mcbbs.net/thread-1296992-1-1.html)
 
-## 四、插件使用统计
+## 四、[使用统计](https://bstats.org/plugin/bukkit/PlayerWarp/15977)
 
 ![](https://bstats.org/signatures/bukkit/PlayerWarp.svg)
 
-[点击查看bstats插件统计](https://bstats.org/plugin/bukkit/PlayerWarp/15977)

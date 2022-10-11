@@ -1,6 +1,6 @@
 # PlayerMenu
 * [首页](PlayerMenu/zh_CN/README)
-* [**命令和权限**](PlayerMenu/zh_CN/command)
+* [**命令权限**](PlayerMenu/zh_CN/command)
 * [**菜单示例**](PlayerMenu/zh_CN/example)
 * [**图片展示**](PlayerMenu/zh_CN/img)
 * [**视频介绍**](PlayerMenu/zh_CN/mp4)

@@ -34,8 +34,7 @@
 插件原帖: [SpigotMc](https://www.spigotmc.org/resources/96554/)  
 交流群1064982471: [点击加入](https://jq.qq.com/?_wv=1027&k=5sxTf8u)  
 
-## 三、插件使用统计
+## 三、[使用统计](https://bstats.org/plugin/bukkit/PlayerTask/8144)
 
 ![](https://bstats.org/signatures/bukkit/PlayerTask.svg)
 
-[点击查看bstats插件统计](https://bstats.org/plugin/bukkit/PlayerTask/8144)

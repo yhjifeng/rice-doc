@@ -1,6 +1,6 @@
 # MonsterPlus
 * [首页](MonsterPlus/zh_CN/README)
-* [**命令和权限**](MonsterPlus/zh_CN/command)
+* [**命令权限**](MonsterPlus/zh_CN/command)
 * [**怪物系统**](MonsterPlus/zh_CN/spawn)
 * [**物品系统**](MonsterPlus/zh_CN/item)
 * [**技能系统**](MonsterPlus/zh_CN/skill)

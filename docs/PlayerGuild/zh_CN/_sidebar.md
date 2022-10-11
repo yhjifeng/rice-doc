@@ -1,7 +1,7 @@
 # PlayerGuild
 * [首页](PlayerGuild/zh_CN/README)
-* [**命令和权限**](PlayerGuild/zh_CN/command)
-* [**PlaceholderAPI变量大全**](PlayerGuild/zh_CN/papi)
+* [**命令权限**](PlayerGuild/zh_CN/command)
+* [**变量支持**](PlayerGuild/zh_CN/papi)
 * [**常见问题**](PlayerGuild/zh_CN/problem)
 * [**图片展示**](PlayerGuild/zh_CN/img)
 * [**视频介绍**](PlayerGuild/zh_CN/mp4)

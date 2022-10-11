@@ -20,7 +20,5 @@
 插件发布帖：[MCBBS](https://www.mcbbs.net/thread-1198166-1-1.html "MCBBS")  
 交流群1064982471: [点击加入](https://jq.qq.com/?_wv=1027&k=5sxTf8u "点击加入")
 
-## 三、插件使用统计
+## 三、[使用统计](https://bstats.org/plugin/bukkit/PlayerIntensify/10303)
 ![](https://bstats.org/signatures/bukkit/PlayerIntensify.svg)
-
-[点击查看bstats插件统计](https://bstats.org/plugin/bukkit/PlayerIntensify/10303 "点击查看bstats插件统计")
