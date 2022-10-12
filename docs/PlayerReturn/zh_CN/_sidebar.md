@@ -3,5 +3,7 @@
 * [**命令权限**](PlayerReturn/zh_CN/command)
 * [**变量支持**](PlayerReturn/zh_CN/papi)
 * [**视频介绍**](PlayerReturn/zh_CN/mp4)
+* [**常见问题**](PlayerReturn/zh_CN/problem)
 * [**更新记录**](PlayerReturn/zh_CN/log)
+* [**使用条款**](PlayerReturn/zh_CN/note)
 * [**我的作品**](PlayerReturn/zh_CN/other)
