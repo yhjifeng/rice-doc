@@ -19,6 +19,10 @@
 **玩家回归** **PlayerReturn** **付费插件**   
 [WIKI](PlayerReturn/zh_CN/)
 
+ip2region 玩家归属地 开源付费  
+[MCBBS](https://www.mcbbs.net/thread-1052788-1-1.html)&ensp;
+[爱发电](https://afdian.net/item?plan_id=c1bf175c4a3111ed94bb52540025c377)
+
 PlayerTop 排行榜插件  
 [MCBBS](https://www.mcbbs.net/thread-1351130-1-1.html)&ensp;
 [爱发电](https://afdian.net/item?plan_id=3ccf4a54e3f611ec984c52540025c377)&ensp;

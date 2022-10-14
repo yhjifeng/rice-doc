@@ -6,6 +6,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 3.1.3
+**October 14, 2022**
+1. **New** title support for papi variable parsing
+2. **Optimized** mysql8+ for better support
+
+#### 3.1.3 update for small helpers
+Compare to 3.1.2 version Just replace the jar directly
+
 #### 3.1.2
 **24 September 2022**
 1. **New** title description support for papi variable parsing
