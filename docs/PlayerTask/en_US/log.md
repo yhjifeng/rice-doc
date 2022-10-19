@@ -10,10 +10,11 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.14.1
 **10 October 2022**
 1. **New** More APIs
 
-#### 1.14.0 update small helper
+#### 1.14.1 update small helper
 Compare to version 1.13.9 Just replace the jar directly
 
 #### 1.13.9
