@@ -6,6 +6,13 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.1.7
+**October 24, 2022**
+1. **New** Add all defensive gear can be strengthened, add crossbow can be strengthened, add turtle hat can be strengthened
+
+#### 1.1.7 update small assistant
+- Configuration file compared to the 1.1.6 version without any changes, directly replace the jar can be
+
 #### 1.1.6
 **10 September 2022**
 1. **Fix** bug that exceptionally identifies items from other plugins as reinforcement cards
