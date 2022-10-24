@@ -64,3 +64,29 @@
 ```
 /plt title add activity 活動稱號 0 0 true 這是個活動稱號,只能op給予
 ```
+
+### 如何直接給玩家一個稱號
+
+```
+1. 新增一個稱號並給玩家30天(會增加一個隱藏稱號)
+/plt player addTitle xiongliu &e新增一個給玩家的稱號 30
+
+2. 設置一個已有的稱號ID為的1的並給玩家30天(是設置已有稱號)
+/plt player setTitle xiongliu 1 30
+```
+
+### 如何在yml裏配置稱號後導入
+```
+1. 先配置import.yml內容
+
+2. 執行指令/plt title import即可導入稱號
+```
+
+### 如何把現有的稱號導出成yml文件(3.1.4+)
+```
+1. 執行指令/plt title export
+
+2. 現有的稱號都導出到export.yml中了
+
+註意: 稱號的前後綴也會一起導出! 
+```

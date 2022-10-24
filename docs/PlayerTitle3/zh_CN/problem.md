@@ -115,3 +115,30 @@ isTab 显示tab称号和头顶称号这个小功能跟计分板插件冲突
 ```
 为了更好提高性能,称号名称是有缓存的,玩家重进就会消失
 ```
+
+#### 16. 如何直接给玩家一个称号
+
+```
+1. 新增一个称号并给玩家30天(会增加一个隐藏称号)
+/plt player addTitle xiongliu &e新增一个给玩家的称号 30
+
+2. 设置一个已有的称号ID为的1的并给玩家30天(是设置已有称号)
+/plt player setTitle xiongliu 1 30
+```
+
+#### 17. 如何变更权限称号
+
+```
+/plt view shop 中删除现有的,然后重新添加一个即可
+```
+
+#### 18. mysql和sqlite数据如何互相转换?
+
+```
+使用sqlite的情况下,配置对mysql的链接信息
+执行指令/plt convert MySQL 重启即可
+
+使用mysql的情况下
+执行指令 /plt convert SQLite 重启即可
+```
+

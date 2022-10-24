@@ -6,6 +6,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 3.1.4
+**October 24, 2022**
+1. **New** New command to export title to yml /plt title export
+2. **Optimization** sqlite storage optimization (if low version encounter error please even feedback)
+
+#### 3.1.4 update small assistant
+Compared to 3.1.3 version directly replace the jar can be
+
 #### 3.1.3
 **October 14, 2022**
 1. **New** title support for papi variable parsing
