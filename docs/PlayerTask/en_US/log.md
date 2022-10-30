@@ -10,6 +10,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add group feedback
 
 ------------
+#### 1.14.2
+**October 30, 2022**
+1. **Optimization** sqlite storage optimization (fix some low version core errors)
+
+#### 1.14.2 update small assistant
+Compared to 1.14.1 version directly replace the jar can be
+
 #### 1.14.1
 **10 October 2022**
 1. **New** More APIs

@@ -6,6 +6,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 3.1.5
+**October 30, 2022**
+1. **Optimization** sqlite storage optimization (fix some low version core errors)
+
+#### 3.1.5 update small assistant
+Compared to 3.1.4 version directly replace the jar can be
+
 #### 3.1.4
 **October 24, 2022**
 1. **New** New command to export title to yml /plt title export

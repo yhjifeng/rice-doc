@@ -7,6 +7,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.1.0
+**October 30, 2022**
+1. **optimization** sqlite storage optimization (fix some low version core error reporting)
+
+#### 1.1.0 update small assistant
+Compare to version 1.0.9 Directly replace the jar
+
 #### 1.0.9
 **October 25, 2022**
 1. **New** hologram compatible with CMI
