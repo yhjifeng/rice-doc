@@ -6,6 +6,15 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.1.8
+**November 02, 2022**
+1. **Optimization** Enhanced message color code handling in special cases
+2. **Optimization** now only determine the material name and lore, not the nbt, when determining whether this plugin item
+3. **optimized** crossbow can be strengthened in the config can be configured (default can)
+
+#### 1.1.8 update small assistant
+- Configuration file compared to the 1.1.7 version without any changes, directly replace the jar can be
+
 #### 1.1.7
 **October 24, 2022**
 1. **New** Add all defensive gear can be strengthened, add crossbow can be strengthened, add turtle hat can be strengthened
