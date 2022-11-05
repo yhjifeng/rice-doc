@@ -46,4 +46,16 @@
 | mcMmoTaming        | McMmo馴獸等級   |
 | mcMmoUnarmed       | McMmo格鬥等級   |
 | mcMmoWoodcutting   | McMmo伐木等級   |
+| jobsBrewer         | Jobs 釀造師    |
+| jobsBuilder        | Jobs 建築家    |
+| jobsCrafter        | Jobs 合成者    |
+| jobsDigger         | Jobs 挖掘者    |
+| jobsEnchanter      | Jobs 附魔師    |
+| jobsExplorer       | Jobs 探索者    |
+| jobsFarmer         | Jobs 農場主    |
+| jobsFisherman      | Jobs 漁夫     |
+| jobsHunter         | Jobs 獵人     |
+| jobsMiner          | Jobs 礦工     |
+| jobsWeaponSmith    | Jobs 武器商    |
+| jobsWoodcutter     | Jobs 伐木工    |
 

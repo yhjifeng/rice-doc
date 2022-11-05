@@ -7,6 +7,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.1.1
+**November 05, 2022**
+1. **New** support for jobs careers
+
+#### 1.1.1 update small assistant
+Compare to version 1.1.0 Directly replace the jar
+
 #### 1.1.0
 **October 30, 2022**
 1. **optimization** sqlite storage optimization (fix some low version core error reporting)

@@ -22,28 +22,39 @@
 
 ## Currently supported types
 
-| type              | type explanation           |
-|-------------------|----------------------------|
-| vault             | gold                       |
-| playerPoints      | pointCoin                  |
-| playerTitleCoin   | Title Coins                |
-| playerTitleNumber | number of titles           |
-| playerTaskCoin    | taskCoin                   | 
-| playerGuildMoney  | Player Guild Contributions | 
-| mcMmo             | McMmo Total Battle Rating  |
-| mcMmoAcrobatics   | McMmo Acrobatic Level      |
-| mcMmoAlchemy      | McMmo Alchemy Levels       |
-| mcMmoArchery      | McMmoArchery Levels        |
-| mcMmoAxes         | McMmo Axe Levels           |
-| mcMmoExcavation   | McMmo Digging              | 
-| mcMmoFishing      | McMmo Fishing Rank         |
-| mcMmoHerbalism    | mcMmoHerbalism             | 
-| mcMmoMining       | McMmo Mining Rating        |
-| mcMmoRepair       | mcMmoRepair                | 
-| mcMmoSalvage      | McMmoDecomposition         | 
-| mcMmoSmelting     | mcMmoSmelting              | 
-| mcMmoSwords       | McMmo Sword Leveling       |
-| mcMmoTaming       | McMmoTaming                | 
-| mcMmoUnarmed      | mcMmoFighting              | 
-| mcMmoWoodcutting  | McMmoLumbering             | 
-
+| type                | type explanation           |
+|---------------------|----------------------------|
+| vault               | gold                       |
+| playerPoints        | pointCoin                  |
+| playerTitleCoin     | Title Coins                |
+| playerTitleNumber   | number of titles           |
+| playerTaskCoin      | taskCoin                   | 
+| playerGuildMoney    | Player Guild Contributions | 
+| mcMmo               | McMmo Total Battle Rating  |
+| mcMmoAcrobatics     | McMmo Acrobatic Level      |
+| mcMmoAlchemy        | McMmo Alchemy Levels       |
+| mcMmoArchery        | McMmoArchery Levels        |
+| mcMmoAxes           | McMmo Axe Levels           |
+| mcMmoExcavation     | McMmo Digging              | 
+| mcMmoFishing        | McMmo Fishing Rank         |
+| mcMmoHerbalism      | mcMmoHerbalism             | 
+| mcMmoMining         | McMmo Mining Rating        |
+| mcMmoRepair         | mcMmoRepair                | 
+| mcMmoSalvage        | McMmoDecomposition         | 
+| mcMmoSmelting       | mcMmoSmelting              | 
+| mcMmoSwords         | McMmo Sword Leveling       |
+| mcMmoTaming         | McMmoTaming                | 
+| mcMmoUnarmed        | mcMmoFighting              | 
+| mcMmoWoodcutting    | McMmoLumbering             | 
+| jobsBrewer          | Jobs Brewer                |
+| jobsBuilder         | Jobs Builder               |
+| jobsCrafter         | Jobs Crafter               |
+| jobsDigger          | Jobs Digger                |
+| jobsEnchanter       | Jobs Enchanter             |
+| jobsExplorer        | Jobs Explorer              |
+| jobsFarmer          | Jobs Farmer                |
+| jobsFisherman       | Jobs Fisherman             |
+| jobsHunter          | Jobs Hunter                |
+| jobsMiner           | Jobs Miner                 |
+| jobsWeaponSmith     | Jobs Weaponsmith           |
+| jobsWoodcutter      | Jobs Woodcutter            |
