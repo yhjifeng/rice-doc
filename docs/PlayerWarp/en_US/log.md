@@ -9,7 +9,7 @@
 ------------
 #### 1.1.1
 **November 14, 2022**
-1. **payroll** floor access amount maximum can be set
+1. **New** floor access amount maximum can be set
 
 #### 1.1.1 update small assistant
 Compared to version 1.1.0 config.yml added can be manually added or regenerated
