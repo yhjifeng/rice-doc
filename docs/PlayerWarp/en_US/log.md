@@ -7,6 +7,17 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.1.1
+**November 14, 2022**
+1. **payroll** floor access amount maximum can be set
+
+#### 1.1.1 update small assistant
+Compared to version 1.1.0 config.yml added can be manually added or regenerated
+```
+# The maximum access price that a player can set
+maxPrice: 10000
+```
+
 #### 1.1.0
 **28 August 2022**
 1. **FIXED** Exception for group service to get landmark world names
