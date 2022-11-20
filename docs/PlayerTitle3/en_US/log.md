@@ -6,6 +6,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 3.1.6
+**November 20, 2022**
+1. **optimize** the click in gui to add 200 ms delay
+
+#### 3.1.6 update small assistant
+Compared to 3.1.5 version just replace the jar directly
+
 #### 3.1.5
 **October 30, 2022**
 1. **Optimization** sqlite storage optimization (fix some low version core errors)
