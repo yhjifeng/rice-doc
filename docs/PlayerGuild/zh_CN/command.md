@@ -27,13 +27,13 @@
 |      playerGuild.take      |      减少贡献(1.0.2+)       |   op   |
 |      playerGuild.set       |      设置贡献(1.0.2+)       |   op   |
 |    playerGuild.refresh     |       刷新(1.0.3+)        |   op   |
-|    playerGuild.dissolve    |       刷新(1.2.0+)        |   op   |
+|    playerGuild.dissolve    |     强制解散公会(1.2.0+)      |   op   |
 |  playerGuild.create.color  |   公会名可使用颜色代码(1.2.0+)    |   op   |
 |     playerGuild.signIn     |    使用指令后台签到(1.2.7+)     |   op   |
 |      playerGuild.look      | 使用指令查看当前是否开启公会战(1.2.7+) |   op   |
 |     playerGuild.start      |  使用指令立即开启赛季公会战(1.3.2+)  |   op   |
 |    playerGuild.convert     |      转换数据源(1.3.3+)      | op     |
-|       playerGuild.me       | 打开我的公会页面(1.4.7+)        |  true  |
+|       playerGuild.me       |    打开我的公会页面(1.4.7+)     |  true  |
 | playerGuild.setDefaultLogo |     给公会logo(1.5.0+)     |   op   |
 |    playerGuild.giveLogo    |   设置公会默认logo(1.5.0+)    |   op   |
 
