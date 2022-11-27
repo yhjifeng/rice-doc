@@ -7,6 +7,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.1.2
+**November 27, 2022**
+1. **Fix** jobs professions can not be properly obtained under the Chineseization
+2. **Epic Update** Support full papi variables to generate leaderboards
+
+#### 1.1.2 update small assistant
+Compared to 1.1.1 version directly replace the jar can be
+
 #### 1.1.1
 **November 05, 2022**
 1. **New** support for jobs careers

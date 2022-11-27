@@ -20,3 +20,10 @@ The initial level is in accordance with the current blue attributes of the equip
 This plug-in just released does not support ap, sx such plug-ins
 Currently only for the original server
 ```
+#### 4. Will the failure to strengthen explode?
+````.
+1. failure to strengthen 8 will fall to 3,4
+2. failure to strengthen 9 will fall to 2,3
+3. failure to strengthen 10 will fall to 1,2
+4. 10 + failure to strengthen the equipment will disappear
+```

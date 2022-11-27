@@ -6,6 +6,14 @@ None
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.1.9
+**November 27, 2022**
+1. **OPTIMIZED** Exception alert for creation mode unfortifyable
+2. **Fix** Crossbow can now be strengthened to 12+
+
+#### 1.1.9 update small helper
+- The configuration file has no change compared to 1.1.8 version, just replace the jar directly
+
 #### 1.1.8
 **November 02, 2022**
 1. **Optimization** Enhanced message color code handling in special cases

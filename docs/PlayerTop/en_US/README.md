@@ -20,6 +20,8 @@ This plugin was developed independently by me (MCBBS Forum ID:**ヽrice**).
    * Mission Coins
    * Guild contribution and guild battle kills OR deaths
    * McMmo various skill levels
+   * Jobs by career level
+4. 支持基於任意玩家的papi變量來生成排行榜(1.1.2+)
 
 ## III. Plug-in pre-requisites (all non-required)
 
