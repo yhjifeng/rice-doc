@@ -7,6 +7,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+
+#### 1.1.4
+**December 03, 2022**
+1. **Fix** the problem with papi ranking
+
+#### 1.1.4 update small assistant
+Compare to version 1.1.2 Directly replace the jar
+
 #### 1.1.2
 **November 27, 2022**
 1. **Fix** jobs professions can not be properly obtained under the Chineseization
