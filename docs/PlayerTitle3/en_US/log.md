@@ -6,6 +6,14 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 3.1.7
+**December 09, 2022**
+1. **Optimization** The name card is also compatible with the material package image name
+2. **Optimization** Optimize some codes
+
+#### 3.1.7 update small assistant
+Compared to 3.1.6 version directly replace the jar can be
+
 #### 3.1.6
 **November 20, 2022**
 1. **optimize** the click in gui to add 200 ms delay
