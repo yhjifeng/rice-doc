@@ -6,19 +6,21 @@
 
 ## 权限
 
-| 权限                | 用途      | 默认拥有者 |
-|-------------------|---------|-------|
-| PlayerWarp.reload | 重载插件    | op    |
-| PlayerWarp.open   | 打开地标gui | true  |
-| PlayerWarp.clear  | 清理地标    | op    |
+| 权限                | 用途           | 默认拥有者 |
+|-------------------|--------------|-------|
+| PlayerWarp.reload | 重载插件         | op    |
+| PlayerWarp.open   | 打开地标gui      | true  |
+| PlayerWarp.clear  | 清理地标         | op    |
+| PlayerWarp.view   | 管理地标(1.1.2+) | op    |
 
 ## 指令:
 
-| 指令                      | 用途      |
-|-------------------------|---------|
-| /plw reload             | 重载配置    |
-| /plw open               | 打开地标gui |
-| /plw clear (服务器名) (世界名) | 清理地标    |
+| 指令                      | 用途            |
+|-------------------------|---------------|
+| /plw reload             | 重载配置          |
+| /plw open               | 打开地标gui       |
+| /plw clear (服务器名) (世界名) | 清理地标          |
+| /plw view               |  管理地标(1.1.2+) |
 
 |[]为必填参数;()为非必填参数|
 

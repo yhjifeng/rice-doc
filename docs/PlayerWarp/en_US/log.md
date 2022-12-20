@@ -7,6 +7,13 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 1.1.2
+**December 20, 2022**
+1. **New** /plw view Manage Delete Landmark
+
+#### 1.1.2 update small assistant
+Compared to version 1.1.1, you can replace the jar directly.
+
 #### 1.1.1
 **November 14, 2022**
 1. **New** The maximum amount of landmark visits can be set
