@@ -6,6 +6,15 @@
 #### If you encounter errors, or plug-in conflicts and other problems, please add the group feedback
 
 ------------
+#### 3.1.8
+**December 29, 2022**
+1. **Optimization** Subcommand is case compatible
+2. **optimization** now initially save uuid for subsequent versions
+3. **Fix** Add mmo buff error in some cases
+
+#### 3.1.8 update small helper
+Compare with 3.1.7 version, just replace the jar directly.
+
 #### 3.1.7
 **December 09, 2022**
 1. **Optimization** The name card is also compatible with the material package image name
