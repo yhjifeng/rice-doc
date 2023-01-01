@@ -1,8 +1,6 @@
 # Preface
 > PlayerTop is a simple and efficient leaderboard plugin  
-> Aegon can get it for free by joining the Rice Power Circle or you can choose to pay 6RMB to buy it directly.  
-> [LovePower Address](https://afdian.net/@PlayerTitle)
-
+> Purchase URL: [LovePower](https://afdian.net/item?plan_id=3ccf4a54e3f611ec984c52540025c377)
 
 ## I. Introduction
 > PlayerTop is a simple and efficient leaderboard plugin  
@@ -21,7 +19,7 @@ This plugin was developed independently by me (MCBBS Forum ID:**ヽrice**).
    * Guild contribution and guild battle kills OR deaths
    * McMmo various skill levels
    * Jobs by career level
-4. 支持基於任意玩家的papi變量來生成排行榜(1.1.2+)
+4. Supports generating leaderboards based on any player's papi variables(1.1.2+)
 
 ## III. Plug-in pre-requisites (all non-required)
 

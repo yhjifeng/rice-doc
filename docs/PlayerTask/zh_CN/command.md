@@ -92,3 +92,13 @@ command 命令
 
 ### 任务类型说明
 > 任务类型分为 everyday(每日任务)  npc(NPC任务) 不互通
+
+### 任务稀有度
+```
+普通任务 normal
+高级任务 advanced
+稀有任务 rare
+罕见任务 rarer
+史诗任务 epic
+神话任务 mythical
+```

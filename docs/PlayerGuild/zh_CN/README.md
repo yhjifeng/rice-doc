@@ -1,7 +1,7 @@
 # 前言
 > PlayerGuild 目前只有 **付费版**  
 > 价格: **150RMB**  购买网址 [爱发电](https://afdian.net/item?plan_id=0d1d56ae6b8111ecbbac52540025c377)   
-> 萌芽颠覆版独立出售: [点击查看萌芽版本](PlayerGuild/zh_CN/GermEngine)  
+> 萌芽颠覆版配置独立出售: [点击查看萌芽版本](PlayerGuild/zh_CN/GermEngine)  
 > 也直接联系作者购买(推荐方式) QQ: 956812056
 
 ## 一、简介
@@ -33,7 +33,7 @@
 19. 支持变量PlaceholderAPI
 20. 可在config设置变量支持essChat(默认关闭)
 21. 支持全版本自动全物品云汉化,1.13-1.17支持全汉化 ,其他版本会逐步完善
-22. 插件配置公开化[点击查看](https://github.com/handy-git/PlayerGuild)
+22. 插件在不断更新中,建议看 [**<font color=red>更新记录</font>**](PlayerGuild/zh_CN/log)了解最新动态 
 
 ## 二、相关信息
 插件原帖: [MCBBS](https://www.mcbbs.net/thread-1297813-1-1.html)  

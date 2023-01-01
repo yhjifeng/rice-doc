@@ -7,6 +7,6 @@
 > ItemsAdder介绍: [MCBBS](https://www.mcbbs.net/thread-1200632-1-1.html) &ensp;[SpigotMc](https://www.spigotmc.org/resources/73355)
 
 ### VIP套-作者: 阿金
->  售价: 10RMB 购买链接: [爱发电](https://afdian.net/item?plan_id=5f15b350520a11ed9ad352540025c377)
+>  购买链接: [爱发电](https://afdian.net/item?plan_id=5f15b350520a11ed9ad352540025c377)
 #### 图片介绍
 [![xgMplR.jpg](https://s1.ax1x.com/2022/10/22/xgMplR.jpg)](https://imgse.com/i/xgMplR)

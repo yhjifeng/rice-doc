@@ -11,4 +11,5 @@
 * [**萌芽版本**](PlayerGuild/zh_CN/GermEngine)
 * [**api**](PlayerGuild/zh_CN/api)
 * [**更新记录**](PlayerGuild/zh_CN/log)
+* [**购买须知**](PlayerGuild/zh_CN/note)
 * [**我的作品**](PlayerGuild/zh_CN/other)

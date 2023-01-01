@@ -1,8 +1,6 @@
 # 前言
 > PlayerTop 是一款简单高效的排行榜插件  
-> 爱发电加入米饭电圈可免费获取或者选择支付6RMB直接购买  
-> [爱发电地址](https://afdian.net/@PlayerTitle)
-
+> 购买网址: [爱发电](https://afdian.net/item?plan_id=3ccf4a54e3f611ec984c52540025c377)
 
 ## 一、简介
 > PlayerTop 是一款简单高效的排行榜插件  
