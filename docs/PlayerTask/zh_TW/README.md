@@ -1,8 +1,8 @@
 # 前言
 > PlayerTask 分有 **體驗版**/**付費版**  
 **體驗版** 每日隨機任務固定3個  
-**付費版** 完全無任何限製,一次購買永久生效
-那付費版該怎麽獲取? | [前往SpigotMc購買](https://www.spigotmc.org/resources/96554/)
+**付費版** 完全無任何限製,一次購買永久生效  
+購買鏈接:  [愛發電](https://afdian.net/item?plan_id=0c87e5d4589811ecaaec52540025c377)
 
 ## 一、簡介
 

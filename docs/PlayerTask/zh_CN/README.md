@@ -1,8 +1,8 @@
 # 前言
 > PlayerTask 分有 **体验版**/**付费版**  
 **体验版** 每日随机任务固定3个  
-**付费版** 完全无任何限制,一次购买永久生效
-那付费版该怎么获取? | [前往SpigotMc购买](https://www.spigotmc.org/resources/96554/)
+**付费版** 完全无任何限制,一次购买永久生效  
+购买链接:  [爱发电](https://afdian.net/item?plan_id=0c87e5d4589811ecaaec52540025c377)
 
 ## 一、简介
 
