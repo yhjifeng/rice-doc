@@ -5,7 +5,6 @@
 * [**物品系统**](MonsterPlus/zh_CN/item)
 * [**技能系统**](MonsterPlus/zh_CN/skill)
 * [**设计图系统**](MonsterPlus/zh_CN/drawings)
-* [**图片展示**](MonsterPlus/zh_CN/img)
 * [**视频介绍**](MonsterPlus/zh_CN/mp4)
 * [**更新记录**](MonsterPlus/zh_CN/log)
 * [**我的作品**](MonsterPlus/zh_CN/other)
