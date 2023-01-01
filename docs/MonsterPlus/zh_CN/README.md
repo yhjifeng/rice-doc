@@ -30,3 +30,7 @@
 ### 四.设计图系统
 1. 支持 自定义设计图合成需求
 2. 支持 全gui进行合成
+
+## 五、[使用统计](https://bstats.org/plugin/bukkit/MonsterPlus/17253)
+
+![](https://bstats.org/signatures/bukkit/MonsterPlus.svg)
