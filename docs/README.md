@@ -28,6 +28,10 @@ PlayerTop 排行榜插件 开源付费
 [爱发电](https://afdian.net/item?plan_id=3ccf4a54e3f611ec984c52540025c377)&ensp;
 [WIKI](PlayerTop/zh_CN/)
 
+怪物插件 MonsterPlus 免费插件  
+[MCBBS](https://www.mcbbs.net/thread-1412172-1-1.html) &ensp;
+[WIKI](MonsterPlus/zh_CN/)
+
 DanTiao 附属 免费插件  
 [MCBBS](https://www.mcbbs.net/thread-1052788-1-1.html)
 

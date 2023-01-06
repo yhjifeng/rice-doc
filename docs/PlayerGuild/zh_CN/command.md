@@ -88,12 +88,12 @@ view 参数说明
 
 give take set 参数说明
 ```
-[类型] 可填三种 guildMoney guildActive player （分别对应公会贡献，公会活跃，玩家贡献）
+[类型] 可填三种 guildMoney guildActive player （分别对应公会资金，公会活跃，玩家贡献）
 [名称] 公会的填公会名，玩家类型填玩家名 可用变量(取操作人) ${player} ${guildName}
 [数量] 要设置的数量
 1. 增加玩家贡献 100
 /plg give player [玩家名] 100
-2. 使用变量增加公会贡献 100
+2. 使用变量增加公会资金 100
 /plg give guildMoney ${guildName} 100
 3. 使用公会名增加公会活跃 100
 /plg give guildActive [公会名] 100
