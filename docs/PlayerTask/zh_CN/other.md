@@ -1,1 +1,1 @@
-[README.md](..%2F..%2FREADME.md ':include')
+[embed_markdown](_embed/work.md ':include')
